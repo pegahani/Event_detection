@@ -1,0 +1,829 @@
+************************['meet_1', 'meet_2', 'meet_3', 'meet_4', 'meet_5', 'meet_6', 'meet_7', 'meet_8', 'meet_10', 'meet_11', 'meet_12', 'meet_13', 'meet_14', 'meet_15', 'meet_16', 'meet_17', 'meet_18', 'meet_19', 'meet_20', 'meet_21', 'meet_22', 'meet_23', 'meet_25', 'meet_26', 'meet_27', 'meet_28', 'meet_29', 'meet_30', 'meet_31', 'meet_32', 'meet_33', 'meet_34', 'meet_35', 'meet_36', 'meet_37', 'meet_38', 'meet_39', 'meet_40', 'meet_41', 'meet_42', 'meet_43', 'meet_44', 'meet_45', 'meet_46', 'meet_47', 'meet_48', 'meet_49', 'meet_50', 'meet_51', 'meet_51b', 'meet_52', 'meet_53', 'meet_54', 'meet_55', 'meet_56', 'meet_57', 'meet_58', 'meet_59', 'meet_60', 'meet_61', 'meet_62', 'meet_63', 'meet_64', 'meet_65', 'meet_66', 'meet_67', 'meet_68', 'meet_69', 'meet_70', 'meet_71', 'meet_72', 'meet_73', 'meet_74', 'meet_75', 'meet_76', 'meet_77', 'meet_78', 'meet_79', 'meet_80', 'meet_81', 'meet_82', 'meet_83', 'meet_84', 'meet_85', 'meet_86', 'meet_87', 'meet_88', 'meet_89', 'meet_90', 'meet_91', 'meet_92', 'meet_93', 'meet_94', 'meet_95', 'meet_96', 'meet_97', 'meet_98', 'meet_99', 'meet_112', 'meet_113', 'meet_114', 'meet_115', 'meet_116', 'meet_117', 'meet_118', 'meet_119', 'meet_120', 'meet_121', 'meet_122', 'meet_123', 'meet_124', 'meet_125', 'meet_126', 'meet_127', 'meet_128', 'meet_129', 'meet_130', 'meet_131', 'meet_132', 'meet_133', 'meet_134', 'meet_135', 'meet_136', 'meet_137', 'meet_138', 'meet_139', 'meet_140', 'meet_141', 'meet_142', 'meet_143', 'meet_144', 'meet_145', 'meet_146', 'meet_147', 'meet_148', 'meet_149', 'meet_150', 'meet_151']*************************************
+meet_1
+*****************
+candidate = ['ip', 'asian', 'knife', 'mill', 'nanne', 'africa', 'ipo', 'fle', 'espec', 'strokes', 'prerequisites', 'predators', 'distinguished', 'zebras', 'retyping', 'charas', 'matth', 'moustache', 'lite', 'someo']
+score_abstractive = 0
+ score_extractive = 1.01111029675e-24
+
+meet_2
+*****************
+candidate = ['streamed', 'decline', 'doctor', 'combating', 'cheaps', 'cheapend', 'vouch', 'interesti', 'broadcasting', 'componen', 'respet', 'aro', 'adapting', 'highperformance', 'muck', 'spacious', 'prospects', 'popularly', 'downloads', 'righ']
+score_abstractive = 4.14435710638e-08
+ score_extractive = 2.25540778487e-68
+
+meet_3
+*****************
+candidate = ['customizing', 'assemble', 'fancied', 'scenarios', 'florescent', 'soundtrack', 'finer', 'necessar', 'superiors', 'matthews', 'aftersales', 'underlie', 'anythi', 'uri', 'nonrecta', 'vlsi', 'addit', 'organisational', 'emphasize', 'customized']
+score_abstractive = 0
+ score_extractive = 6.63865731647e-66
+
+meet_4
+*****************
+candidate = ['exce', 'voter', 'straightout', 'indicating', 'dried', 'suh', 'undes', 'sophistication', 'fik', 'protec', 'rel', 'franc', 'oper', 'inks', 'sr', 'protrude', 'cluttering', 'eyeattracting', 'voyt', 'unconsciously']
+score_abstractive = 0
+ score_extractive = 1.29646211631e-73
+
+meet_5
+*****************
+candidate = ['orangutan', 'barks', 'caramel', 'selled', 'multidevice', 'lawnmower', 'orangutans', 'buck', 'olivier', 'dispatching', 'whistleable', 'panic', 'pani', 'bong', 'domain', 'profe', 'havin', 'squarey', 'bath', 'rou']
+score_abstractive = 0
+ score_extractive = 9.48733815308e-18
+
+meet_6
+*****************
+candidate = ['incremental', 'linear', 'computation', 'parameter', 'requi', 'tendonditis', 'investigations', 'mhhmm', 'resisting', 'capital', 'mud', 'recalled', 'robotic', 'losed', 'discus', 'cos', 'robots', 'remultific', 'lightening', 'generic']
+score_abstractive = 0
+ score_extractive = 1.02880106177e-29
+
+meet_7
+*****************
+candidate = ['chec', 'unexpen', 'fra', 'researcher', 'prodyuc', 'alhasred', 'summarizing', 'innos', 'hits', 'adapted', 'abdul', 'bill', 'iz', 'furnitures', 'ths', 'references', 'righty', 'imprint', 'lefty', 'vibrator']
+score_abstractive = 0
+ score_extractive = 3.57811730872e-19
+
+meet_8
+*****************
+candidate = ['dommage', 'fulf', 'glu', 'techne', 'croix', 'staff', 'poin', 'fantastically', 'je', 'tadada', 'sesh', 'congratulation', 'almo', 'surrounded', 'cest', 'presen', 'satisfying', 'threshold', 'collaboration', 'thir']
+score_abstractive = 0
+ score_extractive = 5.20676157397e-18
+
+meet_10
+*****************
+candidate = ['crossover', 'trainable', 'poweradaptor', 'advantageous', 'scheduling', 'twelvefifty', 'consciousness', 'advocate', 'mindshare', 'rol', 'wadadadadada', 'commoner', 'exceptionally', 'slickness', 'softwarewise', 'branded', 'criticizing', 'proprietary', 'ladder', 'commodities']
+score_abstractive = 0
+ score_extractive = 2.51526344469e-89
+
+meet_11
+*****************
+candidate = ['backlit', 'uniqueness', 'axes', 'prone', 'ditching', 'flashlight', 'buttontobu', 'ty', 'spillage', 'bode', 'queue', 'pers', 'quantized', 'axis', 'smellorama', 'mak', 'acknowledged', 'mistreat', 'retrain', 'extrude']
+score_abstractive = 1.12655306129e-07
+ score_extractive = 1.96606266715e-60
+
+meet_12
+*****************
+candidate = ['silvers', 'synergy', 'town', 'crotch', 'demonstrations', 'justification', 'beacon', 'stiffness', 'chang', 'tweak', 'calm', 'digesting', 'suck', 'colf', 'impressing', 'patontheback', 'cooperating', 'miscalculation', 'droop', 'synergistic']
+score_abstractive = 0
+ score_extractive = 6.19178813984e-27
+
+meet_13
+*****************
+candidate = ['ada', 'kemy', 'longmund', 'clown', 'maxim', 'bugs', 'village', 'industrials', 'hat', 'azerty', 'qwerty', 'converged', 'spethisfispis', 'pikachu', 'centimes', 'relation', 'const', 'specif', 'sug', 'imaginative']
+score_abstractive = 0
+ score_extractive = 2.7620702574e-11
+
+meet_14
+*****************
+candidate = ['florent', 'hmmm', 'recurrence', 'jordans', 'threat', 'rationale', 'bres', 'industr', 'solu', 'pon', 'pi', 'injured', 'soph', 'camcorder', 'garage', 'pictograms', 'pli', 'intensively', 'pic', 'nifra']
+score_abstractive = 0
+ score_extractive = 1.93465124038e-28
+
+meet_15
+*****************
+candidate = ['alimentation', 'gestures', 'institute', 'frahan', 'coop', 'anal', 'disadvant', 'downloaded', 'lev', 'googlelike', 'ecol', 'unlighted', 'countryside', 'england', 'accessoire', 'compensated', 'proecology', 'impersonal', 'motivation', 'senegal']
+score_abstractive = 0
+ score_extractive = 7.5537197234e-47
+
+meet_16
+*****************
+candidate = ['mushroom', 'coarse', 'mush', 'sleeping', 'trois', 'saucer', 'fas', 'bottleneck', 'unid', 'eatable', 'enlighted', 'pine', 'fabrica', 'sn', 'fruitful', 'micro', 'celebrating', 'cris', 'bitter', 'inspira']
+score_abstractive = 5.56544802751e-06
+ score_extractive = 1.10307596329e-28
+
+meet_17
+*****************
+candidate = ['panther', 'indian', 'spiders', 'trunk', 'spider', 'hunt', 'guillermo', 'lions', 'hemant', 'dist', 'hump', 'parachute', 'panthers', 'offline', 'availables', 'peculiar', 'transportations', 'charlottes', 'standalone', 'beings']
+score_abstractive = 1.47879942868e-06
+ score_extractive = 3.77598636692e-12
+
+meet_18
+*****************
+candidate = ['epinions', 'permanantly', 'powerstick', 'liklier', 'ambience', 'condition', 'decoding', 'angry', 'connectivity', 'microcontroller', 'memorising', 'ambiance', 'weaknesses', 'superimpose', 'transition', 'gentlemens', 'idle', 'dtw', 'remained', 'committment']
+score_abstractive = 0
+ score_extractive = 9.92101505047e-37
+
+meet_19
+*****************
+candidate = ['capsicum', 'pepper', 'usersll', 'playback', 'handier', 'bananamando', 'pumpkin', 'spotting', 'stylised', 'convex', 'elasticity', 'eponge', 'funkylooking', 'frape', 'unaware', 'natur', 'seventies', 'honour', 'glimpse', 'cylindrical']
+score_abstractive = 8.08364857175e-15
+ score_extractive = 6.39167020183e-41
+
+meet_20
+*****************
+candidate = ['outlier', 'granularity', 'antennas', 'ons', 'youngst', 'trendsetters', 'whichll', 'puzzled', 'optimal', 'formula', 'reflected', 'happily', 'reall', 'connectors', 'univer', 'hin', 'flaunt', 'scrollers', 'variance', 'outliers']
+score_abstractive = 0
+ score_extractive = 1.87344391847e-31
+
+meet_21
+*****************
+candidate = ['petre', 'cardinaux', 'shameful', 'potentialmeter', 'obstacles', 'gooding', 'specialities', 'getabdar', 'hamed', 'discrete', 'horses', 'drops', 'challenging', 'morris', 'american', 'attack', 'fabien', 'dependant', 'switzerland', 'cuddly']
+score_abstractive = 0
+ score_extractive = 1.25863514405e-12
+
+meet_22
+*****************
+candidate = ['rw', 'handshaking', 'frustrates', 'dic', 'cancelled', 'funded', 'neighbours', 'timers', 'scaring', 'approx', 'betweens', 'unintuitive', 'linux', 'bathroom', 'overwhelmingly', 'indevel', 'inviting', 'umv', 'oem', 'permission']
+score_abstractive = 0
+ score_extractive = 4.12754315274e-31
+
+meet_23
+*****************
+candidate = ['peeling', 'diagonal', 'discover', 'detects', 'spo', 'fabian', 'shells', 'vinyl', 'lic', 'specialists', 'feasib', 'suede', 'pof', 'raw', 'motif', 'drives', 'velcro', 'asleeps', 'daylight', 'computing']
+score_abstractive = 1.24825637254e-08
+ score_extractive = 1.9296564458e-27
+
+meet_25
+*****************
+candidate = ['cobra', 'pavlov', 'lefthander', 'ret', 'monochrome', 'cellular', 'desail', 'anothers', 'tis', 'christa', 'smiling', 'extremes', 'pret', 'worm', 'mental', 'chris', 'smile', 'daughter', 'ate', 'viewer']
+score_abstractive = 0
+ score_extractive = 3.77598636692e-12
+
+meet_26
+*****************
+candidate = ['benjo', 'electromagnetic', 'scored', 'babyproof', 'dialers', 'generalised', 'dsp', 'issuing', 'gest', 'cycled', 'sho', 'dsps', 'occam', 'sensing', 'simp', 'repetitivity', 'dsb', 'intentions', 'dwight', 'tennis']
+score_abstractive = 0
+ score_extractive = 3.74208856247e-57
+
+meet_27
+*****************
+candidate = ['lsd', 'zillions', 'assembler', 'lsds', 'chameleon', 'moulding', 'guns', 'thermodynamic', 'sarcastic', 'fruitylike', 'millennium', 'reinvent', 'bodys', 'signature', 'rsa', 'cumbersome', 'millenniums', 'fibre', 'radium', 'iradium']
+score_abstractive = 2.91293913231e-07
+ score_extractive = 2.50407918626e-46
+
+meet_28
+*****************
+candidate = ['fudge', 'fulfils', 'criterium', 'forecast', 'bobby', 'exceeding', 'origins', 'curvable', 'dir', 'stars', 'vegetarian', 'babe', 'yahoo', 'constative', 'lounge', 'eng', 'attraction', 'explanat', 'weekends', 'restaurant']
+score_abstractive = 0
+ score_extractive = 2.24639388497e-13
+
+meet_29
+*****************
+candidate = ['revol', 'appendix', 'classi', 'optimise', 'volunteer', 'documentary', 'themself', 'scene', 'xml', 'distribution', 'webs', 'contents', 'norman', 'retrieve', 'mis', 'contain', 'confusion', 'assigned', 'websites', 'tonight']
+score_abstractive = 0
+ score_extractive = 2.48431728818e-23
+
+meet_30
+*****************
+candidate = ['gateway', 'harry', 'anticipate', 'german', 'arrays', 'lousy', 'wellstudied', 'preprocessing', 'feedbacks', 'analog', 'automatical', 'subtitl', 'neededs', 'tolerate', 'centr', 'kiv', 'navigator', 'troubleshooting', 'weekend', 'fpga']
+score_abstractive = 2.9738704455e-06
+ score_extractive = 1.86955316358e-45
+
+meet_31
+*****************
+candidate = ['probability', 'prefix', 'vocabularies', 'peep', 'factories', 'customizable', 'deals', 'compar', 'emission', 'cited', 'prerequirements', 'nuff', 'basketball', 'collaborations', 'reputation', 'snapshot', 'probl', 'confog', 'scrollings', 'compiled']
+score_abstractive = 1.07161042016e-07
+ score_extractive = 2.75717382169e-72
+
+meet_32
+*****************
+candidate = ['modules', 'modular', 'addons', 'similarit', 'cond', 'speeches', 'endurable', 'additi', 'fuct', 'interactively', 'handphone', 'scoring', 'optimises', 'destroyed', 'misplacement', 'joysticklike', 'biscuits', 'modularity', 'attracting', 'aas']
+score_abstractive = 1.10405066689e-09
+ score_extractive = 8.81343459311e-64
+
+meet_33
+*****************
+candidate = ['accounting', 'coor', 'begun', 'daseri', 'determining', 'documentations', 'acceptability', 'shrida', 'initiation', 'administration', 'cc', 'strategic', 'pinpoint', 'contributing', 'copies', 'mails', 'coordinator', 'announcements', 'loop', 'vendors']
+score_abstractive = 3.37561486372e-06
+ score_extractive = 4.04555129592e-40
+
+meet_34
+*****************
+candidate = ['thirtyfive', 'establish', 'recognizer', 'oneword', 'eds', 'flashmatic', 'pioneering', 'clarifications', 'insights', 'intuitions', 'doggone', 'waffling', 'driving', 'regulate', 'imposing', 'timeframe', 'preson', 'zenith', 'ambient', 'intel']
+score_abstractive = 0
+ score_extractive = 1.43603898091e-54
+
+meet_35
+*****************
+candidate = ['flipup', 'brittle', 'dimmer', 'resistance', 'expression', 'customisability', 'microproc', 'shrinkable', 'contextsensitive', 'laws', 'powerbook', 'costefficient', 'regret', 'centering', 'specifica', 'oils', 'kidfriendly', 'sorr', 'revenues', 'expandable']
+score_abstractive = 0
+ score_extractive = 2.94407712983e-50
+
+meet_36
+*****************
+candidate = ['event', 'umhmm', 'turnaround', 'transportation', 'ebay', 'amazon', 'usertested', 'releasing', 'relationships', 'pms', 'marketer', 'finetuned', 'diapers', 'satisfi', 'popcorn', 'plasticene', 'anticipated', 'rereleased', 'january', 'inflated']
+score_abstractive = 1.2514874058e-09
+ score_extractive = 3.57736041253e-48
+
+meet_37
+*****************
+candidate = ['eileen', 'technicalfunctional', 'bookcase', 'jeanneoui', 'sweater', 'betty', 'someplace', 'lamps', 'notices', 'airconditioners', 'kidney', 'francina', 'whic', 'toes', 'divides', 'responsibility', 'snakes', 'conception', 'unlimited', 'kitty']
+score_abstractive = 8.96937193062e-07
+ score_extractive = 3.91956426921e-11
+
+meet_38
+*****************
+candidate = ['subgroups', 'wallet', 'september', 'referred', 'striped', 'weed', 'allergy', 'compactability', 'cosmetic', 'motor', 'arthritic', 'reece', 'alphabet', 'connec', 'compactness', 'harmed', 'gee', 'husband', 'puddle', 'projections']
+score_abstractive = 0
+ score_extractive = 1.25936524052e-36
+
+meet_39
+*****************
+candidate = ['temperatures', 'ninth', 'amplified', 'compone', 'electri', 'jana', 'compons', 'tshape', 'anar', 'radiowaves', 'electrici', 'mors', 'timetable', 'checkout', 'acti', 'transist', 'counter', 'sw', 'pins', 'nonallergic']
+score_abstractive = 0
+ score_extractive = 6.8253172777e-26
+
+meet_40
+*****************
+candidate = ['beware', 'cutest', 'amplification', 'heaven', 'guarantees', 'elongated', 'socioeconomic', 'fortunately', 'toxic', 'necklace', 'paradoxically', 'lookswise', 'consolidate', 'relays', 'comic', 'leash', 'observations', 'oyster', 'swallow', 'cel']
+score_abstractive = 0
+ score_extractive = 5.6699321016e-23
+
+meet_41
+*****************
+candidate = ['beagle', 'chasing', 'dinner', 'laura', 'mild', 'impressionist', 'wealth', 'cram', 'shoelaces', 'conditioned', 'regions', 'london', 'apes', 'harmless', 'tails', 'cheery', 'chases', 'exploring', 'familys', 'amusing']
+score_abstractive = 0
+ score_extractive = 1.67917114845e-17
+
+meet_42
+*****************
+candidate = ['buckets', 'separating', 'habitual', 'disability', 'perg', 'relay', 'installing', 'insp', 'techie', 'upish', 'clarity', 'embody', 'prt', 'intrared', 'modularising', 'visualisation', 'spite', 'shy', 'expendable', 'locally']
+score_abstractive = 0
+ score_extractive = 1.75243348109e-73
+
+meet_43
+*****************
+candidate = ['listings', 'visualize', 'unifies', 'frankenstein', 'wednesday', 'glassy', 'contributes', 'nonrechargeable', 'tightly', 'showable', 'tinted', 'batterypowered', 'nuts', 'revisit', 'capitalise', 'mixing', 'acknowledge', 'grippy', 'shadowy', 'bumped']
+score_abstractive = 0
+ score_extractive = 2.43505196611e-54
+
+meet_44
+*****************
+candidate = ['homer', 'jogdial', 'ninja', 'atmosphere', 'formality', 'lego', 'conducive', 'confining', 'restricts', 'submitting', 'foggy', 'printer', 'harvest', 'dissatisfied', 'collaborate', 'widthwise', 'embossing', 'wheat', 'intercept', 'highish']
+score_abstractive = 0
+ score_extractive = 1.04874779232e-49
+
+meet_45
+*****************
+candidate = ['tarik', 'macros', 'monkeys', 'attitude', 'begins', 'feared', 'dave', 'duguid', 'nez', 'affectionately', 'providers', 'destroying', 'profiting', 'snotty', 'stri', 'oblique', 'artistry', 'nigeria', 'tigers', 'primates']
+score_abstractive = 0
+ score_extractive = 1.99717676113e-16
+
+meet_46
+*****************
+candidate = ['manipulation', 'avenue', 'disp', 'regional', 'geometrical', 'integra', 'interrupting', 'unfriendly', 'interac', 'thankfully', 'traversing', 'differentness', 'earliest', 'dodo', 'memorys', 'disagrees', 'obeyed', 'evr', 'owner', 'rectified']
+score_abstractive = 0
+ score_extractive = 1.76717850824e-51
+
+meet_47
+*****************
+candidate = ['largely', 'joy', 'query', 'usbs', 'favourably', 'vc', 'hookup', 'bulkiest', 'traversal', 'mapping', 'weakness', 'adventurous', 'structural', 'spongys', 'producement', 'overstepped', 'customisations', 'mountain', 'subgroup', 'bikes']
+score_abstractive = 0
+ score_extractive = 1.93794654899e-48
+
+meet_48
+*****************
+candidate = ['generous', 'sole', 'optimistic', 'shed', 'bulkier', 'incurs', 'manipulated', 'concessions', 'counters', 'condensed', 'rests', 'stretching', 'curvous', 'marginally', 'strategies', 'minimalised', 'loca', 'neglected', 'invested', 'factored']
+score_abstractive = 0
+ score_extractive = 2.5532907174e-53
+
+meet_49
+*****************
+candidate = ['eagle', 'crocodile', 'seagull', 'golf', 'intrepid', 'grandads', 'pooches', 'chucking', 'dim', 'vampire', 'selfintuitive', 'beauti', 'indepen', 'yi', 'tampering', 'freespirited', 'rex', 'pelican', 'outstandingly', 'seagu']
+score_abstractive = 0
+ score_extractive = 1.48315591988e-18
+
+meet_50
+*****************
+candidate = ['curled', 'channelhopping', 'reverses', 'videoplus', 'semicircular', 'economies', 'outlets', 'chain', 'sunk', 'rectangles', 'warehouse', 'demonised', 'retired', 'fastforwarding', 'forefront', 'seventeenth', 'undaunting', 'dissonance', 'unders', 'whack']
+score_abstractive = 0
+ score_extractive = 4.78893585263e-54
+
+meet_51
+*****************
+candidate = ['mirrors', 'remanufacture', 'fairs', 'artificial', 'gui', 'consultants', 'fascia', 'battle', 'practicalwise', 'retouchable', 'surfer', 'mentions', 'puffer', 'tonguetied', 'grief', 'wore', 'forerunners', 'stylus', 'fasciae', 'bursts']
+score_abstractive = 0
+ score_extractive = 8.24960893712e-43
+
+meet_51b
+*****************
+candidate = ['decimal', 'ship', 'remit', 'favoured', 'elses', 'engraving', 'modifying', 'delegating', 'comprimi', 'slightl', 'minimisation', 'borrowed', 'ambivalent', 'borrowing', 'predic', 'photoshop', 'reg', 'feasibly', 'quibble', 'domed']
+score_abstractive = 0
+ score_extractive = 2.69856692743e-55
+
+meet_52
+*****************
+candidate = ['finalising', 'warnings', 'allocate', 'shades', 'usurp', 'speciality', 'exper', 'keyrings', 'ie', 'groovy', 'clunky', 'pda', 'slim', 'doubt', 'movies', 'potential', 'mp', 'cd', 'deciding', 'presumably']
+score_abstractive = 0
+ score_extractive = 3.16785602682e-06
+
+meet_53
+*****************
+candidate = ['likings', 'computery', 'arlo', 'rajs', 'raring', 'craft', 'consu', 'horror', 'sme', 'brightly', 'disinclude', 'canonical', 'caffeine', 'volatile', 'anybo', 'archives', 'strike', 'advancing', 'globular', 'blasting']
+score_abstractive = 0
+ score_extractive = 3.6165975614e-34
+
+meet_54
+*****************
+candidate = ['facia', 'shoulda', 'mmmmmmmmmm', 'mobi', 'dele', 'healthier', 'ridding', 'tal', 'handdynamo', 'handi', 'bothering', 'chipping', 'fruitish', 'unidentifiable', 'frent', 'jet', 'threatening', 'amplifiers', 'hardish', 'ben']
+score_abstractive = 0
+ score_extractive = 6.31882505358e-41
+
+meet_55
+*****************
+candidate = ['companyll', 'chocolates', 'induce', 'fourths', 'meli', 'sevenths', 'recall', 'loch', 'shortage', 'fruitist', 'bashed', 'lim', 'bananabased', 'outsi', 'mea', 'piss', 'sacked', 'barney', 'ness', 'swallowing']
+score_abstractive = 0
+ score_extractive = 1.08609864384e-22
+
+meet_56
+*****************
+candidate = ['horns', 'gecko', 'vets', 'lizard', 'estonia', 'patches', 'simultaneously', 'getical', 'evadvaluation', 'menubased', 'cocktails', 'workspace', 'leicester', 'origi', 'hmhmm', 'lizards', 'professionally', 'buddhist', 'aerobics', 'gaurav']
+score_abstractive = 2.31605263171e-06
+ score_extractive = 8.27827094704e-25
+
+meet_57
+*****************
+candidate = ['wrists', 'unplugged', 'charmed', 'unaffordable', 'defeats', 'essent', 'musthave', 'cyclical', 'adopting', 'dem', 'pasting', 'policy', 'conventions', 'insurance', 'flatmate', 'straining', 'rent', 'arguing', 'pointy', 'defending']
+score_abstractive = 1.30548874719e-06
+ score_extractive = 6.0275229667e-66
+
+meet_58
+*****************
+candidate = ['slidey', 'folded', 'wool', 'surfaced', 'underlining', 'radiation', 'highlighting', 'ics', 'uneven', 'discounting', 'configurations', 'asymmetry', 'fen', 'prec', 'insides', 'rubbing', 'protects', 'numb', 'enumerate', 'singe']
+score_abstractive = 6.49964575096e-08
+ score_extractive = 2.70302865005e-71
+
+meet_59
+*****************
+candidate = ['sixes', 'wales', 'prevon', 'locatable', 'essay', 'approximation', 'budgets', 'texts', 'varied', 'phallic', 'prevented', 'whooshing', 'difficu', 'diligently', 'intermediate', 'lectures', 'playdo', 'kap', 'provisional', 'beginni']
+score_abstractive = 0
+ score_extractive = 8.45929766979e-51
+
+meet_60
+*****************
+candidate = ['squirrel', 'napoleon', 'dynamite', 'spiritual', 'porn', 'tea', 'nested', 'healing', 'wiper', 'awesomest', 'rude', 'tension', 'hilarious', 'liger', 'prairie', 'touchy', 'functs', 'mani', 'forgets', 'rathe']
+score_abstractive = 0
+ score_extractive = 2.38611515353e-17
+
+meet_61
+*****************
+candidate = ['addresses', 'overlaps', 'headset', 'smoke', 'glance', 'operational', 'minority', 'activating', 'niches', 'participants', 'prospective', 'reiss', 'musthaves', 'medical', 'joining', 'pressurised', 'slog', 'arses', 'grandmother', 'hurts']
+score_abstractive = 0
+ score_extractive = 2.7627297112e-26
+
+meet_62
+*****************
+candidate = ['peopleve', 'fuzz', 'combinations', 'prevents', 'fifties', 'madonna', 'pomegranate', 'rubble', 'cues', 'malleable', 'burn', 'spinningwheel', 'flexes', 'reissas', 'beatles', 'sil', 'avocado', 'therapeuticising', 'laid', 'payraise']
+score_abstractive = 0
+ score_extractive = 1.087155109e-31
+
+meet_63
+*****************
+candidate = ['ornaments', 'doodah', 'marke', 'fad', 'compute', 'fes', 'conformable', 'actua', 'praise', 'mesh', 'moms', 'everybodyll', 'cart', 'integrally', 'mil', 'eaten', 'logitech', 'twoish', 'envy', 'court']
+score_abstractive = 0
+ score_extractive = 1.48699497588e-19
+
+meet_64
+*****************
+candidate = ['alima', 'consum', 'whatsoever', 'exited', 'spatially', 'collaborating', 'singing', 'mysterious', 'coyote', 'decorative', 'coyotes', 'lindgren', 'magnitude', 'snout', 'callously', 'compa', 'amina', 'drawable', 'bucciantini', 'howl']
+score_abstractive = 0
+ score_extractive = 2.23698341739e-20
+
+meet_65
+*****************
+candidate = ['loosey', 'tighty', 'ian', 'emphasising', 'yall', 'speci', 'upndown', 'tunnel', 'swings', 'unscrewed', 'garbled', 'expects', 'filters', 'tsh', 'ys', 'roundabouts', 'pathetic', 'engineeringbased', 'blocky', 'livingrooms']
+score_abstractive = 0
+ score_extractive = 2.53010663133e-50
+
+meet_66
+*****************
+candidate = ['grippable', 'hesitant', 'sinking', 'verticalish', 'advocating', 'edas', 'flashlights', 'economics', 'scope', 'stressing', 'userface', 'headquarters', 'scror', 'colourcoordinate', 'worded', 'minimalistic', 'stale', 'carrots', 'spaceage', 'ith']
+score_abstractive = 0
+ score_extractive = 2.64972944792e-48
+
+meet_67
+*****************
+candidate = ['rhombus', 'martian', 'mangoey', 'decisive', 'gps', 'groceries', 'transponders', 'joke', 'deformed', 'fingernail', 'powerpointy', 'shuffle', 'withing', 'arrangements', 'contributions', 'sucked', 'potatoey', 'overenthusiastic', 'yellowy', 'crossing']
+score_abstractive = 0
+ score_extractive = 6.80922028282e-57
+
+meet_68
+*****************
+candidate = ['san', 'diego', 'lived', 'desert', 'barbara', 'orchestra', 'island', 'santa', 'vomit', 'city', 'michigan', 'smallville', 'jeff', 'brussels', 'buckley', 'afro', 'multiformat', 'bargain', 'mile', 'religion']
+score_abstractive = 0
+ score_extractive = 7.15849889639e-17
+
+meet_69
+*****************
+candidate = ['sacrifice', 'boot', 'functioned', 'millisecond', 'revolutionise', 'practices', 'suggests', 'sincerely', 'hideous', 'der', 'publicity', 'alias', 'pensioners', 'ports', 'hitech', 'emblematic', 'pho', 'bobs', 'reminders', 'pager']
+score_abstractive = 0
+ score_extractive = 1.9234747899e-51
+
+meet_70
+*****************
+candidate = ['downs', 'fuel', 'jokes', 'piloting', 'upping', 'olive', 'dongle', 'folds', 'pretentious', 'pyramidal', 'taped', 'airport', 'kinesthetic', 'dedicated', 'recalling', 'teaser', 'blocking', 'ovoidal', 'sic', 'controllooking']
+score_abstractive = 0
+ score_extractive = 2.07504796006e-61
+
+meet_71
+*****************
+candidate = ['legos', 'disfluencies', 'spaceships', 'integral', 'branch', 'mattered', 'rot', 'resourceful', 'prefixes', 'sway', 'edu', 'upped', 'filler', 'dropdown', 'mugs', 'creepy', 'ineffective', 'polymer', 'unclips', 'moral']
+score_abstractive = 0
+ score_extractive = 8.20982160737e-61
+
+meet_72
+*****************
+candidate = ['fenella', 'vegas', 'creatures', 'asia', 'piranhas', 'club', 'roommate', 'mandy', 'reconfigure', 'indepth', 'nocturnal', 'variances', 'insanely', 'liverpudlian', 'sams', 'nil', 'kne', 'grumpy', 'zoos', 'willows']
+score_abstractive = 0
+ score_extractive = 1.86061366148e-09
+
+meet_73
+*****************
+candidate = ['stare', 'disney', 'demog', 'nontechnically', 'mmmmmm', 'sitcoms', 'ovals', 'addicted', 'insulation', 'highclass', 'childishly', 'flashiness', 'bland', 'diverting', 'los', 'pared', 'rival', 'flashed', 'perverts', 'demographically']
+score_abstractive = 0
+ score_extractive = 4.51361173307e-23
+
+meet_74
+*****************
+candidate = ['bluebased', 'powersource', 'iffy', 'illustrated', 'retros', 'irritated', 'capacitator', 'icky', 'irritate', 'wary', 'midclass', 'refresh', 'squishier', 'depress', 'washed', 'jill', 'wash', 'rarity', 'overlays', 'masse']
+score_abstractive = 0
+ score_extractive = 8.77046128228e-28
+
+meet_75
+*****************
+candidate = ['delicious', 'resembling', 'courtneys', 'thumbshaped', 'indented', 'serpent', 'poking', 'nologically', 'eve', 'constitute', 'scratching', 'congenial', 'margaritas', 'fallings', 'district', 'stifled', 'toronto', 'indi', 'notches', 'vanna']
+score_abstractive = 0
+ score_extractive = 7.2938579599e-13
+
+meet_76
+*****************
+candidate = ['chiara', 'graceful', 'dolphins', 'disastrous', 'handsized', 'vib', 'sweat', 'tact', 'volunteers', 'claflin', 'mathematician', 'celebrity', 'abbie', 'krista', 'riding', 'textile', 'dragging', 'beach', 'mammals', 'binocular']
+score_abstractive = 0
+ score_extractive = 1.32316674782e-12
+
+meet_77
+*****************
+candidate = ['songs', 'leas', 'hers', 'clockwise', 'senders', 'custome', 'vibration', 'expensi', 'speek', 'dealy', 'capabili', 'zip', 'hu', 'reprogrammable', 'messing', 'pricey', 'sessions', 'hears', 'premade', 'matched']
+score_abstractive = 0
+ score_extractive = 6.55992519403e-30
+
+meet_78
+*****************
+candidate = ['squashy', 'ipodstyle', 'touchbased', 'wheely', 'balley', 'sand', 'kryptonite', 'abbreviations', 'blueberry', 'syntactic', 'dreading', 'juggling', 'squishing', 'handhe', 'neater', 'typ', 'stamped', 'condom', 'stamp', 'ipodish']
+score_abstractive = 1.85737199472e-07
+ score_extractive = 4.22375620395e-27
+
+meet_79
+*****************
+candidate = ['wordperfect', 'rhubarb', 'trues', 'tedious', 'unfancy', 'spats', 'handholdable', 'boo', 'unix', 'cheating', 'squishiness', 'ignorant', 'pursue', 'stimulating', 'offtask', 'holdi', 'snaps', 'stopped', 'conflicts', 'strawberrys']
+score_abstractive = 0
+ score_extractive = 3.72649696752e-24
+
+meet_80
+*****************
+candidate = ['dependable', 'lightest', 'formalised', 'userunfriendly', 'untangling', 'parallel', 'darkened', 'sapien', 'streaks', 'handiest', 'astray', 'contort', 'granted', 'arse', 'entry', 'underdog', 'stagger', 'facets', 'facials', 'homo']
+score_abstractive = 0
+ score_extractive = 1.0754677463e-28
+
+meet_81
+*****************
+candidate = ['bite', 'manages', 'remarkably', 'jaw', 'contoured', 'andy', 'cuts', 'channelll', 'lifted', 'oblong', 'senderreceiver', 'attributed', 'technicalities', 'appeared', 'depe', 'folding', 'expectancy', 'draining', 'somei', 'individuals']
+score_abstractive = 0
+ score_extractive = 3.25347801811e-55
+
+meet_82
+*****************
+candidate = ['preprogramme', 'conjunction', 'customdesigned', 'rapidly', 'whip', 'gua', 'les', 'readily', 'widens', 'microphoneesque', 'supermarkets', 'anyti', 'trai', 'realising', 'echelons', 'soldered', 'plumbed', 'hairbrush', 'cog', 'experimental']
+score_abstractive = 0
+ score_extractive = 3.49004432065e-67
+
+meet_83
+*****************
+candidate = ['lengthen', 'flase', 'nondescript', 'coped', 'bang', 'liberally', 'treated', 'gauge', 'stretches', 'widen', 'vertically', 'flatten', 'offset', 'elevens', 'broaden', 'managements', 'proposals', 'equals', 'accessory', 'flower']
+score_abstractive = 0
+ score_extractive = 3.09760358316e-27
+
+meet_84
+*****************
+candidate = ['ratty', 'mousey', 'webbed', 'wombat', 'japanamation', 'nittygritty', 'cheeky', 'nodding', 'minut', 'thataway', 'prolong', 'stead', 'cachet', 'kittycat', 'cowards', 'whisper', 'markup', 'representational', 'homework', 'themed']
+score_abstractive = 0.000225107370269
+ score_extractive = 3.64797491488e-18
+
+meet_85
+*****************
+candidate = ['composer', 'ozzy', 'extraneous', 'reparable', 'revolutionised', 'incidentally', 'outsmart', 'simultaneous', 'grandchild', 'climb', 'resolutions', 'depen', 'succession', 'devote', 'platform', 'financi', 'tray', 'osbournes', 'hill', 'segregated']
+score_abstractive = 0
+ score_extractive = 1.04617251842e-56
+
+meet_86
+*****************
+candidate = ['florence', 'catwalks', 'cloak', 'saver', 'delegate', 'sedentary', 'tips', 'duplication', 'substances', 'arranging', 'nearest', 'tac', 'fanciful', 'dress', 'misspelled', 'investigated', 'spongiest', 'fruitwise', 'pence', 'refashion']
+score_abstractive = 0
+ score_extractive = 5.96050049179e-63
+
+meet_87
+*****************
+candidate = ['sculptures', 'stalk', 'compass', 'instinct', 'polarity', 'grooves', 'touchyfeely', 'arrangement', 'abstraction', 'stephs', 'spelling', 'reinforced', 'ifs', 'adhere', 'imprinted', 'curliness', 'involving', 'tire', 'photographs', 'baroque']
+score_abstractive = 0
+ score_extractive = 1.42836375599e-41
+
+meet_88
+*****************
+candidate = ['mutually', 'rightly', 'depart', 'dachshund', 'alastair', 'jungle', 'existence', 'menagerie', 'littered', 'folks', 'dripper', 'robin', 'daughters', 'tangling', 'idiot', 'bash', 'affectionate', 'pockets', 'supposedly', 'miniature']
+score_abstractive = 0
+ score_extractive = 4.39463489947e-23
+
+meet_89
+*****************
+candidate = ['dispense', 'dolby', 'bypass', 'tuned', 'nines', 'path', 'inoperable', 'involves', 'splash', 'circumstances', 'revealed', 'facilitates', 'apogee', 'slee', 'researched', 'operable', 'enabled', 'boil', 'recogniti', 'receptive']
+score_abstractive = 0
+ score_extractive = 7.5943091724e-60
+
+meet_90
+*****************
+candidate = ['kit', 'hating', 'imaginations', 'ambiguity', 'badging', 'quickness', 'wishing', 'req', 'sizable', 'mint', 'wackier', 'clash', 'pliable', 'rambling', 'caboodle', 'cheesed', 'bearings', 'misdirect', 'duty', 'timescale']
+score_abstractive = 0
+ score_extractive = 1.13557540878e-54
+
+meet_91
+*****************
+candidate = ['profitability', 'debate', 'arbitrary', 'spacecraft', 'fashionability', 'senor', 'formulated', 'snag', 'rubberiness', 'sis', 'slideaway', 'rerate', 'summery', 'botched', 'debug', 'drats', 'rates', 'correction', 'disjointed', 'leaderships']
+score_abstractive = 3.75967594391e-09
+ score_extractive = 1.80677493957e-66
+
+meet_92
+*****************
+candidate = ['elk', 'landed', 'teambuilding', 'antlers', 'moose', 'peacock', 'enjoying', 'heathers', 'buzzing', 'sociable', 'gorgeous', 'creature', 'police', 'shellshaped', 'seeingeye', 'terrain', 'lover', 'pointier', 'spindly', 'herbivore']
+score_abstractive = 0
+ score_extractive = 2.50197768136e-16
+
+meet_93
+*****************
+candidate = ['shapememory', 'alloys', 'impaired', 'selftimed', 'machinery', 'metals', 'reception', 'poppys', 'fam', 'force', 'concise', 'employ', 'melt', 'multitude', 'explosion', 'labourintensive', 'selfdestructible', 'faint', 'inex', 'accessories']
+score_abstractive = 2.37875558994e-06
+ score_extractive = 6.62564806776e-40
+
+meet_94
+*****************
+candidate = ['handpowered', 'jarring', 'protective', 'dip', 'revitalises', 'shoved', 'ploy', 'frontwards', 'capacitors', 'clipon', 'clusters', 'animalbased', 'slidy', 'advanc', 'york', 'causing', 'mandatorily', 'probable', 'purses', 'pictured']
+score_abstractive = 0
+ score_extractive = 2.21670424109e-37
+
+meet_95
+*****************
+candidate = ['vanilla', 'potatos', 'metallicy', 'editing', 'palmheld', 'gue', 'settled', 'veggies', 'firmly', 'spon', 'blends', 'afforded', 'protoptype', 'chopped', 'girly', 'zeros', 'shakerstyley', 'representing', 'positively', 'dada']
+score_abstractive = 4.55660345478e-06
+ score_extractive = 5.62128108356e-30
+
+meet_96
+*****************
+candidate = ['stability', 'whiting', 'wars', 'refers', 'instinctual', 'sphere', 'stabil', 'debusk', 'soda', 'hiya', 'partners', 'collecting', 'likewise', 'spherical', 'jutting', 'goround', 'strongest', 'onehanded', 'ballshaped', 'tex']
+score_abstractive = 0.000825985723585
+ score_extractive = 9.04019641677e-29
+
+meet_97
+*****************
+candidate = ['engineercentred', 'fel', 'slinky', 'sizewise', 'lan', 'serving', 'differs', 'alter', 'sufficiently', 'reset', 'twoinone', 'rect', 'flare', 'drunk', 'handbag', 'hype', 'interiors', 'pasted', 'premise', 'brick']
+score_abstractive = 0
+ score_extractive = 1.31190255089e-56
+
+meet_98
+*****************
+candidate = ['gr', 'ape', 'lure', 'finest', 'citrus', 'finite', 'noncomplex', 'arizona', 'qualify', 'fruitminded', 'males', 'cranes', 'increasingly', 'refreshed', 'compli', 'lamination', 'bateer', 'antistress', 'sophistic', 'designwise']
+score_abstractive = 0
+ score_extractive = 2.60763317285e-32
+
+meet_99
+*****************
+candidate = ['suitcases', 'luggage', 'carmen', 'employees', 'stole', 'truth', 'itsel', 'lovers', 'flimsy', 'floppy', 'solely', 'forced', 'fiasco', 'antitheft', 'betcha', 'noncommittal', 'incom', 'proximity', 'shabby', 'consumerism']
+score_abstractive = 1.30548874719e-06
+ score_extractive = 2.52798328334e-20
+
+meet_112
+*****************
+candidate = ['garfield', 'aquaintance', 'haunted', 'administrator', 'attend', 'frank', 'hired', 'butts', 'sprayed', 'innocent', 'nose', 'indications', 'stadium', 'bart', 'maximal', 'swordfish', 'skinny', 'sir', 'blocked', 'meat']
+score_abstractive = 0
+ score_extractive = 2.36241110874e-24
+
+meet_113
+*****************
+candidate = ['tended', 'questioned', 'voted', 'boost', 'attent', 'wing', 'emphasised', 'ponnen', 'gots', 'failing', 'astonishing', 'keychain', 'tranmi', 'holland', 'conductive', 'prese', 'disks', 'soo', 'skyhigh', 'van']
+score_abstractive = 0
+ score_extractive = 2.69146569624e-50
+
+meet_114
+*****************
+candidate = ['telephoneshaped', 'greyblack', 'advise', 'chipset', 'writings', 'grandfather', 'grandkids', 'possib', 'woodcoloured', 'carefully', 'distributed', 'yield', 'signifi', 'usabili', 'sended', 'antislip', 'lefties', 'deployed', 'enquetes', 'lineup']
+score_abstractive = 0
+ score_extractive = 1.58998269662e-53
+
+meet_115
+*****************
+candidate = ['twendag', 'refocus', 'crop', 'errors', 'richard', 'recognability', 'flippers', 'mediates', 'sms', 'interfa', 'volumedown', 'behi', 'richards', 'dodgy', 'shif', 'decadent', 'disappears', 'poland', 'traffic', 'plusminus']
+score_abstractive = 0
+ score_extractive = 5.35221703126e-48
+
+meet_116
+*****************
+candidate = ['ciao', 'dren', 'etchy', 'typed', 'dinosaurs', 'fantasy', 'opem', 'uniquer', 'kidproof', 'shna', 'crashing', 'worm', 'donkey', 'cake', 'strength', 'calculation', 'ground', 'fault', 'erased', 'lonely']
+score_abstractive = 0
+ score_extractive = 3.87153199419e-32
+
+meet_117
+*****************
+candidate = ['surname', 'zee', 'statistical', 'martijn', 'damman', 'wiezer', 'alr', 'sur', 'surfed', 'toda', 'abbing', 'wies', 'meal', 'teletec', 'referenced', 'jens', 'invisible', 'imac', 'connects', 'univ']
+score_abstractive = 0
+ score_extractive = 4.33150858988e-69
+
+meet_118
+*****************
+candidate = ['italy', 'olden', 'pulse', 'fron', 'lecture', 'trans', 'staying', 'halfs', 'meaningful', 'fluff', 'technolo', 'fitsinthehand', 'isn', 'accu', 'pari', 'mib', 'dz', 'packet', 'scrollb', 'como']
+score_abstractive = 0
+ score_extractive = 5.13967049042e-62
+
+meet_119
+*****************
+candidate = ['learnable', 'tidin', 'homestation', 'entrance', 'tudum', 'whiny', 'italians', 'tudumm', 'slows', 'fancys', 'numpad', 'prich', 'chitchat', 'innovativity', 'blackboard', 'beautifuls', 'semitransparent', 'bacal', 'lightings', 'minesweeper']
+score_abstractive = 0
+ score_extractive = 4.75141742876e-32
+
+meet_120
+*****************
+candidate = ['britain', 'namely', 'beaver', 'talent', 'dinos', 'thingsll', 'charis', 'instruct', 'numerals', 'ross', 'acronyms', 'wings', 'est', 'ladies', 'segments', 'seal', 'flap', 'presumed', 'max', 'neck']
+score_abstractive = 0
+ score_extractive = 9.85286460391e-24
+
+meet_121
+*****************
+candidate = ['sub', 'precies', 'swahili', 'ver', 'eie', 'possess', 'smoking', 'misschien', 'tj', 'simpsons', 'forties', 'announced', 'ter', 'goed', 'senden', 'coatings', 'mounted', 'fj', 'alienate', 'mission']
+score_abstractive = 0
+ score_extractive = 3.69118260685e-59
+
+meet_122
+*****************
+candidate = ['cpu', 'tissue', 'ding', 'coordinations', 'accompanying', 'requiring', 'overheard', 'pingin', 'dive', 'dinge', 'grease', 'greasy', 'subtracted', 'badg', 'beg', 'renaissance', 'pinging', 'medieval', 'pair', 'apar']
+score_abstractive = 3.93205654369e-07
+ score_extractive = 3.62364296063e-58
+
+meet_123
+*****************
+candidate = ['knop', 'deadlines', 'qualitati', 'surprise', 'nigger', 'eno', 'tending', 'expectations', 'plotters', 'mankind', 'dissatisfy', 'simulate', 'refa', 'rearrange', 'commence', 'ema', 'shots', 'numerous', 'celebra', 'played']
+score_abstractive = 0
+ score_extractive = 9.51615062095e-64
+
+meet_124
+*****************
+candidate = ['gum', 'fins', 'fox', 'firefox', 'interview', 'deactivates', 'gigantic', 'julian', 'extendible', 'acquai', 'industrati', 'niels', 'nails', 'forw', 'featur', 'mole', 'stumpy', 'spots', 'kangaroo', 'dude']
+score_abstractive = 0
+ score_extractive = 4.98953131107e-27
+
+meet_125
+*****************
+candidate = ['newsflash', 'equaliser', 'veronica', 'autoseek', 'knees', 'middl', 'tru', 'colin', 'observing', 'fashional', 'sucky', 'bent', 'flapped', 'temporal', 'doch', 'improvise', 'functon', 'equ', 'reorganise', 'encounters']
+score_abstractive = 0
+ score_extractive = 9.31596667399e-32
+
+meet_126
+*****************
+candidate = ['spongey', 'colourblind', 'sketches', 'dire', 'spicy', 'luxurous', 'scandinavia', 'fyoo', 'underwater', 'auto', 'amauto', 'girlish', 'blues', 'foreground', 'kneipgatt', 'bzz', 'toddlers', 'palette', 'thngs', 'poo']
+score_abstractive = 0
+ score_extractive = 6.91154298091e-37
+
+meet_127
+*****************
+candidate = ['spongelike', 'reversed', 'speckles', 'assertive', 'horizontals', 'chunks', 'selects', 'relax', 'sour', 'hypers', 'overpaint', 'bummer', 'opera', 'woo', 'tempo', 'disturbed', 'endlessly', 'str', 'slanted', 'integrateds']
+score_abstractive = 0
+ score_extractive = 2.84241840168e-37
+
+meet_128
+*****************
+candidate = ['wolfs', 'simba', 'technicalwise', 'orc', 'pork', 'hero', 'teenage', 'frog', 'juergen', 'toffs', 'king', 'stoned', 'youself', 'turtles', 'electrocuted', 'ultra', 'mutant', 'ooph', 'selfish', 'lion']
+score_abstractive = 0
+ score_extractive = 1.09102124079e-27
+
+meet_129
+*****************
+candidate = ['firmware', 'placeholder', 'partial', 'variables', 'weigh', 'grandparent', 'hierarch', 'pushable', 'panting', 'funtionability', 'teev', 'overbuild', 'exave', 'subfunctions', 'xdk', 'subitems', 'hierarchy', 'reacting', 'scaling', 'buttle']
+score_abstractive = 2.76371969948e-06
+ score_extractive = 3.62900447606e-65
+
+meet_130
+*****************
+candidate = ['logon', 'threed', 'teletubbies', 'spins', 'hung', 'cares', 'jerome', 'unplus', 'comeup', 'touchscreens', 'telephon', 'threedigit', 'aku', 'emerge', 'partnering', 'films', 'citizens', 'showview', 'slamming', 'ronald']
+score_abstractive = 0
+ score_extractive = 6.94567231185e-35
+
+meet_131
+*****************
+candidate = ['daniel', 'crappy', 'weemote', 'bumps', 'singlecurves', 'freaks', 'bed', 'advisory', 'hyperlink', 'jane', 'scanner', 'vers', 'unstructured', 'unsatisfied', 'bake', 'lea', 'noi', 'kine', 'fluidly', 'valued']
+score_abstractive = 0
+ score_extractive = 2.75079129999e-54
+
+meet_132
+*****************
+candidate = ['piranha', 'sheets', 'crying', 'kemoro', 'gadgetness', 'wasn', 'bitch', 'ahmet', 'dang', 'slap', 'ugl', 'oje', 'trendly', 'darwin', 'restart', 'gogors', 'joc', 'forehead', 'puttin', 'romo']
+score_abstractive = 0
+ score_extractive = 8.04618527985e-14
+
+meet_133
+*****************
+candidate = ['flights', 'candy', 'stif', 'birthday', 'vase', 'flipflap', 'motivated', 'bumper', 'forwarding', 'sai', 'willingness', 'reader', 'roun', 'batter', 'expen', 'holders', 'dozens', 'gay', 'standup', 'dumped']
+score_abstractive = 0
+ score_extractive = 3.01768991408e-31
+
+meet_134
+*****************
+candidate = ['bags', 'airbag', 'twotone', 'monogramme', 'nike', 'alf', 'rights', 'overdone', 'revolution', 'nineties', 'tef', 'sweaty', 'rubbled', 'somethi', 'reaches', 'frag', 'stuf', 'subtlety', 'accent', 'symbolises']
+score_abstractive = 0
+ score_extractive = 4.12142203761e-35
+
+meet_135
+*****************
+candidate = ['unneeded', 'rightmost', 'hawaii', 'implanted', 'app', 'brighter', 'succeeded', 'underst', 'littler', 'carton', 'demotivating', 'sturdiness', 'voltages', 'succeeds', 'grou', 'progr', 'encrypted', 'surroundings', 'teens', 'bell']
+score_abstractive = 0
+ score_extractive = 5.53255006179e-62
+
+meet_136
+*****************
+candidate = ['hedgehog', 'hippo', 'pussy', 'toothpick', 'installations', 'loosen', 'species', 'amazed', 'miaow', 'anger', 'terrific', 'circles', 'url', 'doc', 'beams', 'bal', 'dispatch', 'teletubby', 'spirit', 'fantas']
+score_abstractive = 0
+ score_extractive = 1.36013057296e-42
+
+meet_137
+*****************
+candidate = ['clickon', 'script', 'releases', 'tickertape', 'familiarity', 'clickable', 'aspe', 'ze', 'deb', 'wie', 'ug', 'dumbest', 'wiped', 'rdss', 'usercentr', 'engineeringcentred', 'zeg', 'dat', 'dings', 'demanding']
+score_abstractive = 0
+ score_extractive = 5.7013550216e-36
+
+meet_138
+*****************
+candidate = ['iron', 'packages', 'grind', 'nonremovable', 'aha', 'enti', 'ple', 'credit', 'jogging', 'humour', 'touchpads', 'otherwi', 'carve', 'wealthy', 'triangleshaped', 'ajax', 'donts', 'yis', 'kree', 'strongy']
+score_abstractive = 9.79711591073e-12
+ score_extractive = 4.52529493371e-24
+
+meet_139
+*****************
+candidate = ['nils', 'titaniumcoloured', 'malfunctioning', 'osl', 'newly', 'sch', 'riot', 'operators', 'critic', 'brandaware', 'unacceptable', 'scrabbled', 'unrealistic', 'bedroom', 'amen', 'redesigning', 'crew', 'perspectives', 'suppress', 'plating']
+score_abstractive = 0
+ score_extractive = 3.43898765811e-23
+
+meet_140
+*****************
+candidate = ['bustfree', 'parrot', 'negative', 'popped', 'popups', 'pictionary', 'whoo', 'barely', 'ea', 'bleep', 'ish', 'painting', 'duck', 'bird', 'distinctive', 'indicates', 'dropped', 'shit', 'positive', 'broke']
+score_abstractive = 0
+ score_extractive = 3.79093620296e-13
+
+meet_141
+*****************
+candidate = ['subcomponents', 'penlight', 'featu', 'selections', 'labtest', 'johan', 'quotes', 'incre', 'vide', 'discarded', 'hallo', 'inclusive', 'disliked', 'recognising', 'unused', 'graphs', 'leftright', 'swapping', 'science', 'lunchbreak']
+score_abstractive = 0
+ score_extractive = 4.4145933693e-48
+
+meet_142
+*****************
+candidate = ['burst', 'handshaped', 'electrics', 'devel', 'thoughtful', 'quadrants', 'nintendo', 'pistol', 'trendwatchers', 'unbelievable', 'flower', 'everyth', 'loaded', 'pinball', 'regu', 'dr', 'supermarket', 'mat', 'cookie', 'cities']
+score_abstractive = 6.48286526117e-07
+ score_extractive = 2.87588912901e-41
+
+meet_143
+*****************
+candidate = ['rrs', 'techin', 'waited', 'drawboard', 'espe', 'uptodate', 'orientates', 'dreaming', 'pillows', 'thinked', 'joyst', 'pistol', 'negative', 'adva', 'anoth', 'presentate', 'ate', 'contain', 'eva', 'slideshow']
+score_abstractive = 0
+ score_extractive = 4.41871450853e-33
+
+meet_144
+*****************
+candidate = ['operability', 'interoperability', 'progressions', 'pred', 'implementations', 'influations', 'equip', 'subset', 'neighbourhood', 'sidewords', 'kop', 'boston', 'sebastians', 'chapters', 'interoperabi', 'implementation', 'implicates', 'por', 'disturbing', 'vu']
+score_abstractive = 0
+ score_extractive = 1.10667428313e-39
+
+meet_145
+*****************
+candidate = ['mielsen', 'rom', 'cheapy', 'decis', 'scrapped', 'thirdmost', 'exceptions', 'energysave', 'questioning', 'explicit', 'transmitted', 'stat', 'execute', 'costeffectiveness', 'amplitude', 'adapter', 'easeofuse', 'attractable', 'implepe', 'networks']
+score_abstractive = 0
+ score_extractive = 8.48868821127e-33
+
+meet_146
+*****************
+candidate = ['slippery', 'siemens', 'scrollbar', 'punish', 'bongiorno', 'immedis', 'colourfuls', 'believes', 'conten', 'exch', 'thit', 'kinet', 'bananarama', 'glatt', 'prediscussion', 'bahamas', 'absorbed', 'ext', 'dyn', 'insane']
+score_abstractive = 0
+ score_extractive = 1.38788139023e-31
+
+meet_147
+*****************
+candidate = ['ocr', 'tempered', 'moldable', 'appar', 'nameless', 'disabling', 'reproduce', 'roos', 'executed', 'fig', 'exceeded', 'qua', 'prono', 'tree', 'costed', 'writes', 'digitise', 'radar', 'cycles', 'enhanced']
+score_abstractive = 0
+ score_extractive = 5.75565988498e-19
+
+meet_148
+*****************
+candidate = ['nuclear', 'dirk', 'genius', 'meinfeld', 'highresponsive', 'tries', 'responsive', 'hobby', 'attending', 'teamworkers', 'wastes', 'xavier', 'killing', 'efficiency', 'lowresponsive', 'worker', 'coolest', 'ocean', 'kills', 'ants']
+score_abstractive = 0
+ score_extractive = 2.84003295147e-07
+
+meet_149
+*****************
+candidate = ['faded', 'doublesided', 'penlites', 'slapon', 'configured', 'kablouey', 'grammeale', 'wasted', 'remembers', 'understands', 'arabian', 'invoke', 'withi', 'draft', 'bond', 'allo', 'applied', 'formatting', 'ripe', 'fadeproof']
+score_abstractive = 0
+ score_extractive = 2.66607623511e-36
+
+meet_150
+*****************
+candidate = ['chiquita', 'trek', 'phaser', 'shaken', 'edi', 'removeable', 'spen', 'fav', 'focussi', 'vative', 'softens', 'dep', 'ms', 'appleshaped', 'disables', 'focussed', 'designy', 'yearend', 'leaner', 'aligns']
+score_abstractive = 0
+ score_extractive = None
+
+meet_151
+*****************
+candidate = ['reactor', 'cook', 'affordable', 'spammed', 'poorly', 'fashi', 'div', 'nogo', 'previews', 'demolishing', 'overdiscussing', 'eighth', 'pinnits', 'lair', 'probab', 'teammates', 'sam', 'ohbut', 'prick', 'retire']
+score_abstractive = 1.38310748523e-09
+ score_extractive = 1.32999760654e-23
+
