@@ -7,7 +7,7 @@ from tools import tokenize
 
 
 class tf_idf_class:
-    def __init__(self,all_documents):
+    def __init__(self, all_documents):#, corpus):
         #self.corpus = corpus
         self.all_documents = all_documents
 
@@ -41,9 +41,13 @@ class tf_idf_class:
         idf = self.inverse_document_frequencies(self.tokenized_documents)
         tfidf_documents = []
 
-        for document in self.tokenized_documents[0:1]:
+        for document in self.tokenized_documents:
+        #print('***', self.corpus)
+        #document = tokenize(self.corpus)
+
             doc_tfidf = {}
             for term in list(set(document)):  #idf.keys():
+                print(term)
                 tf = self.augmented_term_frequency(term, document)
                 # doc_tfidf.append(tf * idf[term])
                 doc_tfidf[term] = tf * idf[term]

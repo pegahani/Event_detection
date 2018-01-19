@@ -1,0 +1,760 @@
+************************['meet_1', 'meet_2', 'meet_3', 'meet_4']*************************************
+meet_1
+*****************
+candidate = ['cat', 'animal', 'tail', 'horse', 'dog', 'shared', 'shark', 'swordfish', 'phase', 'folder', 'rat', 'updated', 'tools', 'characteristics', 'drawer', 'finance', 'eh', 'fish', 'dogs', 'tool']
+score_abstractive = 1.18026167557e-07
+ score_extractive = 1.20241955895e-24
+meet_2
+*****************
+candidate = ['users', 'younger', 'pay', 'seventy', 'long', 'selection', 'digit', 'standards', 'type', 'knows', 'generation', 'needed', 'online', 'report', 'reliable', 'necessary', 'buying', 'lunch', 'age', 'chair']
+score_abstractive = 6.96995006857e-08
+ score_extractive = 2.85606897381e-68
+meet_3
+*****************
+candidate = ['store', 'stand', 'coffee', 'every', 'word', 'team', 'indicate', 'wood', 'changeable', 'ways', 'programming', 'remember', 'bright', 'detect', 'else', 'aspects', 'dark', 'decisions', 'exact', 'arrange']
+score_abstractive = 4.02469599051e-07
+ score_extractive = 7.44686258387e-66
+meet_4
+*****************
+candidate = ['seven', 'add', 'sixteen', 'special', 'surf', 'sample', 'tha', 'evaluation', 'following', 'double', 'sometimes', 'cheaper', 'prices', 'ease', 'except', 'conventional', 'embedded', 'single', 'appeal', 'great']
+score_abstractive = 7.45008329472e-08
+ score_extractive = 1.5878353279e-73
+
+************************['meet_5', 'meet_6', 'meet_7', 'meet_8']*************************************
+meet_5
+*****************
+candidate = ['original', 'waterproof', 'whistle', 'cat', 'ideas', 'drawing', 'draw', 'giving', 'orangutan', 'tracking', 'barks', 'animal', 'red', 'multiple', 'caramel', 'whos', 'n', 'minutes', 'desired', 'order']
+score_abstractive = 7.1445646206e-05
+ score_extractive = 1.18085667987e-17
+meet_6
+*****************
+candidate = ['access', 'per', 'incremental', 'speech', 'long', 'ami', 'set', 'cent', 'linear', 'digits', 'navigation', 'messenger', 'configure', 'general', 'develop', 'units', 'numerical', 'been', 'describe', 'month']
+score_abstractive = 7.51256903805e-06
+ score_extractive = 1.39701520528e-29
+meet_7
+*****************
+candidate = ['sensor', 'pear', 'left', 'expensive', 'both', 'thumb', 'done', 'record', 'cheap', 'vegetable', 'yep', 'throw', 'inside', 'sides', 'havent', 'says', 'odd', 'current', 'until', 'righty']
+score_abstractive = 1.99860488112e-07
+ score_extractive = 4.70906720531e-19
+meet_8
+*****************
+candidate = ['seven', 'evaluation', 'through', 'average', 'wireless', 'talked', 'phones', 'criteria', 'phone', 'grade', 'bigger', 'miss', 'vote', 'best', 'hi', 'dommage', 'presented', 'almo', 'team', 'sum']
+score_abstractive = 0.000487779902534
+ score_extractive = 6.48067886472e-18
+
+************************['meet_10', 'meet_11', 'meet_12']*************************************
+meet_10
+*****************
+candidate = ['identified', 'place', 'cut', 'computers', 'twentyfive', 'along', 'internet', 'mind', 'fact', 'percent', 'participant', 'issue', 'left', 'exclusive', 'h', 'view', 'add', 'reaction', 'crossover', 'designs']
+score_abstractive = 0
+ score_extractive = 2.76557882457e-89
+meet_11
+*****************
+candidate = ['channel', 'lcd', 'j', 'information', 'mode', 'curved', 'flip', 'trend', 'exciting', 'before', 'integrated', 'backlit', 'option', 'wood', 'questions', 'personally', 'choices', 'medium', 'titanium', 'man']
+score_abstractive = 1.48262720818e-07
+ score_extractive = 2.37376154624e-60
+meet_12
+*****************
+candidate = ['unit', 'lapel', 'zapping', 'call', 'close', 'singlecurved', 'method', 'wondering', 'after', 'third', 'sh', 'production', 'couldnt', 'card', 'silvers', 'fair', 'job', 'speak', 'teamwork', 'hang']
+score_abstractive = 1.40113019309e-05
+ score_extractive = 8.00950350572e-27
+
+************************['meet_13', 'meet_14', 'meet_15', 'meet_16']*************************************
+meet_13
+*****************
+candidate = ['draw', 'rat', 'fish', 'rabbit', 'cat', 'fat', 'dog', 'board', 'ada', 'ami', 'animal', 'whiteboard', 'kemy', 'longmund', 'eyes', 'am', 'mouse', 'grow', 'drawing', 'centimes']
+score_abstractive = 0
+ score_extractive = 3.09249056004e-11
+meet_14
+*****************
+candidate = ['wireless', 'wire', 'infrared', 'bulb', 'move', 'ask', 'reaction', 'recorder', 'learn', 'answer', 'category', 'teletext', 'rsi', 'menu', 'real', 'escape', 'connect', 'image', 'colourful', 'blue']
+score_abstractive = 7.29565665066e-05
+ score_extractive = 1.10197510866e-28
+meet_15
+*****************
+candidate = ['gesture', 'speech', 'spongy', 'intelligent', 'family', 'concepts', 'alimentation', 'works', 'limited', 'replace', 'language', 'country', 'adaptation', 'reliable', 'value', 'smart', 'added', 'vocabulary', 'darkness', 'attract']
+score_abstractive = 6.77440188259e-06
+ score_extractive = 8.54340159568e-47
+meet_16
+*****************
+candidate = ['mushroom', 'pineapple', 'wheel', 'lemon', 'cells', 'scroll', 'ball', 'coarse', 'single', 'flat', 'vegetable', 'scale', 'curve', 'array', 'final', 'curved', 'cell', 'chip', 'sample', 'years']
+score_abstractive = 9.35993059124e-06
+ score_extractive = 1.7264071808e-28
+
+************************['meet_17', 'meet_18', 'meet_19', 'meet_20']*************************************
+meet_17
+*****************
+candidate = ['elephants', 'animal', 'panther', 'indian', 'feet', 'spiders', 'friendly', 'trunk', 'walk', 'spider', 'favourite', 'fly', 'strong', 'tools', 'animals', 'hunt', 'guillermo', 'pink', 'female', 'lions']
+score_abstractive = 1.3362461267e-06
+ score_extractive = 3.99261947552e-12
+meet_18
+*****************
+candidate = ['small', 'programme', 'spanish', 'cheaper', 'often', 'program', 'likely', 'thirty', 'broke', 'eighty', 'putting', 'possibility', 'informations', 'system', 'especially', 'menus', 'terms', 'mouse', 'participant', 'cut']
+score_abstractive = 1.48060291187e-07
+ score_extractive = 1.15442697763e-36
+meet_19
+*****************
+candidate = ['curve', 'phrase', 'machine', 'wood', 'recognize', 'apple', 'beeping', 'fruits', 'spongy', 'vegetables', 'completely', 'running', 'inhouse', 'keywords', 'set', 'vegetable', 'attached', 'clothes', 'response', 'sensor']
+score_abstractive = 1.26515937304e-14
+ score_extractive = 8.29256292823e-41
+meet_20
+*****************
+candidate = ['six', 'criteria', 'battery', 'sum', 'home', 'zero', 'charging', 'rubber', 'digits', 'process', 'autonomy', 'outlier', 'kinetic', 'ye', 'went', 'care', 'dynamo', 'curved', 'fo', 'evaluate']
+score_abstractive = 2.70481757664e-08
+ score_extractive = 2.51542595192e-31
+
+************************['meet_21', 'meet_22', 'meet_23']*************************************
+meet_21
+*****************
+candidate = ['animal', 'euro', 'bird', 'experience', 'during', 'favourite', 'discrete', 'strong', 'starts', 'beautiful', 'bye', 'tool', 'sell', 'points', 'petre', 'theyve', 'worry', 'continue', 'whiteboard', 'been']
+score_abstractive = 0.000865364737455
+ score_extractive = 1.39290875742e-12
+meet_22
+*****************
+candidate = ['frequency', 'different', 'commands', 'plus', 'function', 'wave', 'keyboard', 'range', 'hour', 'mode', 'devices', 'did', 'tell', 'making', 'usability', 'through', 'teletext', 'available', 'percent', 'simpler']
+score_abstractive = 6.29568378253e-06
+ score_extractive = 5.15263456784e-31
+meet_23
+*****************
+candidate = ['seven', 'banana', 'easy', 'spongy', 'tft', 'solar', 'size', 'centimetres', 'hand', 'cell', 'peeling', 'magnetic', 'fancy', 'fruit', 'soft', 'easier', 'please', 'layer', 'batteries', 'inch']
+score_abstractive = 2.21974860574e-08
+ score_extractive = 2.44356339547e-27
+
+************************['meet_25', 'meet_26', 'meet_27', 'meet_28']*************************************
+meet_25
+*****************
+candidate = ['rabbit', 'fish', 'cobra', 'handed', 'favourite', 'proof', 'animal', 'dash', 'previous', 'eat', 'screens', 'pavlov', 'hold', 'history', 'smiling', 'bigger', 'frame', 'likes', 'human', 'slash']
+score_abstractive = 4.55277152024e-07
+ score_extractive = 4.34300100432e-12
+meet_26
+*****************
+candidate = ['relevant', 'teletext', 'settings', 'clap', 'zap', 'targeting', 'rsi', 'automatic', 'set', 'functionality', 'forget', 'move', 'easier', 'name', 'benjo', 'message', 'focusing', 'distance', 'cheap', 'whistle']
+score_abstractive = 3.9084898816e-06
+ score_extractive = 4.141301754e-57
+meet_27
+*****************
+candidate = ['trends', 'explore', 'currently', 'smart', 'solar', 'doublecurved', 'reduce', 'cells', 'come', 'independent', 'around', 'assembly', 'friends', 'vegetables', 'inspired', 'mo', 'travel', 'lsd', 'house', 'base']
+score_abstractive = 3.46408794172e-07
+ score_extractive = 3.14871287938e-46
+meet_28
+*****************
+candidate = ['seven', 'select', 'strawberry', 'weight', 'strawberries', 'jog', 'party', 'criterion', 'minus', 'evaluate', 'scroll', 'team', 'bob', 'flat', 'fudge', 'dynamo', 'hi', 'hey', 'curve', 'producing']
+score_abstractive = 6.01234980545e-07
+ score_extractive = 3.17688069856e-13
+
+************************['meet_29', 'meet_30', 'meet_31', 'meet_32']*************************************
+meet_29
+*****************
+candidate = ['role', 'everybody', 'account', 'mail', 'tonight', 'received', 'discussion', 'dis', 'service', 'nothing', 'gather', 'among', 'characteristics', 'dark', 'technically', 'lapel', 'tricky', 'funct', 'documentary', 'friendly']
+score_abstractive = 0.000254991589368
+ score_extractive = 2.68461310002e-23
+meet_30
+*****************
+candidate = ['internet', 'teletext', 'processing', 'communication', 'software', 'fpga', 'extra', 'nine', 'bluetooth', 'infrared', 'pda', 'languages', 'putting', 'try', 'jump', 'french', 'via', 'gateway', 'years', 'quality']
+score_abstractive = 3.73944411372e-06
+ score_extractive = 1.94707682691e-45
+meet_31
+*****************
+candidate = ['percent', 'voice', 'energy', 'commands', 'theyre', 'department', 'arrow', 'fifty', 'lost', 'thirty', 'saying', 'enough', 'seen', 'command', 'scroll', 'code', 'looking', 'probability', 'every', 'lock']
+score_abstractive = 1.60243133573e-07
+ score_extractive = 2.9627760856e-72
+meet_32
+*****************
+candidate = ['dollars', 'module', 'spongy', 'customer', 'innovative', 'evaluation', 'feel', 'actually', 'optional', 'innovation', 'modules', 'fifteen', 'innovativeness', 'production', 'robust', 'updates', 'liberty', 'version', 'clear', 'joystick']
+score_abstractive = 1.25444374928e-09
+ score_extractive = 9.63542057455e-64
+
+************************['meet_33', 'meet_34', 'meet_35', 'meet_36']*************************************
+meet_33
+*****************
+candidate = ['goal', 'interact', 'accounting', 'copy', 'commercial', 'prefer', 'usability', 'monitor', 'writing', 'eh', 'view', 'frame', 'discussions', 'best', 'coffee', 'loop', 'moment', 'attractive', 'projects', 'steps']
+score_abstractive = 0
+ score_extractive = 4.22314620369e-40
+meet_34
+*****************
+candidate = ['beep', 'risk', 'information', 'existing', 'fat', 'thirtyfive', 'word', 'unbreakable', 'commands', 'telephone', 'examples', 'home', 'invite', 'certain', 'softer', 'flash', 'sound', 'forth', 'guy', 'aim']
+score_abstractive = 1.86217968554e-08
+ score_extractive = 1.54312430981e-54
+meet_35
+*****************
+candidate = ['countries', 'while', 'advanced', 'accidentally', 'consumers', 'rubber', 'eliminated', 'woods', 'standard', 'extra', 'feels', 'choose', 'flipup', 'face', 'chips', 'colours', 'brittle', 'dimmer', 'issues', 'resistance']
+score_abstractive = 1.81309344249e-08
+ score_extractive = 3.3751215082e-50
+meet_36
+*****************
+candidate = ['evaluation', 'under', 'units', 'unit', 'year', 'profit', 'sports', 'season', 'pictures', 'cup', 'thirty', 'five', 'redesign', 'every', 'prototypes', 'consideration', 'panel', 'nine', 'event', 'launch']
+score_abstractive = 1.95868364098e-09
+ score_extractive = 1.9379575128e-48
+
+************************['meet_37', 'meet_38', 'meet_39', 'meet_40']*************************************
+meet_37
+*****************
+candidate = ['cat', 'name', 'fifty', 'draw', 'kitty', 'fat', 'top', 'white', 'tool', 'euro', 'clap', 'am', 'role', 'eileen', 'along', 'plant', 'spot', 'snake', 'profit', 'training']
+score_abstractive = 1.0666440917e-06
+ score_extractive = 4.57561123879e-11
+meet_38
+*****************
+candidate = ['group', 'target', 'theres', 'set', 'device', 'might', 'eliminated', 'money', 'package', 'elderly', 'takes', 'percent', 'subgroups', 'power', 'whats', 'never', 'wallet', 'sense', 'waves', 'operations']
+score_abstractive = 6.79193699662e-07
+ score_extractive = 1.57213350212e-36
+meet_39
+*****************
+candidate = ['concept', 'program', 'switches', 'k', 'high', 'pushbuttons', 'misplace', 'printing', 'temperatures', 'ninth', 'spe', 'subtitles', 'scrolls', 'ca', 'infra', 'own', 'resistors', 'low', 'amplified', 'pushbutton']
+score_abstractive = 0
+ score_extractive = 8.82901698649e-26
+meet_40
+*****************
+candidate = ['special', 'menu', 'included', 'happy', 'snail', 'symbols', 'ah', 'financing', 'shell', 'job', 'seven', 'gave', 'itll', 'team', 'size', 'curved', 'model', 'whiteboard', 'arent', 'warm']
+score_abstractive = 6.96995006857e-08
+ score_extractive = 8.99468471156e-23
+
+************************['meet_41', 'meet_42', 'meet_43', 'meet_44']*************************************
+meet_41
+*****************
+candidate = ['animal', 'favourite', 'dog', 'tail', 'sale', 'beagle', 'brief', 'international', 'family', 'fed', 'chasing', 'house', 'him', 'bought', 'players', 'characteristics', 'player', 'characters', 'dinner', 'allergic']
+score_abstractive = 0.00229816046646
+ score_extractive = 2.68116352621e-17
+meet_42
+*****************
+candidate = ['basics', 'products', 'presentation', 'batteries', 'consider', 'young', 'others', 'numbers', 'pay', 'specific', 'shall', 'area', 'mute', 'least', 'familiar', 'buckets', 'perhaps', 'lunch', 'absolutely', 'age']
+score_abstractive = 7.14016705295e-07
+ score_extractive = 1.99114885966e-73
+meet_43
+*****************
+candidate = ['light', 'jog', 'titanium', 'lights', 'impact', 'dial', 'roll', 'type', 'dark', 'youd', 'shake', 'gimmick', 'mac', 'wood', 'mouse', 'examples', 'phones', 'known', 'concepts', 'combination']
+score_abstractive = 7.70946949419e-07
+ score_extractive = 2.8546958051e-54
+meet_44
+*****************
+candidate = ['nine', 'homer', 'creativity', 'jogdial', 'evaluation', 'centimetres', 'leadership', 'teamwork', 'team', 'ninja', 'points', 'report', 'seven', 'powerpoint', 'six', 'paper', 'seventy', 'tangible', 'prototype', 'budget']
+score_abstractive = 3.9037290536e-05
+ score_extractive = 1.24717833647e-49
+
+************************['meet_45', 'meet_46', 'meet_47', 'meet_48']*************************************
+meet_45
+*****************
+candidate = ['favourite', 'aware', 'elephant', 'gaming', 'tarik', 'macros', 'cats', 'monkeys', 'animals', 'animal', 'fits', 'playing', 'attitude', 'elephants', 'begins', 'clip', 'aspect', 'feared', 'opening', 'tiger']
+score_abstractive = 0.0012612572056
+ score_extractive = 2.26923091425e-16
+meet_46
+*****************
+candidate = ['return', 'bulb', 'source', 'access', 'focused', 'may', 'size', 'hundred', 'documents', 'words', 'asked', 'desktop', 'username', 'consider', 'issues', 'specific', 'clapping', 'ninety', 'outdated', 'account']
+score_abstractive = 1.76222548358e-06
+ score_extractive = 2.10154125547e-51
+meet_47
+*****************
+candidate = ['spongy', 'titanium', 'mode', 'programming', 'types', 'kinetic', 'pounds', 'clay', 'meant', 'itd', 'fit', 'ha', 'slides', 'nuisance', 'sturdy', 'flexible', 'bonus', 'booklet', 'solar', 'codes']
+score_abstractive = 3.44622418205e-05
+ score_extractive = 2.38285315875e-48
+meet_48
+*****************
+candidate = ['criteria', 'inspired', 'special', 'clothing', 'locator', 'rate', 'budget', 'euro', 'purposes', 'badly', 'needed', 'turned', 'speakers', 'edge', 'couldve', 'generous', 'pen', 'step', 'notes', 'werent']
+score_abstractive = 2.96619264204e-05
+ score_extractive = 3.07771243488e-53
+
+************************['meet_49', 'meet_50', 'meet_51', 'meet_51b']*************************************
+meet_49
+*****************
+candidate = ['eagle', 'seventeen', 'crocodile', 'tu', 'symbols', 'dog', 'bird', 'seagull', 'menus', 'animal', 'independent', 'guess', 'friend', 'golf', 'suppose', 'kept', 'dreadful', 'displays', 'tell', 'flying']
+score_abstractive = 0
+ score_extractive = 1.76377957258e-18
+meet_50
+*****************
+candidate = ['thirty', 'service', 'instruction', 'attractive', 'record', 'manual', 'appeal', 'overall', 'lab', 'date', 'curled', 'japan', 'dunno', 'street', 'generations', 'channelhopping', 'brown', 'combined', 'guide', 'money']
+score_abstractive = 2.90297528921e-07
+ score_extractive = 5.20919996136e-54
+meet_51
+*****************
+candidate = ['charging', 'solar', 'titanium', 'watch', 'm', 'looked', 'remotes', 'red', 'wind', 'check', 'normal', 'models', 'paris', 'feasibility', 'calculators', 'stock', 'pointer', 'interesting', 'milan', 'dynamo']
+score_abstractive = 0
+ score_extractive = 1.08570959392e-42
+meet_51b
+*****************
+candidate = ['rating', 'criteria', 'difference', 'evaluation', 'prototype', 'final', 'false', 'evaluate', 'specification', 'teamwork', 'minimise', 'shout', 'locate', 'felt', 'innovation', 'choice', 'sample', 'special', 'funky', 'zero']
+score_abstractive = 7.56934966065e-08
+ score_extractive = 3.13359251479e-55
+
+************************['meet_52', 'meet_53', 'meet_54', 'meet_55']*************************************
+meet_52
+*****************
+candidate = ['pda', 'electronic', 'prices', 'deciding', 'slim', 'player', 'playing', 'coach', 'finalising', 'li', 'attractive', 'worth', 'pounds', 'doubt', 'warnings', 'allocate', 'mp', 'imagine', 'wait', 'suggested']
+score_abstractive = 0
+ score_extractive = 2.56313357259e-06
+meet_53
+*****************
+candidate = ['dark', 'percent', 'glow', 'consumers', 'tft', 'noise', 'enhance', 'teletext', 'mentioned', 'care', 'turn', 'high', 'provide', 'feature', 'designer', 'group', 'bbc', 'ball', 'corporate', 'lost']
+score_abstractive = 3.82374596694e-06
+ score_extractive = 5.11464132098e-34
+meet_54
+*****************
+candidate = ['disposable', 'mobile', 'lemon', 'upper', 'body', 'chip', 'outlook', 'cover', 'technological', 'sponge', 'doublecurved', 'sit', 'man', 'processor', 'somebody', 'relate', 'facia', 'recent', 'mobiles', 'especially']
+score_abstractive = 0
+ score_extractive = 7.37645435699e-41
+meet_55
+*****************
+candidate = ['evaluation', 'meets', 'strategy', 'shift', 'six', 'fine', 'tomato', 'limiting', 'issues', 'providing', 'rating', 'scale', 'doublecurve', 'orange', 'environmental', 'false', 'requirement', 'case', 'evaluated', 'leadership']
+score_abstractive = 4.68242273658e-07
+ score_extractive = 1.56702092503e-22
+
+************************['meet_56', 'meet_57', 'meet_58', 'meet_59']*************************************
+meet_56
+*****************
+candidate = ['rabbit', 'favourite', 'legs', 'dogs', 'cow', 'body', 'horns', 'snakes', 'eyes', 'perhaps', 'specific', 'rabbits', 'gecko', 'kinds', 'original', 'tools', 'knows', 'cows', 'shouldnt', 'introduce']
+score_abstractive = 2.56313357259e-06
+ score_extractive = 9.84457871014e-25
+meet_57
+*****************
+candidate = ['popular', 'email', 'lunch', 'pay', 'switching', 'functionalities', 'sky', 'seventy', 'younger', 'age', 'yell', 'young', 'groups', 'survey', 'outdated', 'shows', 'possibility', 'video', 'general', 'older']
+score_abstractive = 1.55249650671e-06
+ score_extractive = 9.56196083228e-66
+meet_58
+*****************
+candidate = ['lcds', 'circuit', 'sender', 'plastic', 'outside', 'cases', 'ipod', 'fast', 'cells', 'thin', 'double', 'depends', 'aspect', 'normal', 'plus', 'circuits', 'picture', 'sony', 'exercise', 'movement']
+score_abstractive = 6.49964575096e-08
+ score_extractive = 2.75005547572e-71
+meet_59
+*****************
+candidate = ['seven', 'mute', 'never', 'criteria', 'righthanded', 'coloured', 'write', 'lefthanded', 'wed', 'left', 'cover', 'sensor', 'terms', 'patent', 'vibrates', 'leave', 'vibrate', 'note', 'points', 'expensive']
+score_abstractive = 2.3829072262e-08
+ score_extractive = 1.13141466072e-50
+
+************************['meet_60', 'meet_61', 'meet_62', 'meet_63']*************************************
+meet_60
+*****************
+candidate = ['animal', 'elephant', 'close', 'dvd', 'clip', 'plan', 'functions', 'wipe', 'try', 'flick', 'cat', 'sum', 'usually', 'memory', 'combination', 'complicated', 'training', 'specification', 'onto', 'tool']
+score_abstractive = 0.000281424522274
+ score_extractive = 3.22411916484e-17
+meet_61
+*****************
+candidate = ['centred', 'signal', 'older', 'generation', 'age', 'takes', 'users', 'send', 'designing', 'powerpoint', 'switch', 'lunch', 'forty', 'computers', 'white', 'updown', 'changing', 'gave', 'background', 'questionnaires']
+score_abstractive = 1.26779502624e-05
+ score_extractive = 1.57364764779e-26
+meet_62
+*****************
+candidate = ['sample', 'print', 'gives', 'keeping', 'v', 'pink', 'hello', 'coffee', 'choosing', 'machine', 'funky', 'technologically', 'general', 'advanced', 'sensor', 'movement', 'response', 'provision', 'wheel', 'crucial']
+score_abstractive = 3.13061841509e-06
+ score_extractive = 1.4540488783e-31
+meet_63
+*****************
+candidate = ['criteria', 'lefthanded', 'righthanded', 'edible', 'playdoh', 'under', 'love', 'criterias', 'finger', 'save', 'eat', 'middle', 'saved', 'amount', 'main', 'message', 'since', 'imagine', 'ring', 'top']
+score_abstractive = 0.0011111503176
+ score_extractive = 1.91488490059e-19
+
+************************['meet_64', 'meet_65', 'meet_66', 'meet_67']*************************************
+meet_64
+*****************
+candidate = ['animal', 'alima', 'recorder', 'animals', 'discussion', 'blah', 'designer', 'turtle', 'manager', 'program', 'impressive', 'water', 'california', 'live', 'snake', 'combining', 'profit', 'training', 'discussing', 'size']
+score_abstractive = 7.06844222591e-07
+ score_extractive = 2.78429710058e-20
+meet_65
+*****************
+candidate = ['recognition', 'data', 'cent', 'sixty', 'controlling', 'subjects', 'whos', 'younger', 'adjust', 'apparatus', 'above', 'desires', 'easiest', 'fulfil', 'hidden', 'emailed', 'effects', 'upgrade', 'frustrated', 'coffee']
+score_abstractive = 8.13683063838e-08
+ score_extractive = 3.28256430524e-50
+meet_66
+*****************
+candidate = ['options', 'regular', 'titanium', 'display', 'fruit', 'print', 'materials', 'solar', 'weight', 'conceptual', 'model', 'description', 'ts', 'contrast', 'pushbutton', 'grippable', 'manufacturing', 'properties', 'lemons', 'cases']
+score_abstractive = 3.57550760569e-08
+ score_extractive = 3.05964402007e-48
+meet_67
+*****************
+candidate = ['lose', 'rr', 'mango', 'rhombus', 'grey', 'creative', 'address', 'couldve', 'stem', 'hey', 'martian', 'toggle', 'learning', 'seven', 'keys', 'unit', 'excel', 'started', 'send', 'submenus']
+score_abstractive = 4.67602961835e-07
+ score_extractive = 7.83171538597e-57
+
+************************['meet_68', 'meet_69', 'meet_70', 'meet_71']*************************************
+meet_68
+*****************
+candidate = ['tell', 'san', 'wow', 'diego', 'california', 'love', 'he', 'expert', 'lived', 'bucks', 'pounds', 'initial', 'ts', 'family', 'music', 'introductions', 'miss', 'local', 'youll', 'store']
+score_abstractive = 6.28801517687e-05
+ score_extractive = 8.51293782032e-17
+meet_69
+*****************
+candidate = ['metal', 'younger', 'plug', 'older', 'microchip', 'method', 'company', 'messages', 'demographic', 'focus', 'putting', 'slogan', 'fewer', 'preferences', 'brief', 'unplug', 'sacrifice', 'demographics', 'several', 'mode']
+score_abstractive = 8.94621521411e-06
+ score_extractive = 2.15764299332e-51
+meet_70
+*****************
+candidate = ['line', 'current', 'manufacturer', 'ipod', 'table', 'side', 'route', 'o', 'decisions', 'cases', 'handheld', 'choose', 'drop', 'rec', 'curved', 'chips', 'seventeen', 'inhouse', 'calculator', 'deal']
+score_abstractive = 2.11485412973e-09
+ score_extractive = 1.11489207248e-61
+meet_71
+*****************
+candidate = ['felt', 'budget', 'internet', 'needed', 'experiment', 'legos', 'added', 'ninety', 'panel', 'clever', 'nine', 'process', 'woulda', 'beginning', 'blank', 'mine', 'words', 'report', 'creativity', 'worked']
+score_abstractive = 5.83875364366e-06
+ score_extractive = 1.12292495006e-60
+
+************************['meet_72', 'meet_73', 'meet_74', 'meet_75']*************************************
+meet_72
+*****************
+candidate = ['cats', 'cat', 'love', 'badger', 'drew', 'blah', 'allergic', 'meet', 'fenella', 'animal', 'fish', 'profit', 'sad', 'experiences', 'wants', 'while', 'draw', 'favourite', 'sleep', 'kitty']
+score_abstractive = 0.000230410911056
+ score_extractive = 2.27877703954e-09
+meet_73
+*****************
+candidate = ['include', 'speech', 'engineering', 'smart', 'age', 'ten', 'settings', 'set', 'news', 'charger', 'television', 'pick', 'menus', 'already', 'send', 'desires', 'rewind', 'group', 'complex', 'fastforward']
+score_abstractive = 1.52148608217e-08
+ score_extractive = 6.38321092819e-23
+meet_74
+*****************
+candidate = ['options', 'titanium', 'sample', 'casing', 'year', 'smaller', 'concepts', 'doublecurved', 'customer', 'instead', 'circuit', 'hard', 'particularly', 'please', 'wood', 'signal', 'recommend', 'solar', 'rubber', 'retro']
+score_abstractive = 3.55487985223e-08
+ score_extractive = 1.12076515147e-27
+meet_75
+*****************
+candidate = ['fashionable', 'under', 'pushbutton', 'criteria', 'special', 'single', 'capable', 'went', 'fruity', 'giant', 'whoohoo', 'minus', 'ipods', 'brother', 'commercial', 'sexy', 'call', 'ma', 'beautiful', 'chic']
+score_abstractive = 3.54868633873e-06
+ score_extractive = 8.44841867555e-13
+
+************************['meet_76', 'meet_77', 'meet_78', 'meet_79']*************************************
+meet_76
+*****************
+candidate = ['draw', 'million', 'animal', 'fifty', 'tactile', 'water', 'euro', 'cat', 'twenty', 'price', 'furry', 'stand', 'horse', 'sleek', 'tail', 'couches', 'portable', 'chiara', 'dolphin', 'intelligent']
+score_abstractive = 0.000319442564098
+ score_extractive = 1.46432471656e-12
+meet_77
+*****************
+candidate = ['press', 'recognition', 'click', 'speech', 'location', 'group', 'target', 'young', 'vcr', 'professionals', 'teenagers', 'region', 'ir', 'plug', 'separate', 'disc', 'knows', 'times', 'pay', 'since']
+score_abstractive = 8.51311623799e-08
+ score_extractive = 8.77377274975e-30
+meet_78
+*****************
+candidate = ['cover', 'dynamo', 'squashy', 'question', 'circuit', 'parts', 'print', 'banana', 'web', 'custom', 'option', 'hit', 'bought', 'graphical', 'solar', 'squish', 'bicycle', 'trend', 'ipodstyle', 'current']
+score_abstractive = 2.44443901464e-07
+ score_extractive = 5.02292092978e-27
+meet_79
+*****************
+candidate = ['guys', 'criteria', 'missed', 'told', 'false', 'table', 'personally', 'real', 'mango', 'production', 'questions', 'meets', 'necessary', 'whiteboard', 'role', 'felt', 'wordperfect', 'standards', 'video', 'adds']
+score_abstractive = 9.42924146331e-07
+ score_extractive = 4.73199317039e-24
+
+************************['meet_80', 'meet_81', 'meet_82', 'meet_83']*************************************
+meet_80
+*****************
+candidate = ['experience', 'themselves', 'industrial', 'dependable', 'smaller', 'sticking', 'feelings', 'screens', 'knows', 'awkward', 'ev', 'profit', 'free', 'sell', 'best', 'contribution', 'considering', 'latest', 'planet', 'presenting']
+score_abstractive = 0.00100886124099
+ score_extractive = 1.27895389585e-28
+meet_81
+*****************
+candidate = ['teletext', 'messages', 'settings', 'relevance', 'box', 'clicking', 'technical', 'high', 'requirements', 'system', 'centred', 'behaviour', 'hour', 'forty', 'seventy', 'saw', 'screen', 'audio', 'losing', 'often']
+score_abstractive = 5.41874524867e-06
+ score_extractive = 4.17601227953e-55
+meet_82
+*****************
+candidate = ['fashions', 'reaction', 'furniture', 'custom', 'holding', 'brightness', 'shelf', 'internal', 'kay', 'bring', 'connections', 'connection', 'fruit', 'without', 'every', 'fingers', 'preprogramme', 'guarantee', 'displayed', 'lasting']
+score_abstractive = 1.30548874719e-06
+ score_extractive = 4.04249106292e-67
+meet_83
+*****************
+candidate = ['minor', 'seven', 'criteria', 'companys', 'argue', 'stretch', 'budget', 'meets', 'broaden', 'dif', 'met', 'rubbery', 'lengthen', 'eleven', 'call', 'excellent', 'natural', 'finance', 'ipod', 'standard']
+score_abstractive = 9.15698848743e-06
+ score_extractive = 3.2027557882e-27
+
+************************['meet_84', 'meet_85', 'meet_86', 'meet_87']*************************************
+meet_84
+*****************
+candidate = ['animal', 'characteristics', 'cat', 'fish', 'draw', 'favourite', 'ratty', 'rat', 'cats', 'tail', 'quick', 'clothes', 'mousey', 'rabbit', 'mute', 'b', 'international', 'homework', 'bunny', 'webbed']
+score_abstractive = 0.000225107370269
+ score_extractive = 4.69769716478e-18
+meet_85
+*****************
+candidate = ['key', 'age', 'early', 'range', 'sending', 'inspired', 'ninety', 'eighty', 'personal', 'teletext', 'ages', 'access', 'comment', 'dock', 'build', 'adopters', 'granny', 'buying', 'aa', 'users']
+score_abstractive = 3.13443638903e-07
+ score_extractive = 1.26104643981e-56
+meet_86
+*****************
+candidate = ['manufacturing', 'cant', 'support', 'companys', 'interchangeable', 'whole', 'certainly', 'sample', 'name', 'development', 'onto', 'watch', 'available', 'surface', 'middle', 'pointless', 'picture', 'difference', 'basics', 'family']
+score_abstractive = 0
+ score_extractive = 6.50278876884e-63
+meet_87
+*****************
+candidate = ['material', 'false', 'curve', 'special', 'single', 'average', 'ugly', 'criteria', 'spreadsheet', 'switch', 'imagine', 'respect', 'finished', 'depends', 'evaluate', 'absolutely', 'pardon', 'ice', 'follow', 'word']
+score_abstractive = 5.04886054195e-07
+ score_extractive = 1.48928044982e-41
+
+************************['meet_88', 'meet_89', 'meet_90', 'meet_91']*************************************
+meet_88
+*****************
+candidate = ['training', 'tool', 'fish', 'combined', 'tired', 'few', 'animal', 'profit', 'dogs', 'microphone', 'dog', 'during', 'margin', 'ooh', 'cat', 'whenever', 'return', 'bash', 'artistic', 'exclusive']
+score_abstractive = 0
+ score_extractive = 4.86346298693e-23
+meet_89
+*****************
+candidate = ['menu', 'ten', 'brightness', 'teletext', 'sends', 'tune', 'primary', 'forty', 'frustration', 'added', 'flick', 'contrast', 'clapping', 'powerpoint', 'internet', 'fourteen', 'tuner', 'receiver', 'task', 'infrared']
+score_abstractive = 2.98156812247e-07
+ score_extractive = 8.62880115662e-60
+meet_90
+*****************
+candidate = ['circuit', 'scroll', 'wheel', 'requires', 'trends', 'cases', 'require', 'regular', 'specialist', 'curves', 'pointing', 'doublecurved', 'changes', 'veg', 'fashions', 'watches', 'careful', 'finder', 'plasticine', 'childrens']
+score_abstractive = 1.37126843006e-07
+ score_extractive = 6.78993003576e-55
+meet_91
+*****************
+candidate = ['special', 'sample', 'prototype', 'colours', 'supplements', 'criteria', 'speaker', 'evaluation', 'finance', 'cherry', 'save', 'lemon', 'false', 'close', 'leadership', 'assuming', 'saved', 'changed', 'originally', 'innovative']
+score_abstractive = 6.11540076995e-09
+ score_extractive = 2.24295190717e-66
+
+************************['meet_92', 'meet_93', 'meet_94', 'meet_95']*************************************
+meet_92
+*****************
+candidate = ['animal', 'draw', 'half', 'phase', 'elk', 'cats', 'industrial', 'dogs', 'butterfly', 'seemed', 'cartoon', 'wall', 'detailed', 'friendly', 'enjoy', 'landed', 'teambuilding', 'name', 'profit', 'training']
+score_abstractive = 6.14938375704e-05
+ score_extractive = 3.74132927646e-16
+meet_93
+*****************
+candidate = ['glowinthedark', 'voice', 'internet', 'recognition', 'pay', 'somewhere', 'unique', 'multifunctional', 'compatible', 'products', 'entertainment', 'extra', 'seconds', 'findings', 'ninety', 'takes', 'themselves', 'shapememory', 'complicate', 'side']
+score_abstractive = 3.55706927225e-06
+ score_extractive = 8.01634996461e-40
+meet_94
+*****************
+candidate = ['command', 'advanced', 'technology', 'interfaces', 'vegetables', 'televisions', 'display', 'graphical', 'works', 'strawberry', 'tone', 'pointing', 'faceplates', 'mine', 'internal', 'plate', 'choice', 'talked', 'contrast', 'pushbutton']
+score_abstractive = 1.48262720818e-07
+ score_extractive = 2.51866228846e-37
+meet_95
+*****************
+candidate = ['plus', 'mango', 'prototype', 'enter', 'special', 'banana', 'grey', 'thumb', 'creativity', 'eleven', 'play', 'doh', 'leadership', 'fall', 'others', 'awesome', 'locked', 'killed', 'scheme', 'particularly']
+score_abstractive = 6.81371142262e-06
+ score_extractive = 3.26659224958e-30
+
+************************['meet_96', 'meet_97', 'meet_98', 'meet_99']*************************************
+meet_96
+*****************
+candidate = ['hinge', 'detailed', 'stable', 'phase', 'inside', 'dealing', 'stability', 'points', 'throw', 'manager', 'apply', 'must', 'spot', 'hands', 'front', 'towards', 'unless', 'opening', 'fulfil', 'noise']
+score_abstractive = 0.000982268099378
+ score_extractive = 9.83353969945e-29
+meet_97
+*****************
+candidate = ['ten', 'pay', 'zapping', 'explore', 'hour', 'hidden', 'lunch', 'messages', 'settings', 'concentrate', 'less', 'using', 'conclusion', 'image', 'normally', 'causes', 'young', 'findings', 'repetitive', 'click']
+score_abstractive = 2.39108604667e-08
+ score_extractive = 1.54024559975e-56
+meet_98
+*****************
+candidate = ['program', 'rubbery', 'options', 'assume', 'given', 'base', 'sophisticated', 'station', 'shell', 'fruits', 'stripes', 'various', 'youll', 'wheels', 'graphical', 'surface', 'bowl', 'lower', 'grapefruit', 'gave']
+score_abstractive = 3.21929561516e-07
+ score_extractive = 3.89932108689e-32
+meet_99
+*****************
+candidate = ['criteria', 'fall', 'twelve', 'stolen', 'seven', 'scale', 'calculate', 'impressive', 'solved', 'dis', 'blue', 'pushbutton', 'let', 'achieve', 'excellent', 'mo', 'beautiful', 'process', 'sample', 'st']
+score_abstractive = 1.30548874719e-06
+ score_extractive = 3.57510824475e-20
+
+************************['meet_112', 'meet_113', 'meet_114', 'meet_115']*************************************
+meet_112
+*****************
+candidate = ['tool', 'white', 'width', 'line', 'cat', 'write', 'animal', 'undo', 'training', 'morning', 'bart', 'select', 'sheep', 'slow', 'garfield', 'trying', 'notes', 'shock', 'aquaintance', 'aim']
+score_abstractive = 0.000106333192491
+ score_extractive = 3.34095382988e-24
+meet_113
+*****************
+candidate = ['selection', 'touchscreen', 'used', 'simply', 'critical', 'addition', 'been', 'sent', 'implement', 'learn', 'feature', 'settings', 'robust', 'ages', 'frequently', 'power', 'tvs', 'age', 'results', 'trouble']
+score_abstractive = 1.68150217027e-08
+ score_extractive = 2.86599195051e-50
+meet_114
+*****************
+candidate = ['energy', 'kinetic', 'wood', 'innovativeness', 'trendwatchers', 'prefer', 'speech', 'department', 'casing', 'concepts', 'shake', 'thumb', 'ca', 'manufacturing', 'flip', 'supplement', 'telephoneshaped', 'far', 'wooden', 'obsolete']
+score_abstractive = 5.30652379156e-06
+ score_extractive = 1.89081873555e-53
+meet_115
+*****************
+candidate = ['criteria', 'scrollwheel', 'fifteen', 'minus', 'wheel', 'count', 'euro', 'final', 'score', 'pressing', 'export', 'getting', 'below', 'saves', 'download', 'tasks', 'process', 'data', 'mute', 'logo']
+score_abstractive = 7.23751083282e-10
+ score_extractive = 7.26780798783e-48
+
+************************['meet_116', 'meet_117', 'meet_118', 'meet_119']*************************************
+meet_116
+*****************
+candidate = ['animal', 'water', 'dog', 'laptop', 'fragile', 'try', 'pink', 'elephant', 'help', 'paper', 'strength', 'cat', 'specifications', 'thank', 'million', 'format', 'pig', 'separately', 'purple', 'whiteboard']
+score_abstractive = 0
+ score_extractive = 4.37115487123e-32
+meet_117
+*****************
+candidate = ['percent', 'pattern', 'plus', 'under', 'patterns', 'producing', 'figure', 'lunch', 'indicate', 'integrate', 'diode', 'turns', 'told', 'produces', 'complicated', 'seventy', 'surname', 'especially', 'aint', 'zee']
+score_abstractive = 8.3457103437e-08
+ score_extractive = 5.48507785435e-69
+meet_118
+*****************
+candidate = ['soft', 'display', 'aspect', 'received', 'trend', 'mp', 'feature', 'wheels', 'technology', 'materials', 'sponge', 'public', 'ordinary', 'possibilities', 'opportunity', 'curves', 'italy', 'moment', 'al', 'depth']
+score_abstractive = 6.80951749919e-08
+ score_extractive = 5.95324016402e-62
+meet_119
+*****************
+candidate = ['learnable', 'stupid', 'weve', 'targeted', 'behind', 'criteria', 'evaluation', 'leader', 'warning', 'underneath', 'missed', 'bomb', 'computer', 'afterwards', 'creativity', 'average', 'latest', 'digital', 'pointing', 'saved']
+score_abstractive = 2.3192191639e-06
+ score_extractive = 6.98352804622e-32
+
+************************['meet_120', 'meet_121', 'meet_122', 'meet_123']*************************************
+meet_120
+*****************
+candidate = ['aim', 'favourite', 'animal', 'rabbit', 'dolphin', 'turtle', 'cameras', 'pages', 'words', 'snail', 'world', 'britain', 'expertise', 'segments', 'dinosaur', 'consists', 'consideration', 'experience', 'achieve', 'everywhere']
+score_abstractive = 0
+ score_extractive = 6.93626712162e-24
+meet_121
+*****************
+candidate = ['percent', 'ja', 'done', 'power', 'share', 'seventy', 'focus', 'digits', 'charger', 'usage', 'age', 'infrared', 'section', 'version', 'high', 'mode', 'zap', 'sub', 'recharger', 'interested']
+score_abstractive = 3.31675150219e-09
+ score_extractive = 5.1536085728e-59
+meet_122
+*****************
+candidate = ['silver', 'round', 'shapes', 'decide', 'case', 'minus', 'liked', 'shape', 'larger', 'kinda', 'components', 'depends', 'cpu', 'component', 'concepts', 'autumn', 'horizontal', 'corners', 'banana', 'corner']
+score_abstractive = 6.39579101323e-07
+ score_extractive = 2.19786298967e-58
+meet_123
+*****************
+candidate = ['wheel', 'evaluation', 'scrap', 'sample', 'seven', 'feature', 'sometimes', 'copy', 'mic', 'count', 'ma', 'bad', 'designed', 'false', 'curves', 'worked', 'strange', 'happy', 'nah', 'excel']
+score_abstractive = 7.14016705295e-07
+ score_extractive = 5.85041666346e-64
+
+************************['meet_124', 'meet_125', 'meet_126', 'meet_127']*************************************
+meet_124
+*****************
+candidate = ['cat', 'animal', 'turtle', 'legs', 'discussion', 'giraffe', 'explain', 'expert', 'specific', 'spots', 'am', 'friendly', 'gum', 'apparatus', 'kangaroo', 'amount', 'eye', 'particular', 'practice', 'industrial']
+score_abstractive = 1.29766433982e-05
+ score_extractive = 5.82466671681e-27
+meet_125
+*****************
+candidate = ['below', 'bass', 'newsflash', 'programming', 'age', 'brightness', 'pitch', 'swap', 'groups', 'microphone', 'mono', 'saved', 'frequencies', 'list', 'above', 'map', 'equaliser', 'programmed', 'frequency', 'lunchbreak']
+score_abstractive = 1.21535287984e-08
+ score_extractive = 1.17142079257e-31
+meet_126
+*****************
+candidate = ['leds', 'dark', 'spongey', 'cheap', 'background', 'include', 'flashy', 'stands', 'banana', 'curves', 'colourblind', 'dimension', 'source', 'backlight', 'sign', 'visible', 'easiest', 'combination', 'developments', 'looking']
+score_abstractive = 1.44278819726e-06
+ score_extractive = 8.36225328658e-37
+meet_127
+*****************
+candidate = ['integrated', 'click', 'scrollwheel', 'dropped', 'r', 'questions', 'casing', 'useful', 'seven', 'scale', 'fifteen', 'positive', 'joystick', 'bold', 'curve', 'criteria', 'hides', 'process', 'sample', 'divided']
+score_abstractive = 4.03019859837e-07
+ score_extractive = 3.51303278175e-37
+
+************************['meet_128', 'meet_129', 'meet_130', 'meet_131']*************************************
+meet_128
+*****************
+candidate = ['rabbit', 'dog', 'million', 'cat', 'animal', 'width', 'widths', 'morning', 'dig', 'high', 'drawings', 'lion', 'watched', 'favourite', 'brother', 'wolfs', 'exercise', 'apple', 'simba', 'mouse']
+score_abstractive = 0
+ score_extractive = 2.7741329853e-27
+meet_129
+*****************
+candidate = ['menus', 'break', 'connected', 'memory', 'percent', 'questionnaire', 'sixty', 'receiving', 'firmware', 'beep', 'updated', 'hundreds', 'placeholder', 'possibilities', 'dunno', 'service', 'pc', 'connection', 'source', 'universal']
+score_abstractive = 3.28663513049e-06
+ score_extractive = 4.38154460707e-65
+meet_130
+*****************
+candidate = ['plastic', 'program', 'watching', 'power', 'voice', 'casing', 'knowledge', 'clock', 'hightech', 'amount', 'usually', 'install', 'logon', 'light', 'levels', 'materials', 'plus', 'panels', 'resources', 'screaming']
+score_abstractive = 2.44443901464e-07
+ score_extractive = 8.9443227786e-35
+meet_131
+*****************
+candidate = ['write', 'under', 'daniel', 'false', 'meetings', 'blue', 'version', 'flat', 'redesign', 'cut', 'leadership', 'crappy', 'try', 'value', 'sample', 'weemote', 'orange', 'application', 'uncurved', 'layer']
+score_abstractive = 2.4347991894e-06
+ score_extractive = 2.85886955353e-54
+
+************************['meet_132', 'meet_133', 'meet_134', 'meet_135']*************************************
+meet_132
+*****************
+candidate = ['animal', 'favourite', 'bird', 'cat', 'blank', 'closed', 'piranha', 'home', 'tools', 'teeth', 'training', 'stereo', 'birds', 'wake', 'pressing', 'format', 'acquaintance', 'width', 'boards', 'widths']
+score_abstractive = 8.50990314958e-06
+ score_extractive = 1.02821092001e-13
+meet_133
+*****************
+candidate = ['decide', 'options', 'known', 'lunch', 'bleep', 'hundred', 'able', 'reach', 'stop', 'customers', 'pages', 'present', 'rewind', 'years', 'interesting', 'quick', 'becoming', 'play', 'costly', 'speed']
+score_abstractive = 2.21451733146e-08
+ score_extractive = 4.62131193144e-31
+meet_134
+*****************
+candidate = ['fruity', 'dark', 'bring', 'spongy', 'fruit', 'soft', 'vegetables', 'catchy', 'rc', 'materials', 'pear', 'solid', 'fruits', 'young', 'coloured', 'displays', 'word', 'drop', 'shelf', 'resembles']
+score_abstractive = 5.33403055277e-08
+ score_extractive = 6.16296342085e-35
+meet_135
+*****************
+candidate = ['signal', 'cents', 'advanced', 'amount', 'gives', 'sample', 'dash', 'sell', 'regular', 'separate', 'requires', 'dynamo', 'seconds', 'scrollwheel', 'retrieval', 'evaluation', 'number', 'zero', 'anyway', 'chips']
+score_abstractive = 4.58022294809e-08
+ score_extractive = 6.48600016456e-62
+
+************************['meet_136', 'meet_137', 'meet_138', 'meet_139']*************************************
+meet_136
+*****************
+candidate = ['pink', 'hope', 'players', 'china', 'favourite', 'thickness', 'fantastic', 'boxy', 'duck', 'hedgehog', 'thank', 'english', 'wonderful', 'international', 'culture', 'probably', 'opening', 'country', 'assignment', 'beast']
+score_abstractive = 0
+ score_extractive = 1.58267215454e-42
+meet_137
+*****************
+candidate = ['cent', 'per', 'zap', 'zapping', 'manual', 'av', 'users', 'setting', 'somewhere', 'clip', 'picks', 'key', 'uses', 'wed', 'sends', 'feature', 'mail', 'lunch', 'brightness', 'especially']
+score_abstractive = 2.19119602666e-12
+ score_extractive = 7.79821305394e-36
+meet_138
+*****************
+candidate = ['coffee', 'year', 'examples', 'cable', 'message', 'wood', 'recording', 'choice', 'sports', 'gaming', 'style', 'menus', 'complex', 'positioned', 'copper', 'primary', 'microphone', 'empty', 'sources', 'touch']
+score_abstractive = 1.38552141931e-11
+ score_extractive = 5.20482823089e-24
+meet_139
+*****************
+candidate = ['dump', 'she', 'huge', 'regular', 'designed', 'account', 'creativity', 'evaluate', 'hated', 'useless', 'managers', 'school', 'large', 'suggestions', 'fourteen', 'grab', 'sensitive', 'nils', 'teamwork', 'kick']
+score_abstractive = 1.34849052969e-09
+ score_extractive = 4.96176443251e-23
+
+************************['meet_140', 'meet_141', 'meet_142', 'meet_143']*************************************
+meet_140
+*****************
+candidate = ['led', 'positive', 'batteries', 'try', 'heavy', 'corner', 'pen', 'bird', 'goal', 'experiences', 'once', 'help', 'kickoff', 'pictionary', 'weeks', 'animal', 'format', 'bustfree', 'instructions', 'parrot']
+score_abstractive = 0.0125800094911
+ score_extractive = 4.6853352577e-13
+meet_141
+*****************
+candidate = ['users', 'requirements', 'technical', 'findings', 'cover', 'discussion', 'speech', 'percent', 'decisions', 'even', 'nokia', 'audio', 'asked', 'relevant', 'recognition', 'phase', 'functions', 'interested', 'children', 'send']
+score_abstractive = 0.000139942351351
+ score_extractive = 4.82632092283e-48
+meet_142
+*****************
+candidate = ['concept', 'shape', 'hand', 'icons', 'arrow', 'k', 'kinetic', 'year', 'thumb', 'around', 'may', 'might', 'feeling', 'handle', 'playstation', 'laptop', 'chips', 'requires', 'chose', 'mu']
+score_abstractive = 7.70946949419e-07
+ score_extractive = 3.42002781418e-41
+meet_143
+*****************
+candidate = ['fashion', 'evaluation', 'rating', 'technologically', 'item', 'instead', 'finance', 'thirteen', 'fancy', 'statement', 'double', 'false', 'average', 'agree', 'prototype', 'calculate', 'fifteen', 'criteria', 'word', 'end']
+score_abstractive = 4.10387752213e-05
+ score_extractive = 5.13103846645e-33
+
+************************['meet_144', 'meet_145', 'meet_146', 'meet_147']*************************************
+meet_144
+*****************
+candidate = ['animal', 'morning', 'role', 'file', 'width', 'meetings', 'whiteboard', 'cameras', 'stages', 'business', 'selected', 'beautiful', 'tools', 'today', 'cat', 'fu', 'restriction', 'development', 'square', 'correct']
+score_abstractive = 1.30886792286e-07
+ score_extractive = 1.21535077513e-39
+meet_145
+*****************
+candidate = ['circuit', 'teletext', 'cheap', 'clapping', 'lunch', 'leds', 'connected', 'selection', 'implementing', 'percent', 'profitable', 'become', 'technique', 'friendly', 'usually', 'break', 'messages', 'saving', 'elder', 'zap']
+score_abstractive = 9.50624007486e-12
+ score_extractive = 1.09807016086e-32
+meet_146
+*****************
+candidate = ['mute', 'scrollwheels', 'scrollwheel', 'colourful', 'sample', 'touch', 'side', 'material', 'lcd', 'sensor', 'curved', 'cover', 'traditional', 'finishing', 'hand', 'wood', 'likes', 'version', 'wait', 'amount']
+score_abstractive = 9.09508648312e-12
+ score_extractive = 1.99273516625e-31
+meet_147
+*****************
+candidate = ['process', 'redesign', 'criteria', 'type', 'divided', 'evaluate', 'tongue', 'choice', 'learn', 'better', 'missed', 'model', 'seven', 'offer', 'digital', 'once', 'under', 'further', 'private', 'after']
+score_abstractive = 7.20018812154e-08
+ score_extractive = 1.02351714646e-18
+
+************************['meet_148', 'meet_149', 'meet_150', 'meet_151']*************************************
+meet_148
+*****************
+candidate = ['animal', 'dolphin', 'elephant', 'strong', 'excellent', 'introduce', 'bomb', 'morning', 'expert', 'nuclear', 'latest', 'freedom', 'skip', 'skills', 'thirty', 'designer', 'disabled', 'skipped', 'views', 'dirk']
+score_abstractive = 0.000311447430561
+ score_extractive = 3.62923894035e-07
+meet_149
+*****************
+candidate = ['universal', 'usually', 'computer', 'symbols', 'station', 'tvs', 'shall', 'men', 'flat', 'sell', 'code', 'manageable', 'morse', 'crashed', 'fade', 'complicated', 'circuit', 'zap', 'switch', 'text']
+score_abstractive = 2.53767099887e-13
+ score_extractive = 3.17051682793e-36
+meet_150
+*****************
+candidate = ['scrollwheel', 'square', 'component', 'edges', 'energy', 'edition', 'matter', 'voice', 'titanium', 'wood', 'missing', 'speaker', 'focussing', 'focus', 'fall', 'flashy', 'cells', 'solar', 'alright', 'manage']
+score_abstractive = 5.11338919877e-11
+ score_extractive = None
+meet_151
+*****************
+candidate = ['triple', 'reaction', 'rc', 'dash', 'catchy', 'order', 'communication', 'sells', 'scrap', 'reactor', 'agreed', 'overall', 'page', 'stuck', 'seven', 'solution', 'favour', 'chose', 'met', 'customer']
+score_abstractive = 1.64480126225e-09
+ score_extractive = 1.91891785477e-23
+
