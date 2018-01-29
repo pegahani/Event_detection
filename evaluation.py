@@ -10,19 +10,25 @@ from heapq import nlargest
 
 class compare_with_AMI_results:
 
-    def __init__(self, corpus):
-        self.corpus = corpus
+    def __init__(self, corpus_list):
+
+        if not isinstance(corpus_list, (list,)):
+            self.corpus_list = [corpus_list]
+        else:
+            self.corpus_list = corpus_list
 
     def get_resumes(self):
 
-        self.resume_abstractive = './manual_resume_abstractive/' + self.corpus + '.txt'
-        if os.path.exists(self.resume_abstractive) == False:
-            self.resume_abstractive = None
-        self.resume_extractive = './manual_resume_extractive/extsumm/' + self.corpus + '.txt'
-        if os.path.exists(self.resume_extractive) == False:
-            self.resume_extractive = None
+        self.resume_abstractive = []
+        self.resume_extractive = []
 
+        for meet in self.corpus_list:
+            if os.path.exists('./manual_resume_abstractive/' + meet+ '.txt') == True:
+                self.resume_abstractive.append(meet)
+            if os.path.exists('./manual_resume_extractive/extsumm/' + meet + '.txt') == True:
+                self.resume_extractive.append(meet)
         return
+
 
     def get_best_k_tfidf(self,k, tf_idf):
         """
@@ -60,16 +66,15 @@ class compare_with_AMI_results:
 
         """first elemnt in refrences is the abstractive resume and the second one is the extractive resume"""
 
-        if self.resume_abstractive != None:
-            abstractive_score = sentence_bleu([tools.tokenize(tools.text_to_string(self.resume_abstractive, is_resume_abstract=True))], candidate)
-        # elif self.resume_abstractive == None:
-        #     abstractive_score = None
-
-        if self.resume_extractive != None:
-            self.clean_extractive(self.corpus)
-            extractive_score = sentence_bleu([tools.tokenize(tools.text_to_string('./axilaury_extractive/' + self.corpus + '.txt'))], candidate)
-        # elif self.resume_extractive == None:
-        #     extractive_score = None
+        # if the list is not empty
+        if self.resume_abstractive:
+            abstractive_score = sentence_bleu([tools.tokenize(tools.text_to_string('./manual_resume_abstractive/'+text + '.txt', is_resume_abstract=True))
+                                               for text in self.resume_abstractive], candidate)
+        # if the list is not empty
+        if self.resume_extractive:
+            #self.clean_extractive(self.corpus)
+            extractive_score = sentence_bleu([tools.tokenize(tools.text_to_string('./axilaury_extractive/' + text + '.txt'))
+                                              for text in self.resume_extractive], candidate)
 
         return (abstractive_score, extractive_score)
 
