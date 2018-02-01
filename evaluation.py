@@ -68,6 +68,7 @@ class compare_with_AMI_results:
 
         # if the list is not empty
         if self.resume_abstractive:
+
             abstractive_score = sentence_bleu([tools.tokenize(tools.text_to_string('./manual_resume_abstractive/'+text + '.txt', is_resume_abstract=True))
                                                for text in self.resume_abstractive], candidate)
         # if the list is not empty

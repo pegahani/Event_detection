@@ -1,0 +1,226 @@
+******************************************************
+
+
+top topics of each corpus
+meet_1.txt: 45
+meet_2.txt: 44
+meet_3.txt: 47
+meet_4.txt: 42
+meet_5.txt: 44
+meet_6.txt: 44
+meet_7.txt: 47
+meet_8.txt: 39
+meet_10.txt: 42
+meet_11.txt: 42
+meet_12.txt: 42
+meet_13.txt: 45
+meet_14.txt: 35
+meet_15.txt: 13
+meet_16.txt: 35
+meet_17.txt: 44
+meet_18.txt: 44
+meet_19.txt: 42
+meet_20.txt: 44
+meet_21.txt: 45
+meet_22.txt: 47
+meet_23.txt: 38
+meet_25.txt: 45
+meet_26.txt: 44
+meet_27.txt: 44
+meet_28.txt: 33
+meet_29.txt: 39
+meet_30.txt: 39
+meet_31.txt: 39
+meet_32.txt: 39
+meet_33.txt: 47
+meet_34.txt: 47
+meet_35.txt: 44
+meet_36.txt: 44
+meet_37.txt: 46
+meet_38.txt: 13
+meet_39.txt: 13
+meet_40.txt: 47
+meet_41.txt: 47
+meet_42.txt: 44
+meet_43.txt: 33
+meet_44.txt: 38
+meet_45.txt: 29
+meet_46.txt: 29
+meet_47.txt: 29
+meet_48.txt: 29
+meet_49.txt: 44
+meet_50.txt: 44
+meet_51.txt: 44
+meet_51b.txt: 44
+meet_52.txt: 47
+meet_53.txt: 20
+meet_54.txt: 20
+meet_55.txt: 44
+meet_56.txt: 47
+meet_57.txt: 44
+meet_58.txt: 47
+meet_59.txt: 47
+meet_60.txt: 44
+meet_61.txt: 44
+meet_62.txt: 44
+meet_63.txt: 38
+meet_64.txt: 44
+meet_65.txt: 44
+meet_66.txt: 37
+meet_67.txt: 37
+meet_68.txt: 47
+meet_69.txt: 47
+meet_70.txt: 47
+meet_71.txt: 47
+meet_72.txt: 30
+meet_73.txt: 39
+meet_74.txt: 47
+meet_75.txt: 37
+meet_76.txt: 47
+meet_77.txt: 44
+meet_78.txt: 47
+meet_79.txt: 47
+meet_80.txt: 47
+meet_81.txt: 47
+meet_82.txt: 47
+meet_83.txt: 47
+meet_84.txt: 47
+meet_85.txt: 47
+meet_86.txt: 47
+meet_87.txt: 47
+meet_88.txt: 45
+meet_89.txt: 44
+meet_90.txt: 47
+meet_91.txt: 35
+meet_92.txt: 44
+meet_93.txt: 20
+meet_94.txt: 47
+meet_95.txt: 37
+meet_96.txt: 35
+meet_97.txt: 44
+meet_98.txt: 47
+meet_99.txt: 44
+meet_112.txt: 45
+meet_113.txt: 46
+meet_114.txt: 24
+meet_115.txt: 24
+meet_116.txt: 46
+meet_117.txt: 46
+meet_118.txt: 45
+meet_119.txt: 45
+meet_120.txt: 46
+meet_121.txt: 46
+meet_122.txt: 46
+meet_123.txt: 49
+meet_124.txt: 45
+meet_125.txt: 49
+meet_126.txt: 49
+meet_127.txt: 49
+meet_128.txt: 45
+meet_129.txt: 43
+meet_130.txt: 43
+meet_131.txt: 49
+meet_132.txt: 45
+meet_133.txt: 46
+meet_134.txt: 24
+meet_135.txt: 24
+meet_136.txt: 45
+meet_137.txt: 45
+meet_138.txt: 45
+meet_139.txt: 45
+meet_140.txt: 49
+meet_141.txt: 44
+meet_142.txt: 29
+meet_143.txt: 29
+meet_144.txt: 40
+meet_145.txt: 40
+meet_146.txt: 40
+meet_147.txt: 40
+meet_148.txt: 45
+meet_149.txt: 44
+meet_150.txt: 49
+meet_151.txt: 30
+meet_156.txt: 18
+meet_157.txt: 34
+meet_158.txt: 26
+meet_159.txt: 32
+meet_160.txt: 3
+meet_161.txt: 5
+meet_162.txt: 36
+meet_163.txt: 7
+meet_164.txt: 9
+meet_165.txt: 8
+meet_166.txt: 23
+meet_167.txt: 25
+meet_168.txt: 25
+meet_169.txt: 15
+meet_170.txt: 6
+meet_171.txt: 10
+meet_172.txt: 22
+meet_188.txt: 0
+meet_173.txt: 11
+meet_174.txt: 27
+meet_175.txt: 17
+meet_176.txt: 41
+meet_177.txt: 48
+meet_178.txt: 19
+meet_179.txt: 28
+meet_180.txt: 21
+meet_181.txt: 16
+meet_182.txt: 4
+meet_183.txt: 1
+meet_184.txt: 12
+meet_185.txt: 31
+meet_186.txt: 14
+meet_187.txt: 2
+
+Topic 0: utterances x_m_l_ series utterance segments nite segment dictionary corpus density
+Topic 1: alpha lyman spectral spectrum absorption damped broad h_ marked forest
+Topic 2: construct triangle gaze track camtasia fixations region percentage fixation coding
+Topic 3: office lounge martin cent visitor offices pierrette gisella professor susan
+Topic 4: exchange dialogue relations theory discourse scheme interactive argument chunking analysis
+Topic 5: movies lebowski private ryan votes schindler suspects nineties american saving
+Topic 6: coding hilbert envelope band spectrum carrier l_p_c_ domain linear standards
+Topic 7: shot motion shots m_m_m_ frames media cinetis cache browser bhattacharya
+Topic 8: links clustering topics p_l_s_a_ distribution directory z_ rank label marbles
+Topic 9: posteriors disk recover temp p_l_p_ p_l_p_s raid knowledge posterior generate
+Topic 10: card acquisition bus synchronize et i_v_c_ synchronization tape cetera capture
+Topic 11: segments segment category x_m_l_ values dialogue tie tells categories entropy
+Topic 12: emission star absorption burst galaxies galaxy continuum lyman spectrum quasars
+Topic 13: controller gesture google wooden child family intelligent commands lock vocabulary
+Topic 14: g_d_f_ analysis blink blinks x_m_l_ fixation n_x_t_ generate builder camtasia
+Topic 15: festival milliseconds likelihood papers segment residual voices covariance hash m_f_c_c_s
+Topic 16: checking sentence laughter et hyphen mic mister transcribe transcription regions
+Topic 17: agreement dave length card utterance segment directory machines utterances dialogue
+Topic 18: office gisella rooms printer photocopier library fax administration equipment reserve
+Topic 19: corpus objects return term n_x_t_ speakers topics nom browse blah
+Topic 20: glow t_f_t_ escape consumers raj organic lighting gimmick relevance consideration
+Topic 21: poster philosophy talks posters session title students linguistics informatics address
+Topic 22: ami thesis statistical corpus cetera et measure relationship proposal silence
+Topic 23: bands envelope compression hilbert petr papers l_p_c_ d_c_t_ carrier coding
+Topic 24: docking cents dash fronts retriever shifting antek retrieval support subtitles
+Topic 25: detect f_f_t_ processing pitch array millisecond frequencies leds precise layer
+Topic 26: rooms admin office sharing projects cafeteria students smoking machines persons
+Topic 27: dialogue segments utterance segment importance dave act vera i_d_s corpus
+Topic 28: dialogue friday monday topics java global joke acts thursday highlights
+Topic 29: joystick veg transmitter articulation inspired wee keypad literally grip articulated
+Topic 30: triple r_c_ dash scrap communication catchy finances reactor sells anyways
+Topic 31: g_d_f_ s_v_g_ analysis tamgrams ellen camtasia wiki experiment joe fig
+Topic 32: lounge maria visitor office david paola visitors printer yalina susan
+Topic 33: jog lemon dial impact complexity roll snowman logic shake mac
+Topic 34: office nancy pirette andrei marianne cent david martin susan reception
+Topic 35: mushroom pineapple ball lemon coarse vocal controller array previously mister
+Topic 36: movies american beauty lebowski nineties plot violent fiction pulp poster
+Topic 37: potato latex fruity mango r_r_ awesome rhombus stem address pushbuttons
+Topic 38: doh homer jog dial centimetres opposed ninja clunky tangible height
+Topic 39: charger dollars module simplicity optional modules recogniser robust innovativeness joystick
+Topic 40: ruud roo sebastian digits equipment techniques elaborate dull bluetooth costly
+Topic 41: characterisation default browser transcription transcript o_ browsing weekend classes java
+Topic 42: cradle niche identified pedro locator environmentally identify ta sensitive mid
+Topic 43: parental games master log parents violent profile dynamic shake tim
+Topic 44: repetitive charging shell injury strain cent body whistle focusing generation
+Topic 45: fronts smartboard fruity mike width nei terrible launch drawings paint
+Topic 46: elderly silver plate indicated fingers ja touchscreen plain fruity pattern
+Topic 47: kate spinning interchangeable l_c_d_s sarah veg wind sender surface squishy
+Topic 48: x_m_l_ nite tomorrow panes transcript disfluencies pane nom java anyways
+Topic 49: j_ arrow erase flashy fruity leds primary orange arrows redesign

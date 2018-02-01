@@ -27,15 +27,20 @@ classification_scenario_based = [['meet_1', 'meet_2', 'meet_3', 'meet_4'], ['mee
 
 
 meet_list = ["block_"+str(i+1) for i in xrange(34)]
+print 'meet_list', meet_list
 
-adress = "./manual_blocks/"
-all_documents = [tools.text_to_string(adress + i + '.txt') for i in meet_list]
+adress_ = "./manual_blocks/"
+all_documents = [tools.text_to_string(adress_ + i + '.txt') for i in meet_list]
 
 example = tf_idf_class(all_documents)
 tfidf_representation = example.tfidf()
 
 counter = 0
+
 for meet in meet_list:
+
+    print '***********'
+    print 'meet', meet
 
     meet_block = classification_scenario_based[counter]
 
@@ -46,7 +51,7 @@ for meet in meet_list:
     c.get_resumes()
 
     candidate = c.get_best_k_tfidf(20, tfidf_representation[counter])
-    file.write('candidate = ' + str(candidate)+ '\n')
+    file.write('candidate = ' + str(candidate) + '\n')
 
     bleu_measure = c.bleu_evaluation(candidate)
 

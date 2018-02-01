@@ -11,7 +11,7 @@ class tf_idf_class:
         #self.corpus = corpus
         self.all_documents = all_documents
 
-    def term_frequency(self,term, tokenized_document):
+    def materm_frequency(self,term, tokenized_document):
         """
         returns how many times term is repeated in tokenized_documents
         :param term:
