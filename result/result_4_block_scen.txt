@@ -1,0 +1,204 @@
+['meet_1', 'meet_2', 'meet_3', 'meet_4']
+*****************
+candidate = ['matthew', 'mael', 'anna', 'exce', 'ip', 'doctor', 'decline', 'assemble', 'streamed', 'customizing', 'asian', 'voter', 'undes', 'nanne', 'highperformance', 'fik', 'protec', 'underlie', 'provin', 'zebras']
+score_abstractive = 4.02469599051e-07
+score_extractive = 5.35960702415e-25
+
+['meet_5', 'meet_6', 'meet_7', 'meet_8']
+*****************
+candidate = ['incremental', 'linear', 'orangutan', 'barks', 'squarey', 'lightening', 'caramel', 'computation', 'parameter', 'shocks', 'selled', 'multidevice', 'dommage', 'lawnmower', 'chec', 'discus', 'orangutans', 'fulf', 'buck', 'olivier']
+score_abstractive = 0
+score_extractive = 1.09891096419e-17
+
+['meet_10', 'meet_11', 'meet_12']
+*****************
+candidate = ['pedro', 'midmarket', 'backlit', 'crossover', 'exclusivity', 'trainable', 'silvers', 'pedros', 'uniqueness', 'paperwork', 'scheduling', 'offhand', 'ditching', 'consciousness', 'axes', 'marketability', 'ballpark', 'twelvefifty', 'synergy', 'advantageous']
+score_abstractive = 1.51284562404e-05
+score_extractive = 7.70670789561e-27
+
+['meet_13', 'meet_14', 'meet_15', 'meet_16']
+*****************
+candidate = ['mushroom', 'jordan', 'coarse', 'baba', 'alimentation', 'mush', 'gestures', 'kemy', 'institute', 'frahan', 'florent', 'laser', 'longmund', 'sleeping', 'ada', 'saucer', 'trois', 'ecological', 'hmmm', 'eatable']
+score_abstractive = 0.0174409730416
+score_extractive = 3.16049802173e-11
+
+['meet_17', 'meet_18', 'meet_19', 'meet_20']
+*****************
+candidate = ['turbo', 'mando', 'panther', 'indian', 'spiders', 'spider', 'trunk', 'capsicum', 'outlier', 'pepper', 'kitsch', 'granularity', 'playback', 'spotting', 'templates', 'ons', 'hunt', 'stylised', 'epinions', 'permanantly']
+score_abstractive = 1.3362461267e-06
+score_extractive = 4.34300100432e-12
+
+['meet_21', 'meet_22', 'meet_23']
+*****************
+candidate = ['peeling', 'hamed', 'peter', 'petre', 'diagonal', 'morris', 'rw', 'struggle', 'fabien', 'handshaking', 'roller', 'mana', 'frustrates', 'cardinaux', 'dic', 'discover', 'cancelled', 'neighbours', 'petres', 'spo']
+score_abstractive = 0
+score_extractive = 1.55558608778e-12
+
+['meet_25', 'meet_26', 'meet_27', 'meet_28']
+*****************
+candidate = ['sammy', 'christa', 'rama', 'fudge', 'cobra', 'usefulness', 'benjo', 'bobby', 'electromagnetic', 'scored', 'smelling', 'pavlov', 'lsd', 'forecast', 'titan', 'origins', 'strict', 'exceeding', 'fulfils', 'criterium']
+score_abstractive = 2.76371969948e-06
+score_extractive = 4.62461993732e-12
+
+['meet_29', 'meet_30', 'meet_31', 'meet_32']
+*****************
+candidate = ['norman', 'modules', 'probability', 'prefix', 'webs', 'peep', 'arrays', 'german', 'xml', 'addons', 'harry', 'modular', 'anticipate', 'gateway', 'vocabularies', 'customizable', 'additi', 'ik', 'cond', 'cited']
+score_abstractive = 0.000274006294802
+score_extractive = 2.76994483957e-23
+
+['meet_33', 'meet_34', 'meet_35', 'meet_36']
+*****************
+candidate = ['ed', 'agnes', 'accounting', 'christines', 'thirtyfive', 'umhmm', 'fabric', 'event', 'vendors', 'dimmer', 'brittle', 'tieup', 'flipup', 'inflate', 'ebay', 'amazon', 'transportation', 'stain', 'expression', 'customisability']
+score_abstractive = 3.37561486372e-06
+score_extractive = 4.10733330648e-40
+
+['meet_37', 'meet_38', 'meet_39', 'meet_40']
+*****************
+candidate = ['subgroups', 'impulse', 'sizzle', 'dwell', 'temperatures', 'wallet', 'ninth', 'francina', 'francine', 'eileen', 'decreasing', 'cutest', 'electri', 'jana', 'voices', 'weed', 'beware', 'compone', 'september', 'referred']
+score_abstractive = 8.10474244763e-07
+score_extractive = 4.38845299808e-11
+
+['meet_41', 'meet_42', 'meet_43', 'meet_44']
+*****************
+candidate = ['craig', 'homer', 'jogdial', 'ninja', 'beagle', 'occurred', 'atmosphere', 'buckets', 'craigs', 'lego', 'gear', 'conducive', 'touches', 'cumulative', 'unifies', 'dinner', 'primitive', 'submitting', 'listings', 'talkback']
+score_abstractive = 0.00193251489792
+score_extractive = 2.68116352621e-17
+
+['meet_45', 'meet_46', 'meet_47', 'meet_48']
+*****************
+candidate = ['articulation', 'ebenezer', 'articulated', 'macro', 'tarik', 'macros', 'generous', 'monkeys', 'handedness', 'begins', 'dave', 'barcode', 'substructure', 'visitors', 'attitude', 'largely', 'gaining', 'avenue', 'feared', 'defining']
+score_abstractive = 0
+score_extractive = 2.23042634193e-16
+
+['meet_49', 'meet_50', 'meet_51', 'meet_51b']
+*****************
+candidate = ['rubberised', 'fliptop', 'eagle', 'william', 'crocodile', 'curled', 'seagull', 'channelhopping', 'golf', 'cabling', 'punching', 'videoplus', 'semicircular', 'artificial', 'economies', 'consultants', 'ship', 'gui', 'remanufacture', 'mirrors']
+score_abstractive = 0
+score_extractive = 1.90994113785e-18
+
+['meet_52', 'meet_53', 'meet_54', 'meet_55']
+*****************
+candidate = ['raj', 'facia', 'programmability', 'arlo', 'rajs', 'companyll', 'raring', 'shoulda', 'computery', 'mobi', 'chocolates', 'upsidaisy', 'likings', 'mmmmmmmmmm', 'craft', 'consu', 'dele', 'mea', 'cancellation', 'strike']
+score_abstractive = 0
+score_extractive = 2.91228200402e-06
+
+['meet_56', 'meet_57', 'meet_58', 'meet_59']
+*****************
+candidate = ['spin', 'maarika', 'jen', 'sixes', 'gecko', 'horns', 'lizard', 'surfaced', 'wales', 'vets', 'wrists', 'prevon', 'folded', 'ics', 'estonia', 'locatable', 'wool', 'attaches', 'randomly', 'underlining']
+score_abstractive = 0
+score_extractive = 9.16141278347e-25
+
+['meet_60', 'meet_61', 'meet_62', 'meet_63']
+*****************
+candidate = ['catherine', 'reissa', 'gabriel', 'jolly', 'madonna', 'prevents', 'combinations', 'squirrel', 'pomegranate', 'addresses', 'ornaments', 'peopleve', 'fuzz', 'fifties', 'napoleon', 'dynamite', 'rubble', 'doodah', 'malleable', 'cart']
+score_abstractive = 0
+score_extractive = 2.83758511779e-17
+
+['meet_64', 'meet_65', 'meet_66', 'meet_67']
+*****************
+candidate = ['rose', 'rhombus', 'alima', 'martian', 'loosey', 'mangoey', 'decisive', 'longlife', 'iain', 'presets', 'grippable', 'ian', 'tighty', 'carpal', 'etched', 'pun', 'gps', 'hesitant', 'whatsoever', 'sinking']
+score_abstractive = 0
+score_extractive = 2.72438471427e-20
+
+['meet_68', 'meet_69', 'meet_70', 'meet_71']
+*****************
+candidate = ['nathan', 'ron', 'san', 'diego', 'nonremote', 'lived', 'legos', 'ntsc', 'pal', 'desert', 'orchestra', 'buckley', 'downs', 'shipped', 'bridge', 'smallville', 'spaceships', 'bargain', 'grandparents', 'sacrifice']
+score_abstractive = 0
+score_extractive = 1.07044526001e-16
+
+['meet_72', 'meet_73', 'meet_74', 'meet_75']
+*****************
+candidate = ['courtney', 'gunmetal', 'amber', 'resembling', 'powersource', 'stare', 'fenella', 'delicious', 'iffy', 'bluebased', 'conceive', 'diverting', 'asia', 'disney', 'piranhas', 'finders', 'permit', 'demog', 'wary', 'serpent']
+score_abstractive = 0.000193751709143
+score_extractive = 2.27877703954e-09
+
+['meet_76', 'meet_77', 'meet_78', 'meet_79']
+*****************
+candidate = ['squashy', 'chiara', 'wheely', 'tedious', 'songs', 'touchbased', 'graceful', 'wordperfect', 'ipodstyle', 'ipodlike', 'rhubarb', 'trues', 'dolphins', 'hers', 'unix', 'cheating', 'abbreviations', 'squishiness', 'offtask', 'syntactic']
+score_abstractive = 0.000319442564098
+score_extractive = 1.37515380742e-12
+
+['meet_80', 'meet_81', 'meet_82', 'meet_83']
+*****************
+candidate = ['kendra', 'dependable', 'preprogramme', 'lengthen', 'whip', 'accessory', 'bite', 'conjunction', 'sealed', 'rapidly', 'customdesigned', 'guaranteed', 'nondescript', 'functio', 'formalised', 'untangling', 'movable', 'parallel', 'supermarkets', 'bang']
+score_abstractive = 0
+score_extractive = 3.25166696926e-27
+
+['meet_84', 'meet_85', 'meet_86', 'meet_87']
+*****************
+candidate = ['steph', 'ratty', 'kiddie', 'encodes', 'themed', 'mousey', 'reductionist', 'cloak', 'webbed', 'florence', 'stalk', 'compass', 'catwalks', 'streamlining', 'composer', 'agreeable', 'sculptures', 'approachable', 'instinct', 'saver']
+score_abstractive = 0
+score_extractive = 4.69769716478e-18
+
+['meet_88', 'meet_89', 'meet_90', 'meet_91']
+*****************
+candidate = ['louisa', 'dispense', 'mini', 'kit', 'dolby', 'fickle', 'mutually', 'bypass', 'tuned', 'rightly', 'hating', 'endanger', 'path', 'robin', 'circumstances', 'badging', 'jungle', 'apogee', 'caboodle', 'slee']
+score_abstractive = 0
+score_extractive = 4.96176443251e-23
+
+['meet_92', 'meet_93', 'meet_94', 'meet_95']
+*****************
+candidate = ['poppy', 'heather', 'elk', 'genevieve', 'tara', 'alloys', 'stayed', 'shapememory', 'vanilla', 'metallicy', 'dadada', 'profitability', 'handpowered', 'moose', 'arbitrary', 'plu', 'reception', 'hum', 'editing', 'landed']
+score_abstractive = 0
+score_extractive = 3.46219311908e-16
+
+['meet_96', 'meet_97', 'meet_98', 'meet_99']
+*****************
+candidate = ['onehanded', 'ryan', 'manuel', 'corinne', 'stability', 'ow', 'ballshaped', 'bone', 'usercentred', 'angular', 'twopiece', 'exclude', 'gr', 'ape', 'shooting', 'lure', 'luggage', 'employees', 'wars', 'lan']
+score_abstractive = 0.00108705834588
+score_extractive = 3.4158114038e-20
+
+['meet_112', 'meet_113', 'meet_114', 'meet_115']
+*****************
+candidate = ['shifting', 'cultures', 'garfield', 'telephoneshaped', 'aquaintance', 'haunted', 'greyblack', 'twendag', 'freek', 'greatly', 'tended', 'advise', 'questioned', 'chipset', 'writings', 'voted', 'errors', 'grandkids', 'wing', 'flippers']
+score_abstractive = 0
+score_extractive = 2.97057470279e-24
+
+['meet_116', 'meet_117', 'meet_118', 'meet_119']
+*****************
+candidate = ['learnable', 'backlights', 'zee', 'surname', 'italy', 'martijn', 'tidin', 'entrance', 'statistical', 'tudum', 'olden', 'wiezer', 'homestation', 'damman', 'ciao', 'pulse', 'alr', 'dren', 'univ', 'fitsinthehand']
+score_abstractive = 0
+score_extractive = 6.25321700269e-32
+
+['meet_120', 'meet_121', 'meet_122', 'meet_123']
+*****************
+candidate = ['mount', 'cpu', 'sub', 'swahili', 'ping', 'britain', 'enlarge', 'precies', 'tissue', 'ver', 'possess', 'namely', 'eie', 'beaver', 'deadlines', 'au', 'ding', 'knop', 'coordinations', 'forties']
+score_abstractive = 0.00046399059597
+score_extractive = 1.3634222355e-23
+
+['meet_124', 'meet_125', 'meet_126', 'meet_127']
+*****************
+candidate = ['newsflash', 'treble', 'spongey', 'colourblind', 'equaliser', 'veronica', 'beamer', 'spongelike', 'autoseek', 'luxurous', 'fox', 'gum', 'spicy', 'shortcomings', 'sketches', 'humble', 'dire', 'fins', 'speckles', 'knees']
+score_abstractive = 0
+score_extractive = 5.3130740601e-27
+
+['meet_128', 'meet_129', 'meet_130', 'meet_131']
+*****************
+candidate = ['tim', 'janus', 'daniel', 'violent', 'crappy', 'parent', 'profiles', 'weemote', 'firmware', 'placeholder', 'login', 'logon', 'bumps', 'log', 'singlecurves', 'orc', 'teletubbies', 'hung', 'tetris', 'jane']
+score_abstractive = 1.36887932835e-05
+score_extractive = 2.83513939391e-27
+
+['meet_132', 'meet_133', 'meet_134', 'meet_135']
+*****************
+candidate = ['antek', 'retriever', 'opener', 'piranha', 'guido', 'joost', 'airbag', 'maarten', 'alessi', 'bags', 'resembles', 'nike', 'sheets', 'twotone', 'televis', 'enclosure', 'flights', 'monogramme', 'crying', 'unneeded']
+score_abstractive = 0
+score_extractive = 8.90456777177e-14
+
+['meet_136', 'meet_137', 'meet_138', 'meet_139']
+*****************
+candidate = ['pistol', 'burst', 'handshaped', 'subcomponents', 'thoughtful', 'rrs', 'electrics', 'quadrants', 'featu', 'pinball', 'bustfree', 'selections', 'waited', 'quotes', 'labtest', 'drawboard', 'incre', 'penlight', 'espe', 'uptodate']
+score_abstractive = 0
+score_extractive = 0
+
+['meet_140', 'meet_141', 'meet_142', 'meet_143']
+*****************
+candidate = ['roo', 'ruud', 'techniques', 'flores', 'ruuds', 'slippery', 'repeats', 'impossibilities', 'mielsen', 'prefers', 'siemens', 'ocr', 'rom', 'operability', 'bongiorno', 'progressions', 'scrollbar', 'punish', 'interoperability', 'tempered']
+score_abstractive = 0
+score_extractive = 0
+
+['meet_144', 'meet_145', 'meet_146', 'meet_147']
+*****************
+candidate = ['accustomed', 'reactor', 'faded', 'nuclear', 'slapon', 'illustrate', 'trek', 'shaken', 'cook', 'configured', 'phaser', 'affordable', 'fabricate', 'dirk', 'distinct', 'penlites', 'chiquita', 'serial', 'genius', 'doublesided']
+score_abstractive = 0
+score_extractive = 0
+
