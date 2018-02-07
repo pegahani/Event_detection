@@ -1,0 +1,73 @@
+******************************************************
+
+
+meetings					top topics						probabilities for top topics
+block_1.txt: 5 33 25 31 8  0.9999997513607423 1.0290088550719373e-07 9.918483381982084e-08 4.655353842884677e-08 0.0
+block_2.txt: 32 33 8 14 13  0.9999999901587766 9.841223414570052e-09 0.0 0.0 0.0
+block_3.txt: 20 32 15 14 13  0.9999997287316248 2.71268375146453e-07 0.0 0.0 0.0
+block_4.txt: 2 32 33 9 14  0.999999936048153 4.83663917617907e-08 1.5585455295544992e-08 0.0 0.0
+block_5.txt: 15 30 32 8 14  0.9999971611772945 2.3276605044955677e-06 5.111622009147302e-07 0.0 0.0
+block_6.txt: 29 33 7 13 12  0.9999998359387776 1.6406122236045038e-07 0.0 0.0 0.0
+block_7.txt: 25 30 32 7 13  0.9999999755788479 2.22119290896524e-08 2.209223028096774e-09 0.0 0.0
+block_8.txt: 18 12 2 33 8  0.9998976152464628 8.136180880699562e-05 2.1022944730279297e-05 0.0 0.0
+block_9.txt: 13 32 33 8 14  0.9999991659044466 8.340955534031743e-07 0.0 0.0 0.0
+block_10.txt: 12 2 33 8 14  0.9997908967106163 0.0002091032893837715 0.0 0.0 0.0
+block_11.txt: 7 31 32 33 1  0.9999807968048184 1.7062271674710418e-05 1.5575814805110367e-06 5.833420261881704e-07 0.0
+block_12.txt: 4 31 32 8 14  0.9999938576649635 5.535551719002679e-06 6.067833174124506e-07 0.0 0.0
+block_13.txt: 0 28 10 15 26  0.996905412733829 0.0015055320646437712 0.0009060135479648269 0.00038434882904980137 0.0001494617597121253
+block_14.txt: 17 15 26 28 30  0.9999960526102255 2.333883579522373e-06 8.55216748888799e-07 3.8926712729441716e-07 3.690223187527199e-07
+block_15.txt: 22 30 31 32 24  0.999987795201769 6.920126617830609e-06 2.9586034972596633e-06 1.2752189594626394e-06 1.0508491564063295e-06
+block_16.txt: 23 30 32 13 12  0.9999994472941921 4.611328572949517e-07 9.157295062054053e-08 0.0 0.0
+block_17.txt: 14 33 8 13 12  0.9999843658693736 1.563413062646688e-05 0.0 0.0 0.0
+block_18.txt: 11 31 32 33 2  0.9999997130988615 1.9413780531325996e-07 5.334956817669529e-08 3.941376496308447e-08 0.0
+block_19.txt: 28 27 33 7 13  0.9999993526964489 6.473035510323447e-07 0.0 0.0 0.0
+block_20.txt: 30 28 29 33 7  0.9999996930686869 2.9254289415375783e-07 1.4388419052158409e-08 0.0 0.0
+block_21.txt: 27 30 31 32 33  0.9999901172440593 7.760751611020479e-06 2.07367625344339e-06 4.8328076327871855e-08 0.0
+block_22.txt: 21 7 17 13 11  0.9999997284768051 1.296173335869899e-07 4.64730782140617e-08 3.016392657089683e-08 2.6730586854914824e-08
+block_23.txt: 31 28 30 29 5  0.9999997035294467 1.2684525813687256e-07 9.03618342092615e-08 3.184312319641203e-08 1.8868771273163167e-08
+block_24.txt: 9 31 7 21 30  0.9990901184922025 0.00037748435603167884 0.00024757734563766564 0.00014308292319537445 0.0001349633844864098
+block_25.txt: 24 23 29 12 11  0.9999828267156998 1.4838855235479857e-05 2.3344290647562264e-06 0.0 0.0
+block_26.txt: 26 1 15 16 8  0.9989043622196734 0.0009487211825226199 0.00012662543540894225 2.0291162395195747e-05 0.0
+block_27.txt: 16 1 26 15 8  0.9967659473513785 0.002125057435949729 0.0010675683225850386 4.142689008690006e-05 0.0
+block_28.txt: 8 26 33 7 13  0.999204145445996 0.000749031725674869 4.682282832911502e-05 0.0 0.0
+block_29.txt: 19 33 8 13 12  0.9995402106856454 0.0004597893143546609 0.0 0.0 0.0
+block_30.txt: 3 26 16 29 8  0.9999814057594891 1.2514618050692606e-05 5.112182962629726e-06 9.674394975013534e-07 0.0
+block_31.txt: 1 33 8 14 13  0.9995684014783478 0.00043159852165209223 0.0 0.0 0.0
+block_32.txt: 33 28 12 4 30  0.9999997265535125 4.7976651885756155e-08 4.713108912571877e-08 4.25795276921579e-08 3.848139966216699e-08
+block_33.txt: 6 26 33 2 3  0.9999994667436686 3.170612495257227e-07 2.161950818188571e-07 0.0 0.0
+block_34.txt: 10 8 26 15 33  0.9997520873593418 0.0001351694412378149 0.00011244226005003585 3.009393703477017e-07 0.0
+
+Topic 0: flip rating shell charging a_ body sitting r_s_i_ rubberised repetitive feedback moving triple tiny programming f_ presume wide william eagle
+Topic 1: station docking base skip televisions cents throw fronts fruity zap elderly nowadays implement soft mute level antek v_c_r_ impossible gadget
+Topic 2: controller mushroom gesture google pineapple powerful david base wireless traditional lemon jordan wooden sophisticated wire vocal participant ball bulb recognise
+Topic 3: parental figured structure games j_ tim children audience hey master soft parents log menus management fruity rabbit dog figure reaction
+Topic 4: joystick veg fairly transmitter anybody require articulation keypad ebenezer software menus monkey simply structure allow inspired articulated grip l_c_ finger
+Topic 5: keys matthew browse innovation functionalities v_c_r_ mael anna sixteen perfect demographic r_c_ receiver surf present blinking cents store movie presented
+Topic 6: ruud roo sebastian implement wheels mute possibilities digits equipment cell dull bluetooth grey techniques colourful casing skip soft advantage finishing
+Topic 7: terms doh jog dial anybody sorta craig opposed lemon panel tech fairly creative homer david logic clunky wrap complexity recap
+Topic 8: r_ silver erase elderly implement search tap sub handy scrap plate ja adjust square soft nee create fruity fingers morning
+Topic 9: alarm apple lighting glow casing dog plates command seeing f_ simplistic mango r_s_i_ interchangeable poppy relevance backup supplements style assuming
+Topic 10: triple r_ rechargeable apparently share anyways c_ reaction consideration square implement r_c_ sharp keys mute accustomed edges short perfect nah
+Topic 11: face fair nathan ron brilliant cell plate perfect coffee casing sarah plates natural felt literally slides sleek apple san guy
+Topic 12: controller clock children child recogniser mute attractive lock included alarm compact suggestions wires fluorescent morse timer pressed strong soft code
+Topic 13: christine management ed flip sales terms agnes weight functionalities fairly world weeks comments manufacturing introduce totally depending figure strategy units
+Topic 14: latex simplicity potato ooh pushbuttons ipod fruity terms necessarily infra fruits r_r_ fairly worry fashionable separately gotten mango wanting essential
+Topic 15: station handy turbo mando basis base technologies targeting wheels coffee elephant sitting elephants phrase milan instance morning crazy traditional recognize
+Topic 16: station text ipod square recharger modern style level fronts elderly paul usable beautiful transparent led fold flashy soft skip learnable
+Topic 17: f_ glow organic raj factor casing sales escape gimmick survey consumers t_f_t_ consideration meets fruits strategy brian sorta shared noise
+Topic 18: charger controller functionalities vocabulary content dollars kids norman simplicity recogniser module programmes navigate willing contents participant children optional future processing
+Topic 19: flip sixteen bright arrow layout arrows ooh leds bass slow etcetera present count started f_ contrast flipping activate integrate newsflash
+Topic 20: cradle create niche sorta pedro locator unique terms identified flip televisions nah environmentally management mode shell marketable lapel ta perspective
+Topic 21: kate terms enter steph elegant afraid sarah false menus held agreed existing veg ipod f_ hot smooth excess keys similar
+Topic 22: spinning scrolling excellent flip l_c_d_s handed pushbutton intuitive popular role locator l_c_ mute various rub feedback ooh flipping prepare a_
+Topic 23: handed bluetooth kids r_r_ cent r_s_i_ infra lock bright repetitive catherine r_ keys flip ergonomic centred gabriel reissa mail throw
+Topic 24: ball handed grey modern lamp sorta ipod bright appearance scrolling grips tracking flip rubbery roll assume version rectangle manuel grip
+Topic 25: instance relevant actions propose mainly location sammy mark strawberry weight ye strawberries pink jog christa recogniser colourful clap party fruits
+Topic 26: docking station subtitles elderly indicated shifting suggest advantage operate touchscreen smart phase sixteen flip minus blank handy thingy brings cases
+Topic 27: kendra sorta anybody thoughts consumer life andrew interchangeable kate management custom comfortable grey overall messages reaction advantage relevance face fewer
+Topic 28: base triple latex fashionable a_s examples a_ hang squishy mute anybody smart courtney cats lithium engineering r_r_ casing kids charger
+Topic 29: radio infra waves t_f_t_ bob frequency centimetres circuits cell peeling commands present overall keyboard magnetic hamed wave soft layer mode
+Topic 30: ipod squishy telly fruits broccoli ball radio circle silver missed f_ output location pad holding strawberry wall squashy i_r_ buzzer
+Topic 31: whistle apple requires effectively required clap standby limited fairly various sender badge supply sleek require brightness cases rid avoid reasonable
+Topic 32: access management incremental whistle participant receive pear ami advantage ergonomic define commands fulfil robust technological command cent task continue financial
+Topic 33: joystick televisions paint mute nah bleep soft latest blank totally nope arrows arrow icons rating positive led recognisable concepts pistol
