@@ -1,0 +1,464 @@
+this file includes the tf-idf scores for 138 scenario-based meetings
+For each meeting, the tf-idf scores are computed by comparing this meeting w.r.t other scenario-based 
+meetings esxcept the meetins with the same order in their bloks.
+************************['meet_1', 'meet_2', 'meet_3', 'meet_4']*************************************
+meet_1
+*****************
+candidate = ['shark', 'swordfish', 'dogs', 'ip', 'asian', 'knife', 'mill', 'nanne', 'toolbar', 'africa', 'ipo', 'fle', 'espec', 'strokes', 'prerequisites', 'predators', 'distinguished', 'zebras', 'northern', 'retyping', 'charas', 'matth', 'moustache', 'maximal', 'lite', 'someo', 'numbering', 'australia', 'alread', 'guessed', 'stam', 'land', 'loyal', 'tail', 'horse', 'rat', 'fish', 'mathematics', 'bird', 'invented', 'rare', 'notebooks', 'articles', 'zebra', 'rated', 'wrapped', 'legs', 'ears', 'widths', 'wer']
+meet_2
+*****************
+candidate = ['streamed', 'schema', 'decoded', 'decline', 'doctor', 'protocol', 'compose', 'dislike', 'combating', 'infrequently', 'cheaps', 'cheapend', 'vouch', 'interesti', 'broadcasting', 'componen', 'respet', 'aro', 'disconnect', 'adapting', 'highperformance', 'shouting', 'muck', 'spacious', 'prospects', 'popularly', 'downloads', 'righ', 'provin', 'apartments', 'booming', 'seller', 'noisy', 'overdemand', 'skilled', 'sligh', 'presently', 'frequencies', 'disk', 'webpage', 'recorders', 'bubbles', 'social', 'applications', 'demographics', 'goi', 'isolated', 'spacey', 'du', 'territory']
+meet_3
+*****************
+candidate = ['detect', 'customizing', 'assemble', 'fancied', 'textured', 'scenarios', 'varying', 'florescent', 'soundtrack', 'finer', 'necessar', 'easiness', 'superiors', 'matthews', 'card', 'aftersales', 'underlie', 'anythi', 'uri', 'nonrecta', 'vlsi', 'edition', 'addit', 'supplies', 'organisational', 'emphasize', 'customized', 'inventories', 'progra', 'ur', 'storing', 'cove', 'nonrectangular', 'fpga', 'asr', 'marketed', 'assembled', 'volt', 'che', 'oranges', 'liquid', 'graphs', 'twel', 'volts', 'dc', 'bare', 'joe', 'themself', 'sequences', 'veneer']
+meet_4
+*****************
+candidate = ['gi', 'sevens', 'exce', 'voter', 'straightout', 'indicating', 'settle', 'dried', 'suh', 'threes', 'marker', 'undes', 'sophistication', 'purely', 'attracts', 'democratic', 'fik', 'framework', 'protec', 'rel', 'franc', 'oper', 'toy', 'inks', 'sr', 'twos', 'protrude', 'cluttering', 'eyeattracting', 'voyt', 'unconsciously', 'disply', 'jos', 'prite', 'estimation', 'negotiation', 'evalua', 'demokraphi', 'shortlist', 'addson', 'aside', 'seats', 'mod', 'locati', 'bt', 'diske', 'supervisor', 'measure', 'dispra', 'francs']
+************************['meet_5', 'meet_6', 'meet_7', 'meet_8']*************************************
+meet_5
+*****************
+candidate = ['orangutan', 'barks', 'caramel', 'cow', 'selled', 'multidevice', 'lawnmower', 'orangutans', 'buck', 'olivier', 'dispatching', 'whistleable', 'panic', 'pani', 'bong', 'domain', 'detailing', 'donkey', 'profe', 'beast', 'havin', 'waterproof', 'squarey', 'bath', 'rou', 'shocks', 'monster', 'couldn', 'hair', 'bundle', 'lighted', 'warm', 'simplified', 'quest', 'desired', 'advice', 'scary', 'react', 'resist', 'animal', 'interf', 'logos', 'kickoff', 'consist', 'cat', 'shock', 'protection', 'ahha', 'absolute', 'objective']
+meet_6
+*****************
+candidate = ['incremental', 'linear', 'computation', 'parameter', 'generic', 'cnn', 'expressed', 'claim', 'requi', 'coding', 'tendonditis', 'revenue', 'investigations', 'mhhmm', 'resisting', 'capital', 'mud', 'recalled', 'voi', 'robotic', 'observed', 'losed', 'discus', 'amongst', 'cos', 'robots', 'remultific', 'messenger', 'numerical', 'lightening', 'uc', 'shocks', 'muc', 'eith', 'shortcut', 'discrete', 'fight', 'subjects', 'frustrations', 'processing', 'presenta', 'fewer', 'heart', 'tested', 'advice', 'lab', 'el', 'theory', 'basi', 'backwards']
+meet_7
+*****************
+candidate = ['curving', 'imprint', 'vibrator', 'chec', 'watchers', 'unexpen', 'fra', 'researcher', 'prodyuc', 'alhasred', 'summarizing', 'innos', 'detect', 'hits', 'adapted', 'abdul', 'bill', 'iz', 'furnitures', 'ths', 'references', 'pear', 'righty', 'lefty', 'symmetrical', 'wit', 'reject', 'detected', 'squarey', 'lightening', 'continuous', 'request', 'bend', 'concert', 'prin', 'consuming', 'nest', 'ice', 'students', 'recognize', 'backlight', 'lefthand', 'protect', 'documentation', 'die', 'reco', 'lighted', 'protected', 'odd', 'investigation']
+meet_8
+*****************
+candidate = ['dommage', 'almo', 'fulf', 'glu', 'techne', 'satisfying', 'croix', 'staff', 'poin', 'fantastically', 'champagne', 'je', 'tadada', 'sesh', 'congratulation', 'party', 'collaboration', 'biased', 'surrounded', 'cest', 'que', 'destroy', 'presen', 'salary', 'threshold', 'promising', 'thir', 'essence', 'colleagues', 'congratulations', 'grade', 'lightning', 'uhuh', 'sad', 'highest', 'criteria', 'compare', 'complexity', 'ended', 'gap', 'ru', 'christine', 'vote', 'transparent', 'thirteen', 'bananas', 'successful', 'confused', 'result', 'provided']
+************************['meet_10', 'meet_11', 'meet_12', None]*************************************
+meet_10
+*****************
+candidate = ['crossover', 'trainable', 'poweradaptor', 'advantageous', 'scheduling', 'twelvefifty', 'consciousness', 'advocate', 'mindshare', 'rol', 'wadadadadada', 'garden', 'homes', 'commoner', 'exceptionally', 'slickness', 'softwarewise', 'branded', 'criticizing', 'proprietary', 'ladder', 'commodities', 'functionalitywise', 'advent', 'identifies', 'distributor', 'techmind', 'foundation', 'catchalls', 'wholesalers', 'remotell', 'hitachi', 'clunker', 'directives', 'reasonablepriced', 'reduces', 'locatorll', 'fourdigit', 'overruns', 'allinone', 'dl', 'tendency', 'beca', 'profitmargin', 'emitted', 'highcost', 'tatatatata', 'futureproof', 'mediumlow', 'discoveries']
+meet_11
+*****************
+candidate = ['backlit', 'uniqueness', 'axes', 'prone', 'ditching', 'flashlight', 'adjustment', 'buttontobu', 'ty', 'spillage', 'bode', 'queue', 'pers', 'quantized', 'axis', 'smellorama', 'mak', 'acknowledged', 'mistreat', 'retrain', 'extrude', 'thirtys', 'rock', 'jabber', 'interference', 'montoya', 'misuses', 'antenna', 'liquids', 'uniquenesses', 'tats', 'differentiate', 'ecofriendly', 'quieter', 'effectiveness', 'inigo', 'expectation', 'competing', 'surfaces', 'justified', 'functionwise', 'retarded', 'makin', 'partnership', 'midsized', 'optimist', 'pace', 'stink', 'flipphone', 'services']
+meet_12
+*****************
+candidate = ['card', 'silvers', 'upgradable', 'synergy', 'adjusted', 'town', 'crotch', 'demonstrations', 'justification', 'beacon', 'stiffness', 'chang', 'tweak', 'calm', 'digesting', 'suck', 'colf', 'impressing', 'patontheback', 'margins', 'fundamentally', 'cooperating', 'miscalculation', 'droop', 'adaptor', 'synergistic', 'shirts', 'doublecur', 'estimated', 'greys', 'avoidable', 'flies', 'scrolly', 'events', 'hows', 'rotated', 'drawback', 'dependability', 'frighteningly', 'portuguese', 'bra', 'bl', 'corp', 'warranty', 'lands', 'additions', 'cafeteria', 'landing', 'hooray', 'ingredients']
+************************['meet_13', 'meet_14', 'meet_15', 'meet_16']*************************************
+meet_13
+*****************
+candidate = ['ada', 'kemy', 'longmund', 'clown', 'maxim', 'bugs', 'village', 'industrials', 'hat', 'azerty', 'qwerty', 'converged', 'spethisfispis', 'pikachu', 'rat', 'fish', 'centimes', 'relation', 'const', 'specif', 'sug', 'imaginative', 'bunny', 'rabbit', 'transform', 'grow', 'keyboards', 'materi', 'duck', 'transfer', 'training', 'uk', 'closest', 'maximise', 'fat', 'core', 'animal', 'eyes', 'interf', 'cat', 'dog', 'ami', 'sor', 'benefit', 'tool', 'characteristics', 'french', 'dot', 'refer', 'ri']
+meet_14
+*****************
+candidate = ['florent', 'hmmm', 'recurrence', 'answered', 'jordans', 'threat', 'rationale', 'subcomponent', 'bres', 'observed', 'industr', 'solu', 'pon', 'pi', 'injured', 'soph', 'camcorder', 'garage', 'pictograms', 'pli', 'intensively', 'pic', 'nifra', 'concurrent', 'experiments', 'sometime', 'ribbon', 'uniform', 'avera', 'pres', 'lame', 'manuals', 'mmhm', 'observe', 'laser', 'differen', 'distribution', 'jordan', 'relate', 'baba', 'lab', 'classes', 'pa', 'subjects', 'surf', 'regarding', 'emphasise', 'personalised', 'google', 'escape']
+meet_15
+*****************
+candidate = ['alimentation', 'risky', 'gestures', 'institute', 'france', 'frahan', 'coop', 'anal', 'disadvant', 'sup', 'downloaded', 'lev', 'googlelike', 'ecol', 'sister', 'unlighted', 'countryside', 'england', 'breakthrough', 'accessoire', 'compensated', 'proecology', 'impersonal', 'motivation', 'senegal', 'seldom', 'lexical', 'babas', 'exac', 'cities', 'ecologists', 'pf', 'plasticlike', 'rubberlike', 'modality', 'infer', 'meeti', 'nn', 'imprint', 'interim', 'vede', 'pays', 'rely', 'bored', 'cir', 'correlated', 'gesture', 'darkness', 'vocal', 'disadvantage']
+meet_16
+*****************
+candidate = ['mushroom', 'coarse', 'celebrate', 'mush', 'judge', 'sleeping', 'trois', 'party', 'saucer', 'gi', 'compensate', 'fas', 'bottleneck', 'unid', 'eatable', 'enlighted', 'pine', 'fabrica', 'sn', 'fruitful', 'micro', 'celebrating', 'measure', 'cris', 'bitter', 'inspira', 'insects', 'sugar', 'branches', 'champagne', 'appearan', 'unidentified', 'voc', 'scor', 'customable', 'enlight', 'judgement', 'mood', 'biased', 'bees', 'dut', 'jacket', 'cherry', 'tu', 'fuzzy', 'false', 'prod', 'receptor', 'rou', 'calculate']
+************************['meet_17', 'meet_18', 'meet_19', 'meet_20']*************************************
+meet_17
+*****************
+candidate = ['panther', 'indian', 'spiders', 'trunk', 'spider', 'hunt', 'guillermo', 'lions', 'hemant', 'dist', 'hump', 'parachute', 'panthers', 'offline', 'availables', 'peculiar', 'transportations', 'charlottes', 'hunts', 'standalone', 'beings', 'elephants', 'acts', 'flew', 'ate', 'legs', 'ears', 'elephant', 'feet', 'african', 'fly', 'warm', 'stream', 'terrestrial', 'plans', 'bump', 'lives', 'generate', 'poor', 'lapel', 'animal', 'specs', 'male', 'shocking', 'dimensional', 'sebastian', 'film', 'tools', 'michael', 'abo']
+meet_18
+*****************
+candidate = ['spanish', 'decoder', 'flipopen', 'epinions', 'permanantly', 'powerstick', 'liklier', 'ambience', 'condition', 'decoding', 'microchip', 'rarely', 'angry', 'complain', 'connectivity', 'microcontroller', 'memorising', 'ambiance', 'weaknesses', 'superimpose', 'transition', 'coding', 'watcher', 'gentlemens', 'idle', 'dtw', 'remained', 'committment', 'thoroughly', 'latino', 'performances', 'disease', 'inde', 'everyo', 'recogntion', 'becasue', 'requir', 'dependi', 'fanc', 'toprated', 'molds', 'toward', 'sampling', 'extravagant', 'twodigit', 'mans', 'knoing', 'abrupt', 'converts', 'mmmhmm']
+meet_19
+*****************
+candidate = ['capsicum', 'pepper', 'usersll', 'playback', 'handier', 'bananamando', 'pumpkin', 'spotting', 'ruled', 'stylised', 'convex', 'misplaced', 'elasticity', 'synthesis', 'eponge', 'funkylooking', 'frape', 'unaware', 'natur', 'seventies', 'template', 'honour', 'glimpse', 'cylindrical', 'apprehensive', 'textu', 'nonvegetarian', 'salad', 'focu', 'mr', 'bananabando', 'guru', 'sixties', 'mockup', 'tro', 'bananaman', 'pepperoni', 'engineered', 'pinned', 'presentatio', 'keyword', 'superman', 'trace', 'gurus', 'comman', 'viewpoint', 'pois', 'supplies', 'instant', 'grain']
+meet_20
+*****************
+candidate = ['autonomy', 'outlier', 'granularity', 'antennas', 'ons', 'youngst', 'trendsetters', 'whichll', 'puzzled', 'optimal', 'evaluations', 'weighted', 'formula', 'reflected', 'crit', 'happily', 'reall', 'answering', 'connectors', 'univer', 'hin', 'flaunt', 'scrollers', 'variance', 'satisfaction', 'evalua', 'outliers', 'ranging', 'monotonic', 'positions', 'scales', 'anyb', 'remaining', 'massively', 'baco', 'mood', 'rethink', 'outl', 'glob', 'biased', 'emits', 'naturally', 'romantic', 'girlfriend', 'turbo', 'const', 'calculate', 'num', 'plays', 'rays']
+************************['meet_21', 'meet_22', 'meet_23', None]*************************************
+meet_21
+*****************
+candidate = ['petre', 'cardinaux', 'cuddly', 'horses', 'shameful', 'potentialmeter', 'obstacles', 'cow', 'gooding', 'specialities', 'getabdar', 'bird', 'hamed', 'discrete', 'drops', 'challenging', 'playful', 'developer', 'morris', 'american', 'attack', 'fabien', 'dependant', 'switzerland', 'rays', 'experiments', 'fallen', 'technic', 'scream', 'lighted', 'furry', 'mor', 'desk', 'peter', 'lapel', 'cats', 'inv', 'heart', 'slider', 'levels', 'animal', 'tools', 'sketch', 'interf', 'bob', 'tool', 'cat', 'waves', 'characteristics', 'hurry']
+meet_22
+*****************
+candidate = ['air', 'infrequently', 'rw', 'handshaking', 'preferred', 'frustrates', 'dic', 'cancelled', 'funded', 'appliances', 'neighbours', 'prioritise', 'timers', 'scaring', 'approx', 'betweens', 'tod', 'amongst', 'unintuitive', 'linux', 'bathroom', 'categorising', 'overwhelmingly', 'indevel', 'generic', 'protocol', 'inviting', 'umv', 'oem', 'permission', 'interfacing', 'hierarchical', 'petres', 'booked', 'questi', 'identification', 'conducted', 'channe', 'presently', 'satisfy', 'interpret', 'bon', 'outdated', 'occasionally', 'struggled', 'experiments', 'diodes', 'grandfathers', 'morris', 'solved']
+meet_23
+*****************
+candidate = ['peeling', 'card', 'diagonal', 'frequent', 'discover', 'millimetres', 'detects', 'dialling', 'spo', 'fabian', 'easiness', 'shells', 'adaptor', 'vinyl', 'lic', 'specialists', 'feasib', 'cube', 'suede', 'pof', 'raw', 'motif', 'drives', 'velcro', 'asleeps', 'daylight', 'computing', 'magnetic', 'inches', 'hamed', 'centimetre', 'dun', 'furniture', 'sponge', 'invent', 'unrelated', 'uniform', 'technolog', 'commonly', 'recogn', 'sm', 'struggle', 'fabien', 'thirdly', 'roller', 'fatter', 'engineers', 'mana', 'elsewhere', 'responding']
+************************['meet_25', 'meet_26', 'meet_27', 'meet_28']*************************************
+meet_25
+*****************
+candidate = ['cobra', 'pavlov', 'smiling', 'worm', 'lefthander', 'ret', 'monochrome', 'cellular', 'desail', 'anothers', 'tis', 'chris', 'christa', 'fish', 'smile', 'daughter', 'extremes', 'pret', 'tall', 'mental', 'ate', 'dangerous', 'waterproof', 'rabbit', 'dash', 'snake', 'viewer', 'refrigerator', 'darn', 'robustness', 'history', 'unbreakable', 'adaptable', 'slash', 'baby', 'brain', 'proof', 'animal', 'carrot', 'kickoff', 'undo', 'whichever', 'sized', 'states', 'cat', 'tool', 'drawings', 'targeted', 'characteristics', 'sequence']
+meet_26
+*****************
+candidate = ['benjo', 'hundreds', 'electromagnetic', 'scored', 'dislike', 'babyproof', 'dialers', 'generalised', 'net', 'answered', 'dsp', 'issuing', 'gest', 'wording', 'cycled', 'sho', 'buzz', 'shouting', 'dsps', 'occam', 'air', 'conditioning', 'sensing', 'simp', 'repetitivity', 'dsb', 'fives', 'cnn', 'intentions', 'dwight', 'tennis', 'requiremen', 'eventual', 'encryption', 'conducted', 'pump', 'facilities', 'jack', 'specialist', 'engineers', 'prompt', 'complicate', 'razor', 'transferred', 'gesture', 'usefulness', 'tables', 'ramaro', 'devised', 'lean']
+meet_27
+*****************
+candidate = ['lsd', 'zillions', 'assembler', 'lsds', 'chameleon', 'moulding', 'guns', 'wil', 'thermodynamic', 'sarcastic', 'fruitylike', 'millennium', 'reinvent', 'bodys', 'signature', 'rsa', 'risky', 'cumbersome', 'millenniums', 'fibre', 'radium', 'iradium', 'cities', 'decisi', 'nickel', 'smartness', 'aluminium', 'penultim', 'cans', 'abilities', 'gradable', 'dreams', 'particularity', 'paints', 'fruitshaped', 'strangely', 'converse', 'highlight', 'ordered', 'clothe', 'upgradable', 'chippy', 'rama', 'assembly', 'travel', 'interests', 'panels', 'invent', 'father', 'themes']
+meet_28
+*****************
+candidate = ['party', 'fudge', 'fulfils', 'hoho', 'criterium', 'forecast', 'bobby', 'exceeding', 'origins', 'curvable', 'crite', 'dir', 'stars', 'vegetarian', 'assessment', 'babe', 'yahoo', 'constative', 'lounge', 'eng', 'shade', 'attraction', 'explanat', 'weekends', 'celebrate', 'restaurant', 'sponges', 'colourised', 'cursor', 'boohoo', 'nickname', 'moder', 'obtain', 'pinkness', 'italian', 'mood', 'deserves', 'russian', 'asse', 'tit', 'masa', 'tricks', 'nasa', 'strawberries', 'criterion', 'usefulness', 'teamwork', 'bucks', 'celebration', 'tuesday']
+this file includes the tf-idf scores for 138 scenario-based meetings
+For each meeting, the tf-idf scores are computed by comparing this meeting w.r.t other scenario-based 
+meetings esxcept the meetins with the same order in their bloks.
+************************['meet_29', 'meet_30', 'meet_31', 'meet_32']*************************************
+meet_29
+*****************
+candidate = ['revol', 'appendix', 'classi', 'optimise', 'volunteer', 'documentary', 'themself', 'responsibilities', 'scene', 'mis', 'xml', 'distribution', 'webs', 'websites', 'contents', 'norman', 'lapel', 'retrieve', 'contain', 'confusion', 'assigned', 'tonight', 'revolutionary', 'recog', 'assign', 'adaptation', 'choo', 'magazines', 'content', 'gather', 'challenge', 'sorted', 'collect', 'characteristics', 'categories', 'movies', 'reflect', 'service', 'funct', 'slim', 'sev', 'reuse', 'responsible', 'drive', 'exists', 'browse', 'category', 'tricky', 'download', 'external']
+meet_30
+*****************
+candidate = ['gateway', 'harry', 'anticipate', 'german', 'arrays', 'adjustment', 'compose', 'lousy', 'wellstudied', 'preprocessing', 'feedbacks', 'schema', 'functionali', 'competing', 'analog', 'automatical', 'subtitl', 'neededs', 'tolerate', 'centr', 'kiv', 'navigator', 'troubleshooting', 'weekend', 'fpga', 'adaptive', 'popularity', 'sug', 'men', 'recognisers', 'outdated', 'manner', 'compu', 'xml', 'whys', 'recorders', 'foreign', 'wired', 'webs', 'processing', 'pda', 'hardware', 'pa', 'explorer', 'regarding', 'contro', 'stored', 'consume', 'adaptation', 'conclude']
+meet_31
+*****************
+candidate = ['probability', 'prefix', 'cube', 'vocabularies', 'peep', 'factories', 'customizable', 'deals', 'compar', 'contradiction', 'wil', 'diagrams', 'emission', 'cited', 'prerequirements', 'signs', 'misplace', 'nuff', 'basketball', 'collaborations', 'reputation', 'snapshot', 'probl', 'confog', 'scrollings', 'compiled', 'homely', 'associating', 'commander', 'cluster', 'numbe', 'accumulate', 'pronouncing', 'environments', 'fou', 'manufactural', 'sister', 'frightened', 'synthesis', 'prizes', 'secure', 'eliminates', 'scrolls', 'supposedly', 'perceived', 'lef', 'migh', 'ik', 'hears', 'simpl']
+meet_32
+*****************
+candidate = ['modules', 'liberty', 'modular', 'addons', 'gi', 'similarit', 'cond', 'speeches', 'endurable', 'additi', 'fuct', 'interactively', 'democratic', 'retrieval', 'handphone', 'scoring', 'optimises', 'destroyed', 'misplacement', 'joysticklike', 'biscuits', 'modularity', 'attracting', 'pcbs', 'aas', 'singles', 'mishandling', 'sayin', 'married', 'discu', 'wellorganised', 'camer', 'satisfying', 'lithiumion', 'genre', 'cakes', 'satisfaction', 'amend', 'couples', 'party', 'sys', 'nearby', 'nowaday', 'cus', 'judgement', 'bla', 'presentat', 'guillaume', 'biased', 'customisation']
+************************['meet_33', 'meet_34', 'meet_35', 'meet_36']*************************************
+meet_33
+*****************
+candidate = ['accounting', 'coor', 'tag', 'begun', 'daseri', 'determining', 'documentations', 'acceptability', 'shrida', 'initiation', 'administration', 'cc', 'strategic', 'pinpoint', 'contributing', 'copies', 'mails', 'coordinator', 'announcements', 'loop', 'vendors', 'composed', 'responsibilities', 'afterward', 'caught', 'passed', 'request', 'coordinating', 'acceptance', 'compete', 'coordinate', 'wise', 'anytime', 'colleagues', 'draws', 'planned', 'ed', 'monitor', 'studies', 'documentation', 'spell', 'immediate', 'agnes', 'teams', 'throughout', 'member', 'inch', 'coordination', 'knock', 'core']
+meet_34
+*****************
+candidate = ['thirtyfive', 'expressed', 'establish', 'objecting', 'recognizer', 'oneword', 'ibm', 'eds', 'flashmatic', 'pioneering', 'extreme', 'ages', 'clarifications', 'insights', 'intuitions', 'doggone', 'waffling', 'driving', 'filter', 'regulate', 'requir', 'imposing', 'timeframe', 'tons', 'preson', 'zenith', 'ambient', 'intel', 'recognit', 'yearold', 'newspapers', 'triggered', 'eddie', 'cue', 'spends', 'inflatable', 'boom', 'wirelessly', 'oral', 'invite', 'ties', 'louder', 'christines', 'facilities', 'outmoded', 'verbally', 'economically', 'invented', 'united', 'cups']
+meet_35
+*****************
+candidate = ['woods', 'flipup', 'brittle', 'dimmer', 'resistance', 'expression', 'customisability', 'microproc', 'shrinkable', 'contextsensitive', 'laws', 'powerbook', 'costefficient', 'regret', 'centering', 'specifica', 'oils', 'kidfriendly', 'sorr', 'splinters', 'revenues', 'expandable', 'customi', 'telephonish', 'houston', 'choic', 'stealing', 'easiness', 'forgive', 'speculation', 'geometry', 'fortyfive', 'historical', 'nonoption', 'cracks', 'microprocessor', 'quasimeasurements', 'teething', 'wears', 'sacrificing', 'customisably', 'exploit', 'tropical', 'commission', 'feelgood', 'titaniums', 'wage', 'melting', 'communications', 'malaysia']
+meet_36
+*****************
+candidate = ['event', 'promotion', 'umhmm', 'turnaround', 'transportation', 'ebay', 'amazon', 'usertested', 'releasing', 'shipping', 'gi', 'relationships', 'pms', 'marketer', 'finetuned', 'diapers', 'satisfi', 'popcorn', 'chi', 'plasticene', 'anticipated', 'rereleased', 'january', 'inflated', 'onorder', 'anyhow', 'feasibili', 'calculations', 'compliments', 'relaunched', 'occupied', 'dropship', 'promotions', 'rotating', 'shoe', 'trivial', 'celebrate', 'flopped', 'motivations', 'approve', 'agents', 'tremendous', 'launched', 'party', 'napki', 'absorb', 'testmarket', 'centres', 'flops', 'unveil']
+************************['meet_37', 'meet_38', 'meet_39', 'meet_40']*************************************
+meet_37
+*****************
+candidate = ['kitty', 'eileen', 'technicalfunctional', 'bookcase', 'jeanneoui', 'sweater', 'divides', 'betty', 'snakes', 'someplace', 'conception', 'acquaintance', 'lamps', 'notices', 'airconditioners', 'kidney', 'francina', 'whic', 'toes', 'responsibilities', 'responsibility', 'specifi', 'twen', 'unlimited', 'plant', 'snake', 'training', 'newspaper', 'hanging', 'wipe', 'heading', 'darkness', 'rabbit', 'challenged', 'heating', 'successfully', 'francine', 'fat', 'friendliness', 'temperature', 'multipurpose', 'ins', 'hungry', 'everyday', 'justify', 'fluorescent', 'cat', 'spot', 'blink', 'degree']
+meet_38
+*****************
+candidate = ['subgroups', 'wallet', 'sli', 'september', 'referred', 'interject', 'striped', 'weed', 'alternate', 'allergy', 'permits', 'air', 'investment', 'compactability', 'cosmetic', 'motor', 'remains', 'prioritise', 'arthritic', 'reece', 'alphabet', 'connec', 'entertainment', 'compactness', 'viewed', 'disease', 'harmed', 'gee', 'husband', 'ser', 'puddle', 'projections', 'maintained', 'conditioner', 'shorten', 'hank', 'beback', 'prioritising', 'transforms', 'bebacks', 'doll', 'connecting', 'moot', 'infro', 'cosmetics', 'appliance', 'cater', 'fluorescence', 'aff', 'impulse']
+meet_39
+*****************
+candidate = ['misplace', 'temperatures', 'ninth', 'amplified', 'compone', 'electri', 'jana', 'compons', 'whose', 'tshape', 'anar', 'radiowaves', 'electrici', 'mors', 'timetable', 'checkout', 'acti', 'highs', 'explored', 'transist', 'counter', 'sw', 'pending', 'pins', 'nonallergic', 'encourage', 'unwieldy', 'houses', 'card', 'undesirable', 'capac', 'progra', 'sees', 'squint', 'doubtful', 'saleability', 'cablesatellite', 'ads', 'ingenious', 'ci', 'cylinder', 'thirtyeight', 'casually', 'ess', 'pros', 'tshaped', 'francino', 'misplaced', 'compon', 'alarmclock']
+meet_40
+*****************
+candidate = ['beware', 'cutest', 'amplification', 'heaven', 'settle', 'guarantees', 'abs', 'elongated', 'socioeconomic', 'fee', 'fortunately', 'toxic', 'necklace', 'paradoxically', 'lookswise', 'consolidate', 'relays', 'comic', 'leash', 'observations', 'oyster', 'champagne', 'swallow', 'satisfaction', 'cel', 'functionalitys', 'roundy', 'generat', 'moneywise', 'financing', 'celebration', 'dwell', 'realised', 'disturb', 'redo', 'biomorphic', 'decreasing', 'catching', 'passed', 'voices', 'recyclable', 'chart', 'compu', 'betsy', 'ignored', 'tangible', 'subtitle', 'evaluated', 'couldve', 'greatest']
+************************['meet_41', 'meet_42', 'meet_43', 'meet_44']*************************************
+meet_41
+*****************
+candidate = ['beagle', 'chasing', 'dinner', 'allergic', 'laura', 'mild', 'impressionist', 'wealth', 'cram', 'shoelaces', 'conditioned', 'regions', 'london', 'apes', 'harmless', 'tails', 'cheery', 'chases', 'exploring', 'familys', 'amusing', 'scoot', 'chara', 'blender', 'charac', 'beagles', 'zones', 'greece', 'junky', 'affectionate', 'pig', 'homes', 'fur', 'rooster', 'ironic', 'whale', 'wags', 'retailer', 'commitment', 'assess', 'whales', 'pitched', 'planet', 'affection', 'podi', 'tail', 'characters', 'scribble', 'mixture', 'somethin']
+meet_42
+*****************
+candidate = ['buckets', 'vast', 'separating', 'diagram', 'habitual', 'categorising', 'clarification', 'disability', 'expressed', 'punch', 'rarely', 'perg', 'relay', 'dislike', 'installing', 'prioritise', 'gadgety', 'explains', 'insp', 'techie', 'entertainment', 'bass', 'resume', 'upish', 'clarity', 'professionals', 'embody', 'prt', 'intrared', 'modularising', 'visualisation', 'spite', 'shy', 'expendable', 'tons', 'locally', 'spread', 'knot', 'sorting', 'schools', 'identifying', 'collective', 'simpleness', 'concealed', 'yelling', 'davids', 'groupings', 'recurring', 'confine', 'fortyish']
+meet_43
+*****************
+candidate = ['textured', 'bricks', 'listings', 'visualize', 'unifies', 'whose', 'frankenstein', 'wednesday', 'glassy', 'talks', 'template', 'contributes', 'nonrechargeable', 'tightly', 'showable', 'tinted', 'batterypowered', 'nuts', 'revisit', 'capitalise', 'mixing', 'acknowledge', 'grippy', 'band', 'shadowy', 'illuminate', 'bumped', 'initiate', 'oppose', 'swipe', 'gigabytes', 'glossy', 'steer', 'debugging', 'committing', 'seasons', 'nuisance', 'inspire', 'fond', 'inconsistent', 'snowmanshape', 'wooh', 'spun', 'hid', 'clarified', 'committed', 'availa', 'triggers', 'offerings', 'trademark']
+meet_44
+*****************
+candidate = ['homer', 'jogdial', 'ninja', 'atmosphere', 'formality', 'lego', 'conducive', 'distraction', 'edible', 'confining', 'restricts', 'submitting', 'foggy', 'printer', 'harvest', 'dissatisfied', 'collaborate', 'widthwise', 'unfamiliar', 'embossing', 'irritates', 'wheat', 'abs', 'distracting', 'intercept', 'summarising', 'highish', 'restraints', 'abandon', 'involve', 'discommunicate', 'contrived', 'interfacewise', 'predisposes', 'institutional', 'estimating', 'woulda', 'framework', 'cage', 'redraw', 'conceptualizing', 'acting', 'reporting', 'interactions', 'hindering', 'freebie', 'preservatives', 'stylized', 'twos', 'answering']
+************************['meet_45', 'meet_46', 'meet_47', 'meet_48']*************************************
+meet_45
+*****************
+candidate = ['tarik', 'macros', 'monkeys', 'attitude', 'begins', 'feared', 'dave', 'acquaintance', 'duguid', 'nez', 'affectionately', 'providers', 'destroying', 'profiting', 'snotty', 'stri', 'oblique', 'meat', 'artistry', 'nigeria', 'tigers', 'primates', 'evolution', 'ademesoye', 'whatevers', 'subscribed', 'clipped', 'defin', 'keypads', 'rewound', 'cochrane', 'architectural', 'brilliantly', 'bangladesh', 'partially', 'rahman', 'keyboar', 'memories', 'ebenezer', 'elephants', 'monkey', 'tiger', 'wild', 'ga', 'daughter', 'clever', 'worn', 'efficiently', 'sl', 'loved']
+meet_46
+*****************
+candidate = ['manipulation', 'avenue', 'disp', 'permanently', 'regional', 'geometrical', 'integra', 'perf', 'interrupting', 'unfriendly', 'interac', 'thankfully', 'traversing', 'differentness', 'earliest', 'dodo', 'memorys', 'disagrees', 'obeyed', 'recognitions', 'fastforward', 'evr', 'owner', 'ibm', 'rectified', 'manipulating', 'ebenezers', 'rationalisation', 'subsequent', 'visitor', 'pursuing', 'traverse', 'signify', 'habit', 'appliance', 'externally', 'quiet', 'vast', 'adopted', 'dictate', 'reprogramming', 'buys', 'deskt', 'cycle', 'muscle', 'flesh', 'flickering', 'arbitrarily', 'populat', 'appliances']
+meet_47
+*****************
+candidate = ['nuisance', 'largely', 'detect', 'joy', 'query', 'vibrator', 'laying', 'usbs', 'favourably', 'contradiction', 'vc', 'hookup', 'bulkiest', 'hol', 'traversal', 'mapping', 'weakness', 'adventurous', 'structural', 'spongys', 'producement', 'overstepped', 'customisations', 'steer', 'squeezable', 'mountain', 'subgroup', 'bikes', 'justice', 'perceive', 'joint', 'partic', 'oomp', 'adjusted', 'alley', 'irrespective', 'iv', 'ion', 'ludicrous', 'rotated', 'outsource', 'performing', 'prototyping', 'aesthetically', 'oo', 'concep', 'paired', 'narrowing', 'articulated', 'articulation']
+meet_48
+*****************
+candidate = ['generous', 'woulda', 'sole', 'optimistic', 'shed', 'bulkier', 'incurs', 'unfamiliar', 'manipulated', 'continued', 'positions', 'biased', 'concessions', 'counters', 'condensed', 'rests', 'stretching', 'curvous', 'marginally', 'sucks', 'strategies', 'minimalised', 'loca', 'neglected', 'invested', 'factored', 'drape', 'fetching', 'basket', 'altering', 'bursting', 'settle', 'labs', 'needing', 'blows', 'skepible', 'sadly', 'twisted', 'pains', 'incur', 'dyna', 'studying', 'accountants', 'managing', 'promptly', 'panned', 'heavily', 'sacrificed', 'scraping', 'suffer']
+************************['meet_49', 'meet_50', 'meet_51', 'meet_51b']*************************************
+meet_49
+*****************
+candidate = ['eagle', 'crocodile', 'seagull', 'golf', 'intrepid', 'grandads', 'pooches', 'chucking', 'dim', 'vampire', 'selfintuitive', 'beauti', 'indepen', 'yi', 'tampering', 'freespirited', 'rex', 'pelican', 'outstandingly', 'dogs', 'seagu', 'experiences', 'cheapiecheapie', 'beak', 'majestic', 'dum', 'twohanded', 'amp', 'clipped', 'australia', 'hunk', 'supportive', 'financewise', 'grannies', 'windowsbased', 'prey', 'thief', 'undercut', 'loyal', 'treading', 'tu', 'bird', 'dreadful', 'cheapie', 'grandad', 'attempt', 'smarter', 'books', 'havi', 'birds']
+meet_50
+*****************
+candidate = ['curled', 'generations', 'channelhopping', 'bothered', 'reverses', 'videoplus', 'semicircular', 'economies', 'outlets', 'chain', 'sunk', 'rectangles', 'postpone', 'vast', 'warehouse', 'demonised', 'punch', 'flipopen', 'retired', 'fastforwarding', 'forefront', 'seventeenth', 'undaunting', 'perc', 'dissonance', 'unders', 'whack', 'elbow', 'def', 'varies', 'italics', 'pulled', 'meter', 'marvellous', 'slipping', 'evens', 'decoded', 'south', 'seashells', 'decode', 'bleeper', 'williams', 'mantelpiece', 'differentiate', 'crosssection', 'deterred', 'dislike', 'lip', 'interject', 'fear']
+meet_51
+*****************
+candidate = ['mirrors', 'remanufacture', 'fairs', 'artificial', 'gui', 'consultants', 'sunlight', 'fascia', 'battle', 'practicalwise', 'retouchable', 'surfer', 'mentions', 'puffer', 'predicted', 'tonguetied', 'grief', 'varying', 'wore', 'forerunners', 'stylus', 'fasciae', 'bursts', 'monotonous', 'attended', 'eternal', 'houses', 'nightclubs', 'frequent', 'bareboard', 'misunderstood', 'memo', 'rejected', 'padding', 'linking', 'expensives', 'spaced', 'inconsistent', 'acupressure', 'pitfall', 'longest', 'spikes', 'hinged', 'sidetracked', 'shower', 'silicone', 'aircraft', 'spoil', 'acupressures', 'repetition']
+meet_51b
+*****************
+candidate = ['woulda', 'decimal', 'biased', 'ship', 'flattened', 'remit', 'crite', 'sens', 'favoured', 'elses', 'engraving', 'modifying', 'delegating', 'comprimi', 'slightl', 'minimisation', 'borrowed', 'autonomy', 'ambivalent', 'borrowing', 'predic', 'photoshop', 'chunk', 'reg', 'feasibly', 'quibble', 'domed', 'pcbs', 'obliques', 'dealin', 'boughton', 'itve', 'conspiracy', 'dancing', 'branching', 'adequate', 'jazz', 'bezzled', 'intending', 'pray', 'clamshell', 'madness', 'customisation', 'wherein', 'paw', 'desks', 'noodle', 'surprises', 'specimen', 'sombodys']
+************************['meet_52', 'meet_53', 'meet_54', 'meet_55']*************************************
+meet_52
+*****************
+candidate = ['finalising', 'warnings', 'allocate', 'shades', 'usurp', 'speciality', 'exper', 'keyrings', 'ie', 'groovy', 'clunky', 'pda', 'cd', 'movies', 'slim', 'mp', 'doubt', 'potential', 'competition', 'playing', 'pounds', 'emails', 'whistle', 'presumably', 'neat', 'deciding', 'held', 'damn', 'carry', 'prices', 'suggested', 'gimmick', 'player', 'thoughts', 'compared', 'million', 'apart', 'grey', 'normally', 'profit', 'electronic', 'coach', 'attractive', 'universal', 'instructions', 'fairly', 'worth', 'sometimes', 'shapes', 'li']
+meet_53
+*****************
+candidate = ['likings', 'interference', 'computery', 'arlo', 'rajs', 'raring', 'craft', 'advert', 'consu', 'horror', 'sme', 'brightly', 'disinclude', 'shouting', 'canonical', 'caffeine', 'volatile', 'net', 'anybo', 'danger', 'archives', 'strike', 'dislike', 'advancing', 'globular', 'blasting', 'diagram', 'globby', 'unirs', 'subtractive', 'twiddle', 'nifty', 'thingamibobsy', 'escapell', 'realistically', 'ethics', 'adopted', 'dislikings', 'differentiate', 'helen', 'apprentice', 'percentages', 'rav', 'edgy', 'incorpor', 'allyellow', 'preferred', 'queries', 'detection', 'jotted']
+meet_54
+*****************
+candidate = ['facia', 'shoulda', 'mmmmmmmmmm', 'mobi', 'dele', 'engineered', 'healthier', 'bri', 'ridding', 'tal', 'secured', 'handdynamo', 'handi', 'bothering', 'chipping', 'ec', 'breakthrough', 'encourage', 'fruitish', 'unidentifiable', 'frent', 'sunlight', 'jet', 'threatening', 'amplifiers', 'gaudy', 'hardish', 'ben', 'needless', 'recover', 'surv', 'inconsistency', 'kl', 'mailed', 'mmmmmmmm', 'inconsistent', 'subcentrally', 'gourd', 'opamps', 'importantcause', 'logan', 'predicted', 'axially', 'pennies', 'multicolour', 'comfier', 'sola', 'fre', 'withstanding', 'watchers']
+meet_55
+*****************
+candidate = ['doublecurve', 'accountants', 'conforms', 'companyll', 'chocolates', 'crite', 'induce', 'fourths', 'bonuses', 'meli', 'marker', 'sevenths', 'recall', 'loch', 'shortage', 'fruitist', 'bashed', 'lim', 'bananabased', 'outsi', 'mea', 'melissa', 'champagne', 'piss', 'sacked', 'barney', 'ness', 'cus', 'swallowing', 'walkietalkie', 'extends', 'reusable', 'woohoo', 'technologywise', 'cutbacks', 'winning', 'wrongly', 'flattened', 'prongs', 'requirem', 'meets', 'rating', 'false', 'evaluated', 'leadership', 'teamwork', 'selfexplanatory', 'bloody', 'counts', 'stated']
+this file includes the tf-idf scores for 138 scenario-based meetings
+For each meeting, the tf-idf scores are computed by comparing this meeting w.r.t other scenario-based 
+meetings esxcept the meetins with the same order in their bloks.
+************************['meet_56', 'meet_57', 'meet_58', 'meet_59']*************************************
+meet_56
+*****************
+candidate = ['dogs', 'cow', 'horns', 'snakes', 'rabbits', 'gecko', 'cows', 'vets', 'skinny', 'lizard', 'australia', 'estonia', 'loyal', 'patches', 'simultaneously', 'getical', 'evadvaluation', 'menubased', 'cocktails', 'workspace', 'leicester', 'origi', 'hmhmm', 'lizards', 'professionally', 'buddhist', 'aerobics', 'gaurav', 'phd', 'eeyore', 'inspirational', 'kickboxing', 'stereotype', 'melbourne', 'pockets', 'malarkey', 'infa', 'geckos', 'cambodia', 'legs', 'eating', 'grass', 'originality', 'disturb', 'psycholinguistics', 'tail', 'india', 'crowded', 'similarly', 'jen']
+meet_57
+*****************
+candidate = ['wrists', 'communicates', 'unplugged', 'charmed', 'unaffordable', 'comparatively', 'clarification', 'defeats', 'directive', 'essent', 'musthave', 'cyclical', 'adopting', 'dem', 'pasting', 'litt', 'summarisation', 'itv', 'policy', 'conventions', 'insurance', 'flatmate', 'straining', 'rent', 'arguing', 'pointy', 'defending', 'communicated', 'observed', 'recognitionll', 'mortgage', 'commitments', 'whereabouts', 'functionali', 'jotted', 'separation', 'softwares', 'nothin', 'rome', 'cones', 'generates', 'prop', 'advert', 'wonderfully', 'amongst', 'curr', 'outdated', 'encourages', 'identification', 'income']
+meet_58
+*****************
+candidate = ['slidey', 'folded', 'wool', 'surfaced', 'dynamos', 'underlining', 'radiation', 'highlighting', 'ics', 'uneven', 'bike', 'firs', 'tra', 'discounting', 'configurations', 'asymmetry', 'fen', 'prec', 'insides', 'rubbing', 'splinters', 'protects', 'numb', 'mechanisms', 'enumerate', 'singe', 'cleanable', 'decade', 'onesided', 'symmet', 'employed', 'protecting', 'walkmans', 'outfit', 'lookin', 'cancer', 'uhhum', 'electr', 'irrespective', 'flatness', 'tapped', 'whatve', 'oi', 'ticking', 'menudriven', 'flippy', 'beauty', 'pcb', 'flipped', 'spin']
+meet_59
+*****************
+candidate = ['muting', 'sixes', 'sevens', 'wales', 'prevon', 'locatable', 'essay', 'approximation', 'bonuses', 'budgets', 'righthanders', 'texts', 'assessment', 'varied', 'rounder', 'phallic', 'prevented', 'static', 'whooshing', 'difficu', 'clumsy', 'diligently', 'intermediate', 'irritates', 'lectures', 'playdo', 'kap', 'provisional', 'beginni', 'banned', 'alteration', 'shh', 'cri', 'lefthanders', 'experiencing', 'discrimination', 'operatable', 'lastminute', 'anim', 'slimy', 'lacking', 'admitting', 'vegetablelike', 'rushed', 'ergonom', 'stake', 'dictating', 'patent', 'vibrates', 'smells']
+************************['meet_60', 'meet_61', 'meet_62', 'meet_63']*************************************
+meet_60
+*****************
+candidate = ['experiences', 'squirrel', 'napoleon', 'dynamite', 'spiritual', 'porn', 'tea', 'nested', 'healing', 'wiper', 'cuddly', 'awesomest', 'rude', 'tension', 'hilarious', 'liger', 'lion', 'prairie', 'touchy', 'humans', 'teeny', 'functs', 'mani', 'conception', 'acquaintance', 'forgets', 'rathe', 'warned', 'heal', 'idvidnme', 'sided', 'whatll', 'tail', 'responsibilities', 'disabled', 'fiddly', 'grandma', 'toffee', 'closes', 'belt', 'tiger', 'snazzy', 'har', 'fucking', 'bearing', 'sl', 'elephant', 'wipe', 'training', 'cats']
+meet_61
+*****************
+candidate = ['centred', 'updown', 'addresses', 'overlaps', 'headset', 'gathered', 'smoke', 'glance', 'operational', 'overcomplicate', 'minority', 'activating', 'niches', 'fastforward', 'participants', 'prospective', 'reiss', 'musthaves', 'medical', 'joining', 'pressurised', 'slog', 'freeze', 'observed', 'arses', 'grandmother', 'hurts', 'strains', 'alternate', 'noteboard', 'judging', 'borders', 'staring', 'ages', 'gab', 'litt', 'warming', 'blow', 'sussed', 'behave', 'connecting', 'swi', 'cath', 'scra', 'ine', 'catering', 'vein', 'weeny', 'beholden', 'reissa']
+meet_62
+*****************
+candidate = ['squeezing', 'peopleve', 'fuzz', 'combinations', 'prevents', 'fifties', 'madonna', 'pomegranate', 'rubble', 'talks', 'encourage', 'cues', 'malleable', 'burn', 'spinningwheel', 'flexes', 'reissas', 'beatles', 'sil', 'avocado', 'cloths', 'therapeuticising', 'laid', 'payraise', 'vetoed', 'flexed', 'pots', 'whopper', 'gaudy', 'squeezable', 'incentive', 'rick', 'sued', 'coffeemaker', 'fut', 'consulted', 'fielding', 'okeydokey', 'paycheck', 'thm', 'noticeable', 'whatev', 'verbal', 'sol', 'futures', 'customising', 'inclu', 'gearing', 'generating', 'torches']
+meet_63
+*****************
+candidate = ['edible', 'ornaments', 'doodah', 'sevens', 'marke', 'fad', 'righthanders', 'compute', 'summarising', 'smallish', 'fes', 'conformable', 'actua', 'praise', 'mesh', 'mai', 'playdohs', 'dough', 'hoho', 'moms', 'everybodyll', 'cart', 'integrally', 'mil', 'eaten', 'logitech', 'twoish', 'envy', 'adjourned', 'court', 'lefthanders', 'rehashing', 'ships', 'muting', 'thatve', 'healthy', 'thum', 'babies', 'pinkie', 'psp', 'simulation', 'silence', 'vested', 'fitted', 'criterias', 'heated', 'drinks', 'peopl', 'spy', 'colourwise']
+************************['meet_64', 'meet_65', 'meet_66', 'meet_67']*************************************
+meet_64
+*****************
+candidate = ['alima', 'california', 'consum', 'whatsoever', 'maine', 'exited', 'spatially', 'collaborating', 'singing', 'mysterious', 'coyote', 'decorative', 'coyotes', 'divides', 'lindgren', 'magnitude', 'whale', 'snout', 'callously', 'compa', 'experiences', 'seal', 'teeny', 'amina', 'drawable', 'bucciantini', 'howl', 'contraptions', 'handeye', 'swim', 'rote', 'acquaintance', 'whales', 'talents', 'jessy', 'nationalism', 'conceptional', 'whiskers', 'turtle', 'multimedia', 'overload', 'identifiable', 'iain', 'looki', 'playful', 'coordinated', 'ro', 'dc', 'residence', 'artists']
+meet_65
+*****************
+candidate = ['converts', 'loosey', 'tighty', 'freeze', 'ages', 'ian', 'emphasising', 'presents', 'yall', 'speci', 'practicalities', 'upndown', 'infrequently', 'tunnel', 'swings', 'unscrewed', 'garbled', 'explains', 'bothered', 'expects', 'filters', 'disconnect', 'tsh', 'ys', 'recognitions', 'roundabouts', 'pathetic', 'engineeringbased', 'blocky', 'filter', 'livingrooms', 'striking', 'lottery', 'inversely', 'importantly', 'phenomenon', 'headlines', 'avai', 'retune', 'incrat', 'converted', 'appleve', 'extreme', 'compromises', 'owns', 'shoddy', 'grinder', 'impede', 'scattering', 'summaries']
+meet_66
+*****************
+candidate = ['grippable', 'protecting', 'hesitant', 'peel', 'talks', 'bike', 'sinking', 'verticalish', 'advocating', 'edas', 'flashlights', 'watchers', 'economics', 'scope', 'stressing', 'userface', 'headquarters', 'scror', 'colourcoordinate', 'worded', 'padding', 'minimalistic', 'stale', 'carrots', 'spaceage', 'ith', 'hardsold', 'uhhu', 'envisioning', 'latexy', 'une', 'jess', 'wherea', 'ldd', 'enlighten', 'ufe', 'tighter', 'fruitshaped', 'smelly', 'torches', 'bored', 'complications', 'solders', 'allpurpose', 'thumbsized', 'tie', 'describing', 'necess', 'backward', 'lemons']
+meet_67
+*****************
+candidate = ['rhombus', 'martian', 'mangoey', 'decisive', 'gps', 'groceries', 'transponders', 'joke', 'deformed', 'fingernail', 'powerpointy', 'shuffle', 'withing', 'arrangements', 'contributions', 'sucked', 'potatoey', 'overenthusiastic', 'yellowy', 'crossing', 'tabulate', 'dominated', 'inscribed', 'organising', 'timed', 'toy', 'sadly', 'jingle', 'varieties', 'sentences', 'selectors', 'bumblebeeish', 'orally', 'tunnely', 'heaviness', 'notion', 'settee', 'tog', 'assumed', 'distraction', 'conforms', 'mangoes', 'sloth', 'satisfaction', 'tidy', 'property', 'helped', 'distracting', 'newsclippings', 'conservative']
+************************['meet_68', 'meet_69', 'meet_70', 'meet_71']*************************************
+meet_68
+*****************
+candidate = ['san', 'diego', 'california', 'lived', 'introductions', 'desert', 'barbara', 'orchestra', 'island', 'santa', 'vomit', 'city', 'michigan', 'smallville', 'jeff', 'brussels', 'buckley', 'afro', 'multiformat', 'bargain', 'mile', 'religion', 'burritos', 'cfo', 'folk', 'maine', 'anthropology', 'bathgate', 'studied', 'maximising', 'cooked', 'clare', 'cali', 'laundry', 'rubbish', 'grill', 'wanker', 'weaker', 'ucla', 'southern', 'mexican', 'clapper', 'urine', 'thrilling', 'forte', 'jolla', 'howre', 'phd', 'tortillas', 'smallers']
+meet_69
+*****************
+candidate = ['microchip', 'sacrifice', 'recycled', 'boot', 'functioned', 'millisecond', 'compose', 'behave', 'revolutionise', 'practices', 'suggests', 'sincerely', 'hideous', 'der', 'publicity', 'alias', 'pensioners', 'ports', 'interference', 'hitech', 'emblematic', 'pho', 'bobs', 'reminders', 'pager', 'emphatically', 'engraved', 'unexpectedly', 'stats', 'lap', 'pou', 'revolutionising', 'adm', 'cornering', 'confirmed', 'subliminal', 'lapt', 'publics', 'admittedly', 'polymers', 'dormant', 'carrier', 'suffice', 'voi', 'portions', 'complaint', 'emit', 'injuring', 'catering', 'demographics']
+meet_70
+*****************
+candidate = ['route', 'downs', 'secondary', 'fuel', 'jokes', 'piloting', 'upping', 'olive', 'dongle', 'folds', 'pretentious', 'pyramidal', 'taped', 'airport', 'millimetres', 'kinesthetic', 'dedicated', 'recalling', 'teaser', 'blocking', 'ovoidal', 'secured', 'sic', 'highs', 'controllooking', 'cla', 'compelling', 'pending', 'bank', 'anyth', 'tomatoes', 'illuminate', 'detect', 'nathans', 'margins', 'fundamentally', 'collate', 'solvent', 'goto', 'mechanisms', 'houses', 'yur', 'misplace', 'betwe', 'terracotta', 'deve', 'infrare', 'cards', 'verbal', 'omit']
+meet_71
+*****************
+candidate = ['legos', 'woulda', 'handwriting', 'disfluencies', 'celebrate', 'edible', 'helped', 'studying', 'spaceships', 'integral', 'branch', 'mattered', 'rot', 'resourceful', 'prefixes', 'woohoo', 'sway', 'continued', 'edu', 'upped', 'filler', 'edited', 'dropdown', 'mugs', 'creepy', 'ineffective', 'stressed', 'polymer', 'unclips', 'moral', 'compulsively', 'tripping', 'locks', 'microchips', 'fare', 'tack', 'pullout', 'encased', 'eloquent', 'setback', 'coaching', 'tentatively', 'ideological', 'uhs', 'contraption', 'signing', 'gaps', 'flowed', 'gov', 'doubleclicking']
+************************['meet_72', 'meet_73', 'meet_74', 'meet_75']*************************************
+meet_72
+*****************
+candidate = ['badger', 'allergic', 'fenella', 'experiences', 'kitty', 'vegas', 'dinosaur', 'creatures', 'asia', 'piranhas', 'club', 'max', 'vicious', 'introductions', 'roommate', 'mandy', 'reconfigure', 'indepth', 'nocturnal', 'variances', 'insanely', 'liverpudlian', 'sams', 'nil', 'kne', 'grumpy', 'contraptions', 'zoos', 'willows', 'habitat', 'esp', 'phasing', 'badgers', 'watervascular', 'forgo', 'tivo', 'fish', 'cats', 'las', 'books', 'expe', 'giraffes', 'topics', 'writer', 'mother', 'summer', 'schematics', 'ink', 'vhs', 'sleep']
+meet_73
+*****************
+candidate = ['fastforward', 'entertainment', 'accessed', 'weather', 'stare', 'seemingly', 'ticker', 'disney', 'demog', 'permits', 'overcomplicate', 'nontechnically', 'expanding', 'mmmmmm', 'audi', 'sitcoms', 'ovals', 'addicted', 'insulation', 'highclass', 'childishly', 'flashiness', 'spanish', 'bland', 'diverting', 'los', 'pared', 'brains', 'rival', 'flashed', 'perverts', 'subcomponent', 'demographically', 'userspecified', 'closure', 'freeze', 'dumber', 'onetime', 'ranges', 'tons', 'swi', 'educated', 'demo', 'duplicating', 'operas', 'permit', 'evil', 'centred', 'definitive', 'denominator']
+meet_74
+*****************
+candidate = ['retro', 'illuminate', 'bluebased', 'splinters', 'powersource', 'iffy', 'lord', 'illustrated', 'retros', 'irritated', 'capacitator', 'icky', 'irritate', 'wary', 'midclass', 'refresh', 'squishier', 'depress', 'washed', 'jill', 'wash', 'rarity', 'overlays', 'masse', 'illuminating', 'silvermetallic', 'nowim', 'envisioning', 'cherrycoloured', 'keyphrase', 'coffeemaker', 'finders', 'aluminium', 'purse', 'beebies', 'handshape', 'solids', 'salesroom', 'illumination', 'describing', 'sister', 'shiny', 'strangely', 'classically', 'tracker', 'triangular', 'encoded', 'keyring', 'hotter', 'clicky']
+meet_75
+*****************
+candidate = ['elementary', 'delicious', 'resembling', 'macs', 'courtneys', 'thumbshaped', 'indented', 'serpent', 'poking', 'orally', 'nologically', 'eve', 'constitute', 'scratching', 'congenial', 'margaritas', 'fallings', 'district', 'stifled', 'toronto', 'indi', 'notches', 'cri', 'vanna', 'restricting', 'gouges', 'party', 'plugs', 'reflection', 'bough', 'appreciated', 'sqi', 'strongly', 'figleaf', 'whoohoo', 'cookie', 'false', 'teamwork', 'lightup', 'spreadsheet', 'ya', 'squared', 'misses', 'gunmetal', 'plane', 'font', 'winner', 'financing', 'gray', 'bothers']
+************************['meet_76', 'meet_77', 'meet_78', 'meet_79']*************************************
+meet_76
+*****************
+candidate = ['chiara', 'dolphin', 'graceful', 'dolphins', 'pictionary', 'disastrous', 'handsized', 'vib', 'sweat', 'tact', 'volunteers', 'introductions', 'claflin', 'mathematician', 'celebrity', 'abbie', 'scotland', 'krista', 'experiences', 'riding', 'pig', 'textile', 'swim', 'dragging', 'beach', 'mammals', 'binocular', 'abigail', 'cribs', 'horse', 'tail', 'couches', 'stephanie', 'exactl', 'magnet', 'tellys', 'feat', 'wraps', 'legs', 'european', 'dying', 'water', 'furry', 'sleep', 'wrapping', 'internationally', 'didn', 'training', 'spaceship', 'formatted']
+meet_77
+*****************
+candidate = ['professionals', 'songs', 'leas', 'hers', 'clockwise', 'senders', 'custome', 'matched', 'coding', 'observed', 'vibration', 'ringing', 'expensi', 'cycle', 'speek', 'dealy', 'capabili', 'zip', 'hu', 'reprogrammable', 'messing', 'values', 'pricey', 'teenagers', 'sessions', 'outdated', 'hears', 'premade', 'onl', 'twopart', 'eject', 'findable', 'capacity', 'changers', 'complained', 'rotate', 'ol', 'vhs', 'popularity', 'buzzer', 'region', 'ir', 'habits', 'updates', 'fewer', 'tracks', 'tested', 'purchase', 'laboratory', 'vibrate']
+meet_78
+*****************
+candidate = ['squashy', 'ipodstyle', 'touchbased', 'wheely', 'fashionwatchers', 'balley', 'sand', 'kryptonite', 'abbreviations', 'blueberry', 'diagrams', 'syntactic', 'dreading', 'juggling', 'squishing', 'handhe', 'neater', 'typ', 'fond', 'stamped', 'condom', 'fabrics', 'envisioning', 'arou', 'popup', 'stamp', 'relaxing', 'ipodish', 'obnoxious', 'tapped', 'protu', 'whatchamacallits', 'band', 'purchased', 'snap', 'describing', 'grapefruit', 'flatmates', 'forming', 'tactilely', 'torches', 'cir', 'squish', 'bicycle', 'theirs', 'scuse', 'concluded', 'en', 'song', 'ipodlike']
+meet_79
+*****************
+candidate = ['wordperfect', 'rhubarb', 'democratic', 'trues', 'adjourned', 'tedious', 'unfancy', 'spats', 'handholdable', 'boo', 'unix', 'marker', 'cheating', 'squishiness', 'ignorant', 'pursue', 'stimulating', 'offtask', 'holdi', 'snaps', 'stopped', 'conflicts', 'clumsy', 'calculations', 'strawberrys', 'answering', 'transcript', 'blended', 'practicalit', 'reinstall', 'smash', 'cri', 'encouraged', 'rehashing', 'irregular', 'squishable', 'unc', 'wins', 'beepers', 'reiteration', 'cucumbers', 'redesigns', 'creatively', 'satisfactory', 'macs', 'oddly', 'smallish', 'fruitiness', 'swear', 'neednt']
+************************['meet_80', 'meet_81', 'meet_82', 'meet_83']*************************************
+meet_80
+*****************
+candidate = ['dependable', 'planet', 'lightest', 'formalised', 'userunfriendly', 'horses', 'untangling', 'parallel', 'darkened', 'sapien', 'streaks', 'handiest', 'astray', 'beard', 'badger', 'contort', 'tank', 'granted', 'arse', 'entry', 'underdog', 'swim', 'stagger', 'facets', 'facials', 'homo', 'gross', 'badgers', 'katie', 'virtual', 'kendra', 'awkward', 'forbid', 'prompt', 'reconvene', 'vital', 'convention', 'wrapped', 'relationship', 'scenes', 'approaching', 'preconceived', 'faceplates', 'feelings', 'fly', 'enhance', 'duck', 'messed', 'schemes', 'structured']
+meet_81
+*****************
+candidate = ['centred', 'permanently', 'directive', 'fascias', 'proportion', 'bite', 'manages', 'remarkably', 'incrementally', 'extreme', 'jaw', 'composes', 'contoured', 'andy', 'bothered', 'diagram', 'lined', 'cuts', 'itv', 'channelll', 'matched', 'lifted', 'oblong', 'subcomponent', 'wording', 'senderreceiver', 'buttonless', 'attributed', 'technicalities', 'appeared', 'swi', 'depe', 'folding', 'expectancy', 'draining', 'somei', 'complain', 'strictly', 'individuals', 'rarely', 'empl', 'somewhe', 'concealed', 'ache', 'movable', 'doors', 'watcher', 'radically', 'ledge', 'clicking']
+meet_82
+*****************
+candidate = ['preprogramme', 'route', 'conjunction', 'customdesigned', 'supermarket', 'rapidly', 'whip', 'gua', 'sup', 'les', 'watchers', 'readily', 'widens', 'dialling', 'microphoneesque', 'supermarkets', 'anyti', 'trai', 'realising', 'mechanisms', 'echelons', 'soldered', 'damaging', 'sees', 'plumbed', 'hairbrush', 'cog', 'experimental', 'narrower', 'kendras', 'resting', 'picturing', 'sliders', 'conveniently', 'clobber', 'envisaged', 'renewed', 'tricking', 'swatch', 'annually', 'wonders', 'ripped', 'clutter', 'unreliability', 'incli', 'atlantic', 'il', 'tie', 'lend', 'weights']
+meet_83
+*****************
+candidate = ['lengthen', 'managements', 'gi', 'flase', 'nondescript', 'coped', 'bang', 'liberally', 'treated', 'gauge', 'stretches', 'widen', 'satisfaction', 'tidy', 'vertically', 'flatten', 'offset', 'elevens', 'stretch', 'meets', 'broaden', 'proposals', 'equals', 'maximise', 'plant', 'rays', 'spreadsheet', 'accessory', 'interpretation', 'flower', 'wondered', 'peoplell', 'false', 'costings', 'teamwork', 'evaluated', 'couldve', 'defi', 'leadership', 'bath', 'clicks', 'premium', 'concludes', 'accept', 'fundamental', 'costing', 'fail', 'roughly', 'compares', 'increased']
+this file includes the tf-idf scores for 138 scenario-based meetings
+For each meeting, the tf-idf scores are computed by comparing this meeting w.r.t other scenario-based 
+meetings esxcept the meetins with the same order in their bloks.
+************************['meet_84', 'meet_85', 'meet_86', 'meet_87']*************************************
+meet_84
+*****************
+candidate = ['ratty', 'mousey', 'webbed', 'whiskers', 'wombat', 'japanamation', 'nittygritty', 'kitty', 'cheeky', 'shark', 'nodding', 'minut', 'thataway', 'prolong', 'stead', 'cachet', 'kittycat', 'cowards', 'whisper', 'markup', 'representational', 'swim', 'fish', 'rat', 'tail', 'homework', 'bunny', 'themed', 'coordinated', 'maths', 'mouth', 'ears', 'literate', 'pets', 'originality', 'superfluous', 'cats', 'rabbit', 'awful', 'foot', 'userfriendliness', 'argh', 'training', 'shoulder', 'acquainted', 'trendiness', 'hiding', 'freedom', 'ear', 'steph']
+meet_85
+*****************
+candidate = ['ages', 'composer', 'ozzy', 'extraneous', 'reparable', 'dislike', 'revolutionised', 'incidentally', 'outsmart', 'net', 'hundreds', 'simultaneous', 'grandchild', 'climb', 'composes', 'resolutions', 'depen', 'succession', 'devote', 'platform', 'financi', 'tray', 'osbournes', 'fastforward', 'entertainment', 'hill', 'resume', 'segregated', 'longterm', 'whoop', 'tod', 'brains', 'extraordinarily', 'realm', 'preferencesyeah', 'miles', 'liable', 'osbourne', 'reenvision', 'growth', 'whatre', 'hmmmm', 'cycle', 'objecting', 'mortgages', 'breakage', 'capacities', 'productions', 'patient', 'pipeline']
+meet_86
+*****************
+candidate = ['florence', 'catwalks', 'cloak', 'fabrics', 'appearing', 'saver', 'squeezing', 'delegate', 'sedentary', 'tips', 'duplication', 'substances', 'arranging', 'nearest', 'tac', 'fanciful', 'dress', 'misspelled', 'gel', 'investigated', 'spongiest', 'ec', 'fruitwise', 'pence', 'misplace', 'refashion', 'workability', 'damaging', 'shiny', 'selfstimulating', 'oriented', 'strengths', 'approved', 'patterned', 'frontrunners', 'streamline', 'spaced', 'reminiscent', 'gem', 'activity', 'enclose', 'innards', 'flavours', 'sniff', 'cov', 'sarh', 'sara', 'mouldable', 'sleeves', 'titaniums']
+meet_87
+*****************
+candidate = ['sculptures', 'stalk', 'compass', 'dough', 'party', 'heavily', 'instinct', 'chunk', 'polarity', 'grooves', 'restraints', 'touchyfeely', 'arrangement', 'abstraction', 'stephs', 'spelling', 'reinforced', 'ifs', 'adhere', 'toy', 'imprinted', 'curliness', 'involving', 'purely', 'tire', 'photographs', 'rounder', 'baroque', 'melissa', 'fripperies', 'satisfaction', 'halfway', 'blob', 'envisioned', 'ideals', 'enviro', 'calculated', 'chunkiness', 'onoffs', 'false', 'spreadsheet', 'ice', 'molded', 'quirky', 'ran', 'childs', 'identifiable', 'ef', 'rigid', 'attachment']
+************************['meet_88', 'meet_89', 'meet_90', 'meet_91']*************************************
+meet_88
+*****************
+candidate = ['dogs', 'affectionate', 'mutually', 'pockets', 'rightly', 'miniature', 'depart', 'dachshund', 'alastair', 'jungle', 'existence', 'menagerie', 'littered', 'folks', 'dripper', 'robin', 'daughters', 'tangling', 'conceptional', 'idiot', 'loyal', 'fish', 'bash', 'exclusive', 'pets', 'characters', 'supposedly', 'wishes', 'prove', 'overhead', 'inst', 'badly', 'overheads', 'winding', 'sat', 'handing', 'trendier', 'louisa', 'mun', 'maintenance', 'plants', 'holiday', 'cartoon', 'projecting', 'devise', 'dying', 'smiley', 'training', 'sensible', 'yourselves']
+meet_89
+*****************
+candidate = ['dispense', 'dolby', 'bypass', 'tuned', 'nines', 'connects', 'path', 'inoperable', 'involves', 'pref', 'splash', 'circumstances', 'expanding', 'revealed', 'facilitates', 'apogee', 'slee', 'researched', 'operable', 'enabled', 'boil', 'recogniti', 'proportion', 'preferred', 'receptive', 'buzzes', 'tellies', 'requisites', 'concentrated', 'dated', 'dur', 'endanger', 'caters', 'blackpool', 'flier', 'sugges', 'danger', 'progressed', 'suppl', 'kettle', 'expansion', 'youn', 'forestalled', 'whis', 'catering', 'frustration', 'tuner', 'louisa', 'surround', 'flicking']
+meet_90
+*****************
+candidate = ['kit', 'triangular', 'hating', 'imaginations', 'ambiguity', 'badging', 'quickness', 'wishing', 'req', 'sizable', 'mint', 'wackier', 'clash', 'pliable', 'rambling', 'caboodle', 'cheesed', 'viewpoint', 'supplies', 'secondary', 'bearings', 'misdirect', 'affecting', 'duty', 'timescale', 'visavis', 'bulges', 'skipping', 'thingd', 'swish', 'discounted', 'informat', 'preclude', 'goods', 'sleekness', 'miracles', 'reckoning', 'wacky', 'replying', 'torches', 'badge', 'specialist', 'plasticine', 'jo', 'compete', 'segments', 'parrot', 'courgette', 'moulds', 'exactl']
+meet_91
+*****************
+candidate = ['profitability', 'stayed', 'woulda', 'debate', 'arbitrary', 'spacecraft', 'sevens', 'sens', 'plu', 'fashionability', 'senor', 'formulated', 'snag', 'chi', 'rubberiness', 'sis', 'slideaway', 'rerate', 'summery', 'botched', 'debug', 'acting', 'assumed', 'drats', 'rates', 'hum', 'correction', 'shade', 'disjointed', 'leaderships', 'satisfaction', 'tutor', 'curtain', 'splits', 'edging', 'stickon', 'kis', 'database', 'comput', 'alice', 'bloggs', 'demonstrates', 'pel', 'restrictive', 'framed', 'sneaky', 'library', 'fulfilling', 'bucket', 'fitted']
+************************['meet_92', 'meet_93', 'meet_94', 'meet_95']*************************************
+meet_92
+*****************
+candidate = ['elk', 'dogs', 'landed', 'teambuilding', 'scotland', 'humans', 'antlers', 'moose', 'peacock', 'enjoying', 'heathers', 'buzzing', 'sociable', 'gorgeous', 'cows', 'creature', 'vicious', 'police', 'defend', 'shellshaped', 'seeingeye', 'terrain', 'lover', 'pointier', 'spindly', 'herbivore', 'pinocchio', 'charac', 'remedy', 'majestic', 'harsh', 'alrighty', 'yesterday', 'companion', 'bodies', 'snow', 'march', 'enemies', 'expressing', 'underway', 'experiences', 'shapely', 'lon', 'deer', 'holly', 'cartoon', 'sheep', 'awkward', 'attempt', 'overcome']
+meet_93
+*****************
+candidate = ['entertainment', 'shapememory', 'profitable', 'alloys', 'impaired', 'selftimed', 'machinery', 'metals', 'reception', 'poppys', 'fam', 'force', 'concise', 'employ', 'melt', 'multitude', 'explosion', 'labourintensive', 'extreme', 'selfdestructible', 'faint', 'inex', 'accessories', 'slightest', 'gadgety', 'timetables', 'preferable', 'arthritis', 'diagram', 'turnover', 'furthering', 'sucking', 'reused', 'obtainable', 'apologise', 'investi', 'channelchangers', 'thumbmasters', 'ages', 'screws', 'deconstructed', 'youngest', 'minimising', 'banner', 'generations', 'adhesive', 'repeti', 'buzz', 'recycling', 'phosphorescent']
+meet_94
+*****************
+candidate = ['grapes', 'handpowered', 'jarring', 'protective', 'dip', 'revitalises', 'shoved', 'ploy', 'frontwards', 'capacitors', 'clipon', 'clusters', 'animalbased', 'slidy', 'instant', 'resonators', 'advanc', 'york', 'causing', 'mandatorily', 'innards', 'protecting', 'probable', 'purses', 'pictured', 'minima', 'olives', 'perha', 'encapsulating', 'kinetety', 'seed', 'picturing', 'cluster', 'clutter', 'shorter', 'renewable', 'emphasises', 'transformed', 'translucent', 'coated', 'cranking', 'draf', 'capacit', 'textual', 'kitchenware', 'flex', 'tastes', 'inp', 'fashionwatchers', 'torches']
+meet_95
+*****************
+candidate = ['vanilla', 'potatos', 'metallicy', 'editing', 'palmheld', 'gue', 'plu', 'settled', 'oof', 'veggies', 'firmly', 'stayed', 'spon', 'blends', 'creativ', 'afforded', 'weighted', 'protoptype', 'chopped', 'girly', 'zeros', 'shakerstyley', 'hum', 'representing', 'positively', 'dada', 'gravity', 'metallic', 'glob', 'counted', 'pomegranates', 'celebrate', 'cri', 'visualise', 'scented', 'okays', 'helped', 'confronting', 'bounced', 'vanillas', 'vibra', 'quacking', 'halfway', 'anyw', 'snappy', 'alarms', 'wellsuited', 'satisfactory', 'flatter', 'mood']
+************************['meet_96', 'meet_97', 'meet_98', 'meet_99']*************************************
+meet_96
+*****************
+candidate = ['stability', 'whiting', 'wars', 'refers', 'instinctual', 'sphere', 'stabil', 'debusk', 'soda', 'detailing', 'hiya', 'partners', 'collecting', 'likewise', 'spherical', 'jutting', 'goround', 'strongest', 'acquaintance', 'experiences', 'onehanded', 'ballshaped', 'tex', 'association', 'universally', 'eliminates', 'prin', 'boat', 'corinne', 'fol', 'globally', 'shooting', 'stable', 'evident', 'prog', 'ryan', 'fatter', 'cased', 'nick', 'training', 'hinges', 'phases', 'accident', 'flipped', 'grand', 'lid', 'letting', 'manuel', 'hinge', 'located']
+meet_97
+*****************
+candidate = ['dislike', 'investment', 'usercentred', 'comparatively', 'compose', 'spef', 'engineercentred', 'incrementally', 'fel', 'slinky', 'sizewise', 'lan', 'serving', 'differs', 'alter', 'sufficiently', 'reset', 'dialects', 'twoinone', 'rect', 'flare', 'remotely', 'drunk', 'handbag', 'nightmare', 'hype', 'interiors', 'generations', 'pasted', 'summaries', 'premise', 'youngest', 'brick', 'orientated', 'updown', 'statue', 'gu', 'memorised', 'bulge', 'rarely', 'dictates', 'holster', 'variation', 'lamp', 'onehanded', 'causes', 'nearer', 'corinne', 'whatnot', 'verify']
+meet_98
+*****************
+candidate = ['grapefruit', 'gr', 'contr', 'ape', 'lure', 'greenish', 'explored', 'finest', 'citrus', 'finite', 'noncomplex', 'cloths', 'arizona', 'qualify', 'fruitminded', 'males', 'cranes', 'inconsistent', 'increasingly', 'refreshed', 'compli', 'lamination', 'affecting', 'bateer', 'antistress', 'sophistic', 'designwise', 'rundown', 'fya', 'nerves', 'verbal', 'bananaesque', 'bore', 'stereotypically', 'corrine', 'coverings', 'spongyfeeling', 'implied', 'exclude', 'underside', 'bananashaped', 'plasticky', 'devised', 'provides', 'amplify', 'amplifies', 'port', 'mee', 'nothings', 'backed']
+meet_99
+*****************
+candidate = ['suitcases', 'luggage', 'carmen', 'employees', 'stole', 'evaluations', 'truth', 'itsel', 'lovers', 'flimsy', 'floppy', 'solely', 'forced', 'fiasco', 'antitheft', 'pray', 'satisfaction', 'betcha', 'noncommittal', 'incom', 'redesigned', 'proximity', 'shabby', 'consumerism', 'boys', 'miranda', 'stolen', 'calculate', 'solved', 'ran', 'teamwork', 'leadership', 'screaming', 'simpl', 'heck', 'angular', 'completed', 'brushed', 'false', 'dividing', 'anti', 'chrome', 'evaluated', 'glue', 'detract', 'quid', 'mahogany', 'predominant', 'chiponprint', 'weak']
+************************['meet_112', 'meet_113', 'meet_114', 'meet_115']*************************************
+meet_112
+*****************
+candidate = ['garfield', 'aquaintance', 'dolphin', 'maximal', 'swordfish', 'skinny', 'haunted', 'administrator', 'attend', 'meat', 'frank', 'hired', 'experiences', 'butts', 'sprayed', 'innocent', 'nose', 'acquaintance', 'indications', 'stadium', 'bart', 'sheep', 'waterproof', 'tail', 'sir', 'blocked', 'operates', 'fault', 'cultures', 'downstairs', 'flaws', 'training', 'lives', 'characteristic', 'visit', 'rabbit', 'phases', 'capture', 'stripe', 'cats', 'eraser', 'leads', 'street', 'paid', 'typically', 'mote', 'disappear', 'status', 'independent', 'drag']
+meet_113
+*****************
+candidate = ['ages', 'conditioning', 'tended', 'questioned', 'air', 'voted', 'spef', 'boost', 'perf', 'remains', 'explains', 'attent', 'wing', 'emphasised', 'ponnen', 'gots', 'lunchbreak', 'determines', 'failing', 'astonishing', 'keychain', 'preferred', 'tranmi', 'holland', 'observed', 'conductive', 'onetime', 'tons', 'ringing', 'relevancy', 'prese', 'disks', 'soo', 'skyhigh', 'van', 'ghost', 'gettable', 'fancylooking', 'caused', 'rise', 'upcoming', 'scratches', 'population', 'manner', 'typically', 'dumb', 'freek', 'gained', 'ol', 'greatly']
+meet_114
+*****************
+candidate = ['trendwatchers', 'telephoneshaped', 'greyblack', 'advise', 'chipset', 'consulted', 'writings', 'advised', 'laying', 'grandfather', 'grandkids', 'possib', 'woodcoloured', 'trendwatcher', 'editions', 'carefully', 'distributed', 'yield', 'signifi', 'usabili', 'sended', 'antislip', 'lefties', 'deployed', 'enquetes', 'lineup', 'shifting', 'woodlike', 'upside', 'encounter', 'enjoyed', 'symmetrical', 'grandfathers', 'surveys', 'swing', 'featured', 'preparation', 'folders', 'reload', 'loading', 'greatly', 'lies', 'exclusive', 'prevent', 'sig', 'grandmothers', 'blend', 'eyecatching', 'subtitle', 'trendwatch']
+meet_115
+*****************
+candidate = ['flipover', 'anyhow', 'failed', 'party', 'twendag', 'refocus', 'compensate', 'crop', 'errors', 'richard', 'recognability', 'selectors', 'counted', 'flippers', 'mediates', 'sms', 'interfa', 'volumedown', 'behi', 'richards', 'dodgy', 'cri', 'champagne', 'satisfaction', 'shif', 'decadent', 'disappears', 'poland', 'traffic', 'plusminus', 'polish', 'sieven', 'frightening', 'neely', 'convincing', 'shifting', 'calculate', 'supplier', 'scrollbuttons', 'nay', 'cal', 'private', 'rigid', 'stated', 'influences', 'ass', 'learnability', 'structured', 'thingies', 'argument']
+************************['meet_116', 'meet_117', 'meet_118', 'meet_119']*************************************
+meet_116
+*****************
+candidate = ['pig', 'ciao', 'dren', 'etchy', 'worm', 'typed', 'dinosaurs', 'fantasy', 'opem', 'donkey', 'uniquer', 'kidproof', 'shna', 'crashing', 'fish', 'sheep', 'fault', 'cake', 'water', 'elephant', 'strength', 'edit', 'thickness', 'calculation', 'snake', 'painting', 'ground', 'erased', 'lives', 'lonely', 'slowly', 'fragile', 'paul', 'projection', 'fu', 'fir', 'smartboards', 'animal', 'europe', 'effects', 'width', 'exa', 'fold', 'dog', 'cat', 'introduction', 'touchscreen', 'spe', 'icon', 'cr']
+meet_117
+*****************
+candidate = ['surname', 'zee', 'net', 'statistical', 'martijn', 'damman', 'wiezer', 'connecting', 'alr', 'connects', 'sur', 'surfed', 'toda', 'abbing', 'subcomponent', 'wies', 'educated', 'meal', 'teletec', 'referenced', 'peo', 'jens', 'active', 'invisible', 'imac', 'outdated', 'univ', 'fed', 'handles', 'clients', 'agre', 'standardised', 'agrees', 'configuring', 'presu', 'receptor', 'coke', 'popularity', 'fonts', 'blink', 'favourites', 'didn', 'browser', 'mustnt', 'hanging', 'layers', 'reds', 'beneath', 'er', 'scream']
+meet_118
+*****************
+candidate = ['italy', 'olden', 'pulse', 'fron', 'lecture', 'trans', 'curving', 'staying', 'halfs', 'france', 'meaningful', 'fluff', 'technolo', 'resonators', 'fitsinthehand', 'isn', 'accu', 'ordered', 'pari', 'trendwatcher', 'mib', 'dz', 'packet', 'scrollb', 'como', 'cornered', 'bonjour', 'tastes', 'spong', 'neith', 'ldc', 'stressball', 'voca', 'squarelike', 'cho', 'spongeball', 'scrollable', 'fashionwatchers', 'sponge', 'backlights', 'prob', 'indoors', 'gaming', 'sk', 'webpage', 'detected', 'expe', 'recommended', 'ka', 'chances']
+meet_119
+*****************
+candidate = ['learnable', 'tidin', 'homestation', 'entrance', 'scart', 'tudum', 'edited', 'telete', 'whiny', 'italians', 'tudumm', 'slows', 'fancys', 'attracts', 'numpad', 'prich', 'chitchat', 'crit', 'innovativity', 'blackboard', 'beautifuls', 'calculated', 'semitransparent', 'bacal', 'lightings', 'minesweeper', 'learnables', 'crea', 'numpads', 'wins', 'claps', 'chechecheche', 'extern', 'yel', 'seek', 'resi', 'boomboaringbing', 'evela', 'untitled', 'tomtidom', 'nonrubber', 'bomb', 'backlights', 'leadership', 'subjective', 'avera', 'counting', 'plant', 'horrible', 'lucky']
+************************['meet_120', 'meet_121', 'meet_122', 'meet_123']*************************************
+meet_120
+*****************
+candidate = ['dolphin', 'britain', 'dinosaur', 'namely', 'seal', 'beaver', 'talent', 'max', 'neck', 'dinos', 'thingsll', 'charis', 'instruct', 'numerals', 'alrighty', 'ross', 'acronyms', 'wings', 'est', 'ladies', 'rabbits', 'pie', 'turtle', 'snail', 'segments', 'tall', 'bunny', 'tail', 'flap', 'presumed', 'widths', 'sheep', 'legs', 'mouth', 'panasonic', 'giraffe', 'rabbit', 'phases', 'characteristic', 'pleasing', 'rise', 'ping', 'training', 'intelligence', 'acquainted', 'offices', 'poor', 'eraser', 'consists', 'intelligent']
+meet_121
+*****************
+candidate = ['sub', 'precies', 'swahili', 'post', 'ver', 'subcomponent', 'eie', 'percentages', 'possess', 'appliance', 'smoking', 'misschien', 'tj', 'simpsons', 'forties', 'announced', 'imple', 'ter', 'goed', 'senden', 'coatings', 'perf', 'pref', 'mounted', 'fj', 'alienate', 'mission', 'directs', 'yu', 'tran', 'denni', 'transported', 'minimalized', 'postpone', 'centred', 'medsa', 'codelike', 'charted', 'secs', 'signalled', 'perce', 'buttes', 'endangers', 'treasure', 'shu', 'matically', 'buttonless', 'anon', 'refill', 'collides']
+meet_122
+*****************
+candidate = ['cpu', 'tissue', 'ding', 'coordinations', 'advised', 'accompanying', 'woods', 'requiring', 'overheard', 'pingin', 'dive', 'dinge', 'grease', 'greasy', 'subtracted', 'badg', 'appearing', 'beg', 'arou', 'supermarket', 'renaissance', 'consistency', 'pinging', 'medieval', 'pair', 'apar', 'maroon', 'swords', 'microph', 'autumn', 'sponge', 'maker', 'mount', 'projecting', 'cleaning', 'concluded', 'reds', 'elaborated', 'peopl', 'glass', 'damage', 'sim', 'severely', 'lasting', 'loops', 'facilitate', 'scissors', 'plugging', 'wraps', 'determined']
+meet_123
+*****************
+candidate = ['twos', 'knop', 'deadlines', 'qualitati', 'surprise', 'nigger', 'threes', 'eno', 'tending', 'expectations', 'plotters', 'mankind', 'dissatisfy', 'simulate', 'refa', 'rearrange', 'enthusiastic', 'commence', 'ema', 'shots', 'champagne', 'numerous', 'celebra', 'cursor', 'played', 'convinc', 'party', 'claps', 'solitaire', 'death', 'elderl', 'qualitative', 'judge', 'column', 'avail', 'reevaluate', 'peace', 'false', 'calculate', 'overwhelmed', 'celebration', 'peg', 'prob', 'sideways', 'evaluated', 'fucking', 'managed', 'satisfy', 'bon', 'doodle']
+this file includes the tf-idf scores for 138 scenario-based meetings
+For each meeting, the tf-idf scores are computed by comparing this meeting w.r.t other scenario-based 
+meetings esxcept the meetins with the same order in their bloks.
+************************['meet_124', 'meet_125', 'meet_126', 'meet_127']*************************************
+meet_124
+*****************
+candidate = ['gum', 'kangaroo', 'fins', 'fox', 'dinosaur', 'toolbar', 'firefox', 'cuddly', 'interview', 'neck', 'deactivates', 'defend', 'gigantic', 'julian', 'tank', 'extendible', 'acquai', 'industrati', 'niels', 'nails', 'forw', 'featur', 'mole', 'stumpy', 'acquaintance', 'turtle', 'legs', 'spots', 'widths', 'ears', 'tail', 'multimedia', 'dude', 'dismissed', 'shortcomings', 'giraffes', 'reserve', 'supported', 'preparation', 'deactivate', 'pets', 'giraffe', 'practice', 'media', 'pet', 'rabbit', 'applications', 'records', 'training', 'assumption']
+meet_125
+*****************
+candidate = ['bass', 'newsflash', 'equaliser', 'lunchbreak', 'veronica', 'autoseek', 'knees', 'decoder', 'middl', 'tru', 'colin', 'gathered', 'observing', 'dislike', 'fashional', 'sucky', 'bent', 'disliked', 'flapped', 'temporal', 'doch', 'improvise', 'functon', 'equ', 'reorganise', 'encounters', 'communicates', 'scanning', 'bars', 'certin', 'sensitivity', 'rtl', 'functi', 'woa', 'interation', 'separation', 'tar', 'yh', 'cursors', 'receiv', 'boosted', 'protocol', 'transformer', 'spatial', 'selfdestruct', 'vis', 'intergrate', 'litten', 'newsfla', 'swaps']
+meet_126
+*****************
+candidate = ['spongey', 'colourblind', 'popup', 'sketches', 'dire', 'spicy', 'luxurous', 'scandinavia', 'laying', 'watchers', 'daring', 'fyoo', 'underwater', 'auto', 'amauto', 'girlish', 'blues', 'foreground', 'kneipgatt', 'bzz', 'cube', 'toddlers', 'palette', 'thngs', 'poo', 'instrument', 'submarine', 'wierd', 'ergonomical', 'semething', 'pocketphone', 'aspectw', 'crux', 'esk', 'bl', 'ratios', 'steady', 'samsung', 'bubble', 'eah', 'hells', 'developments', 'adjustable', 'objects', 'adv', 'singly', 'kinetics', 'clipart', 'confirmation', 'technolog']
+meet_127
+*****************
+candidate = ['spongelike', 'beamer', 'reversed', 'detector', 'speckles', 'liberty', 'assertive', 'stressed', 'horizontals', 'chunks', 'selects', 'oof', 'relax', 'sour', 'hypers', 'democratic', 'overpaint', 'bummer', 'creativ', 'opera', 'woo', 'tempo', 'disturbed', 'endlessly', 'str', 'slanted', 'integrateds', 'doubleclick', 'miscalculated', 'diss', 'acne', 'failed', 'celebrate', 'playfulness', 'bizarre', 'chill', 'initials', 'intreg', 'limiteded', 'simulates', 'redesigned', 'dissing', 'recalibration', 'underline', 'miracle', 'candle', 'campfire', 'conserving', 'wax', 'purdy']
+************************['meet_128', 'meet_129', 'meet_130', 'meet_131']*************************************
+meet_128
+*****************
+candidate = ['lion', 'wolfs', 'simba', 'technicalwise', 'orc', 'acquaintance', 'pork', 'hero', 'miniature', 'teenage', 'frog', 'juergen', 'smiling', 'toffs', 'king', 'stoned', 'pictionary', 'youself', 'turtles', 'electrocuted', 'ultra', 'mutant', 'pha', 'ooph', 'pie', 'selfish', 'turtle', 'widths', 'join', 'ears', 'bloody', 'jurgen', 'matrix', 'realtime', 'mouth', 'twen', 'fift', 'legs', 'mockups', 'sooner', 'hair', 'ambitious', 'rabbit', 'dig', 'danny', 'training', 'impressive', 'janus', 'fly', 'elephant']
+meet_129
+*****************
+candidate = ['firmware', 'hundreds', 'placeholder', 'partial', 'variables', 'weigh', 'grandparent', 'hierarch', 'pushable', 'panting', 'funtionability', 'warn', 'teev', 'overbuild', 'exave', 'subfunctions', 'xdk', 'subitems', 'hierarchy', 'reacting', 'scaling', 'revenue', 'buttle', 'firewire', 'applet', 'troublesome', 'cupholder', 'viewed', 'prush', 'abut', 'subcomponent', 'varia', 'repo', 'processed', 'ser', 'weighing', 'respondents', 'synchronized', 'deskt', 'jirun', 'dissected', 'hangup', 'hypothetically', 'failure', 'passwords', 'meanwhile', 'receiving', 'updated', 'outdated', 'violent']
+meet_130
+*****************
+candidate = ['logon', 'threed', 'teletubbies', 'secondary', 'bendable', 'spins', 'hung', 'spongeball', 'cares', 'jerome', 'unplus', 'firs', 'lord', 'comeup', 'touchscreens', 'telephon', 'threedigit', 'aku', 'emerge', 'partnering', 'films', 'citizens', 'showview', 'slamming', 'ronald', 'amuse', 'mockup', 'backandforth', 'nob', 'tra', 'dids', 'sunlight', 'friday', 'recon', 'benchmarking', 'advisor', 'xp', 'buts', 'ipac', 'spss', 'blunt', 'budgetwise', 'jarek', 'franz', 'cartoons', 'float', 'sex', 'college', 'korea', 'benchmarker']
+meet_131
+*****************
+candidate = ['daniel', 'crappy', 'weemote', 'bumps', 'singlecurves', 'freaks', 'eval', 'bed', 'doubleclick', 'advisory', 'celebrate', 'hyperlink', 'party', 'jane', 'scanner', 'vers', 'unstructured', 'eva', 'almo', 'unsatisfied', 'bake', 'lea', 'noi', 'kine', 'fluidly', 'valued', 'doublecurve', 'multilux', 'arcs', 'mai', 'lifecycle', 'youthful', 'directur', 'acce', 'fil', 'fool', 'storyboard', 'crit', 'static', 'leadershi', 'disrespect', 'yikes', 'promotion', 'acco', 'overlaying', 'paren', 'chairman', 'metallic', 'flipboard', 'enthusiastic']
+************************['meet_132', 'meet_133', 'meet_134', 'meet_135']*************************************
+meet_132
+*****************
+candidate = ['piranha', 'acquaintance', 'experiences', 'sheets', 'crying', 'kemoro', 'toolbar', 'gadgetness', 'wasn', 'bitch', 'ahmet', 'dang', 'slap', 'worldwide', 'ugl', 'oje', 'trendly', 'pictionary', 'darwin', 'restart', 'gogors', 'joc', 'cow', 'forehead', 'puttin', 'romo', 'martin', 'characteris', 'bingwings', 'grouped', 'xbk', 'bird', 'teeth', 'birds', 'joost', 'antek', 'widths', 'fish', 'penguin', 'guido', 'ugliness', 'annoy', 'wishes', 'slower', 'blanks', 'opener', 'razor', 'specifi', 'aggressive', 'televis']
+meet_133
+*****************
+candidate = ['flights', 'candy', 'compose', 'presents', 'rarely', 'claim', 'stif', 'birthday', 'vase', 'lined', 'flipflap', 'motivated', 'zaps', 'bumper', 'forwarding', 'remotely', 'sai', 'willingness', 'reader', 'roun', 'endangers', 'batter', 'expen', 'holders', 'dozens', 'gay', 'standup', 'pace', 'dumped', 'buys', 'statue', 'claims', 'quoted', 'synched', 'likeable', 'rechargeab', 'digitising', 'entra', 'theys', 'distinctions', 'swapable', 'char', 'willingly', 'overwrite', 'rewind', 'opener', 'maarten', 'outdated', 'alessi', 'trendier']
+meet_134
+*****************
+candidate = ['bags', 'airbag', 'twotone', 'monogramme', 'nike', 'alf', 'rights', 'overdone', 'revolution', 'nineties', 'tef', 'sweaty', 'watchers', 'rubbled', 'bri', 'somethi', 'reaches', 'frag', 'stuf', 'greenish', 'grapes', 'subtlety', 'accent', 'symbolises', 'brushes', 'cartoonish', 'tooth', 'unanimously', 'resemblance', 'doubled', 'sem', 'layered', 'christs', 'diversity', 'nondepending', 'explicitly', 'eastpack', 'titaniums', 'wisely', 'killer', 'coo', 'slicker', 'democratically', 'proj', 'ceds', 'fon', 'electronical', 'shiny', 'homogeneous', 'specialty']
+meet_135
+*****************
+candidate = ['retrieval', 'unneeded', 'gi', 'rightmost', 'eva', 'hawaii', 'telete', 'implanted', 'app', 'fee', 'brighter', 'reevaluate', 'recei', 'scart', 'succeeded', 'underst', 'littler', 'carton', 'demotivating', 'sturdiness', 'voltages', 'needing', 'succeeds', 'grou', 'progr', 'aside', 'encrypted', 'surroundings', 'teens', 'champagne', 'bell', 'reanimate', 'uglier', 'kim', 'picky', 'neon', 'casting', 'leftmost', 'stumble', 'wai', 'innovated', 'calcula', 'darker', 'impl', 'tin', 'holer', 'retriever', 'antek', 'guido', 'spreadsheet']
+************************['meet_136', 'meet_137', 'meet_138', 'meet_139']*************************************
+meet_136
+*****************
+candidate = ['hedgehog', 'beast', 'hippo', 'pussy', 'pig', 'toothpick', 'installations', 'kangaroo', 'loosen', 'species', 'amazed', 'miaow', 'anger', 'terrific', 'circles', 'url', 'doc', 'beams', 'bal', 'dispatch', 'stan', 'teletubby', 'spirit', 'fantas', 'enjoyment', 'restore', 'grizzly', 'warned', 'worldwide', 'notate', 'smiles', 'palms', 'whiskers', 'precision', 'sesame', 'bird', 'boxy', 'culture', 'apparent', 'widths', 'plane', 'researches', 'precisely', 'legs', 'painful', 'released', 'jobs', 'rat', 'univ', 'accepts']
+meet_137
+*****************
+candidate = ['clickon', 'script', 'releases', 'tickertape', 'familiarity', 'usercentred', 'centred', 'clickable', 'concurrent', 'aspe', 'dislike', 'ticker', 'ze', 'deb', 'wie', 'ug', 'dumbest', 'wiped', 'rdss', 'usercentr', 'engineeringcentred', 'zeg', 'dat', 'dings', 'demanding', 'zaps', 'inverts', 'bleeps', 'differ', 'yip', 'ninetynine', 'nigh', 'summon', 'losers', 'vs', 'audi', 'belly', 'meanwhile', 'bic', 'competitor', 'indestructible', 'exaggerated', 'oc', 'rsis', 'centralise', 'familiarised', 'reject', 'consequences', 'sensible', 'irrelevant']
+meet_138
+*****************
+candidate = ['iron', 'packages', 'bendable', 'grind', 'nonremovable', 'aha', 'enti', 'ple', 'contradiction', 'credit', 'jogging', 'humour', 'touchpads', 'hol', 'otherwi', 'carve', 'wealthy', 'triangleshaped', 'ajax', 'betwe', 'donts', 'yis', 'kree', 'strongy', 'unbelievable', 'preserve', 'spray', 'gimmicks', 'regarded', 'agai', 'initiative', 'relaxing', 'togeth', 'dynamos', 'prerecorded', 'recalibrated', 'discmans', 'dust', 'acknowledgement', 'wei', 'pinball', 'worlds', 'lads', 'bottoms', 'stressy', 'contradictionary', 'filth', 'heh', 'cop', 'nai']
+meet_139
+*****************
+candidate = ['nils', 'titaniumcoloured', 'beamer', 'satisfaction', 'malfunctioning', 'osl', 'newly', 'sch', 'riot', 'operators', 'critic', 'brandaware', 'democratic', 'unacceptable', 'scrabbled', 'unrealistic', 'accountants', 'bedroom', 'disaster', 'amen', 'redesigning', 'crew', 'perspectives', 'suppress', 'plating', 'earned', 'redesigned', 'confront', 'chorus', 'satisfactory', 'stefan', 'physiotherapy', 'elementary', 'accountant', 'chatting', 'importing', 'papers', 'congratulate', 'resign', 'eval', 'fancyfeeling', 'goodlooking', 'hated', 'managers', 'teamwork', 'leadership', 'celebration', 'arc', 'paperwork', 'unusable']
+************************['meet_140', 'meet_141', 'meet_142', 'meet_143']*************************************
+meet_140
+*****************
+candidate = ['experiences', 'pictionary', 'bustfree', 'bird', 'parrot', 'negative', 'popped', 'popups', 'elephant', 'duck', 'painting', 'whoo', 'barely', 'ish', 'eraser', 'ea', 'kickoff', 'animal', 'bleep', 'recorder', 'broke', 'shit', 'distinctive', 'indicates', 'dropped', 'positive', 'weeks', 'satellite', 'influence', 'weight', 'format', 'compatible', 'paint', 'convenient', 'corner', 'week', 'blank', 'experience', 'radio', 'website', 'heavy', 'happen', 'userfriendly', 'opening', 'couch', 'goal', 'happens', 'favourite', 'strange', 'detailed']
+meet_141
+*****************
+candidate = ['subcomponents', 'disliked', 'penlight', 'featu', 'selections', 'lunchbreak', 'labtest', 'updown', 'johan', 'quotes', 'incre', 'vide', 'discarded', 'hallo', 'inclusive', 'dilemma', 'tele', 'bout', 'recognising', 'longlasting', 'unused', 'graphs', 'cords', 'leftright', 'bleep', 'swapping', 'graph', 'batterys', 'science', 'lab', 'aged', 'pitch', 'frustrations', 'spending', 'newer', 'operations', 'lasting', 'cordless', 'map', 'china', 'aimed', 'fuck', 'discovered', 'import', 'site', 'scared', 'influence', 'study', 'q', 'telephones']
+meet_142
+*****************
+candidate = ['burst', 'supermarket', 'handshaped', 'electrics', 'trendwatchers', 'unbelievable', 'devel', 'thoughtful', 'cities', 'pinball', 'quadrants', 'nintendo', 'pistol', 'rich', 'mat', 'flower', 'edges', 'minimally', 'everyth', 'loaded', 'regu', 'squeeze', 'dr', 'playstation', 'samples', 'trigger', 'gun', 'fuck', 'joysticks', 'cookie', 'indication', 'scrollwheels', 'newer', 'icons', 'uhuh', 'paris', 'tw', 'division', 'clothes', 'manipulate', 'shoes', 'letters', 'milan', 'investigation', 'discovered', 'wheels', 'cetera', 'lcds', 'concepts', 'recommend']
+meet_143
+*****************
+candidate = ['rrs', 'techin', 'waited', 'drawboard', 'espe', 'uptodate', 'eva', 'orientates', 'dreaming', 'pillows', 'rating', 'false', 'calculate', 'thinked', 'criterias', 'negative', 'counting', 'joyst', 'contain', 'pistol', 'teamwork', 'leadership', 'statement', 'adva', 'anoth', 'feet', 'presentate', 'ate', 'slideshow', 'trendwatch', 'chiponprint', 'discount', 'scrollbutton', 'aimed', 'caused', 'gun', 'techno', 'none', 'uhuh', 'monitor', 'creativity', 'criteria', 'uncurved', 'compare', 'beer', 'food', 'discussions', 'strategy', 'scrollwheels', 'count']
+************************['meet_144', 'meet_145', 'meet_146', 'meet_147']*************************************
+meet_144
+*****************
+candidate = ['operability', 'interoperability', 'progressions', 'garden', 'pred', 'implementations', 'influations', 'equip', 'subset', 'neighbourhood', 'sidewords', 'kop', 'boston', 'sebastians', 'chapters', 'interoperabi', 'implementation', 'implicates', 'por', 'disturbing', 'vu', 'vendor', 'implemen', 'interopera', 'equipments', 'bunny', 'impossibilities', 'upcoming', 'clicking', 'pure', 'influences', 'fade', 'legs', 'mis', 'regu', 'highend', 'horse', 'diverse', 'trip', 'readonly', 'flores', 'rabbit', 'restriction', 'training', 'ruuds', 'internationally', 'presentate', 'generate', 'equipped', 'cont']
+meet_145
+*****************
+candidate = ['profitable', 'mielsen', 'rom', 'cheapy', 'decis', 'seemingly', 'scrapped', 'thirdmost', 'warn', 'exceptions', 'energysave', 'questioning', 'explicit', 'transmitted', 'stat', 'execute', 'costeffectiveness', 'amplitude', 'adapter', 'easeofuse', 'attractable', 'implepe', 'networks', 'scusi', 'vulnerab', 'energies', 'sli', 'respend', 'generates', 'energyfriendly', 'subfolder', 'obv', 'secondmost', 'mas', 'bsc', 'hiccups', 'decoder', 'antenna', 'peak', 'curio', 'techniques', 'lowcost', 'updated', 'hybrid', 'dealt', 'cased', 'separates', 'outdated', 'replacing', 'pulses']
+meet_146
+*****************
+candidate = ['slippery', 'siemens', 'scrollbar', 'punish', 'bongiorno', 'immedis', 'colourfuls', 'believes', 'watchers', 'conten', 'exch', 'thit', 'kinet', 'bananarama', 'daring', 'enclose', 'mockup', 'glatt', 'worlds', 'prediscussion', 'bahamas', 'absorbed', 'ext', 'dyn', 'activity', 'insane', 'onecurved', 'muten', 'tentel', 'cryptic', 'supplies', 'indica', 'unlogical', 'indicators', 'scrollheel', 'dynamos', 'supports', 'carpets', 'powering', 'kineti', 'retro', 'goods', 'logica', 'signs', 'supplementary', 'loving', 'postbank', 'gri', 'sebast', 'repeats']
+meet_147
+*****************
+candidate = ['tongue', 'ocr', 'champagne', 'tempered', 'yikes', 'moldable', 'appar', 'nameless', 'threes', 'disabling', 'reproduce', 'roos', 'executed', 'fig', 'exceeded', 'qua', 'promotion', 'crit', 'prono', 'tree', 'attracts', 'costed', 'writes', 'digitise', 'celebrate', 'radar', 'cycles', 'enhanced', 'satisfaction', 'privilege', 'onecoloured', 'calibrateds', 'bottle', 'distribute', 'thrill', 'specic', 'pronounce', 'offem', 'succe', 'calibration', 'gilders', 'private', 'prefers', 'doubting', 'flavour', 'novice', 'aligned', 'promoting', 'feat', 'eco']
+************************['meet_148', 'meet_149', 'meet_150', 'meet_151']*************************************
+meet_148
+*****************
+candidate = ['dolphin', 'nuclear', 'dirk', 'genius', 'meinfeld', 'highresponsive', 'tries', 'responsive', 'hobby', 'attending', 'teamworkers', 'beard', 'wastes', 'xavier', 'killing', 'efficiency', 'lowresponsive', 'worker', 'homes', 'hunts', 'coolest', 'pha', 'ocean', 'kills', 'ants', 'prey', 'juergens', 'kingsize', 'broer', 'wellthought', 'bomb', 'disabled', 'tiger', 'security', 'tail', 'smile', 'erasing', 'assignments', 'rational', 'illustrate', 'legs', 'seeking', 'doodling', 'smiley', 'elephant', 'freedom', 'animal', 'skills', 'ant', 'distinct']
+meet_149
+*****************
+candidate = ['faded', 'doublesided', 'penlites', 'slapon', 'configured', 'post', 'imple', 'kablouey', 'answered', 'grammeale', 'wasted', 'determines', 'remembers', 'understands', 'arabian', 'invoke', 'withi', 'draft', 'bond', 'differ', 'allo', 'applied', 'formatting', 'ripe', 'fadeproof', 'esque', 'tucked', 'penlite', 'stack', 'programmeab', 'interv', 'searches', 'delayed', 'posted', 'assu', 'undoable', 'accustomed', 'men', 'manageable', 'crashed', 'fade', 'deaf', 'recognises', 'noted', 'represented', 'serial', 'overcome', 'backside', 'solutions', 'mun']
+meet_150
+*****************
+candidate = ['edition', 'woods', 'chiquita', 'trek', 'phaser', 'shaken', 'edi', 'removeable', 'spen', 'fav', 'focussi', 'vative', 'softens', 'dep', 'ms', 'curving', 'appleshaped', 'disables', 'focussed', 'designy', 'yearend', 'leaner', 'aligns', 'sponsor', 'smoother', 'recover', 'inconvenience', 'sponsored', 'spaced', 'thingys', 'misaligned', 'hangs', 'expenses', 'rechargement', 'lacks', 'desc', 'whatd', 'editions', 'editi', 'torches', 'edges', 'focussing', 'doodle', 'deluxe', 'provision', 'basi', 'seasonal', 'accustomed', 'aligned', 'confirmation']
+meet_151
+*****************
+candidate = ['reactor', 'cook', 'affordable', 'spammed', 'poorly', 'fashi', 'div', 'nogo', 'previews', 'demolishing', 'overdiscussing', 'threes', 'recei', 'sucks', 'eighth', 'pinnits', 'lair', 'probab', 'teammates', 'sam', 'ohbut', 'prick', 'retire', 'thirds', 'exports', 'everybo', 'celebrate', 'bandwidth', 'adjourned', 'ruins', 'champagne', 'visualise', 'darker', 'permitted', 'handwriting', 'statements', 'deserves', 'ensure', 'wasting', 'jin', 'rcs', 'meaningless', 'eval', 'catchy', 'ruin', 'efficiently', 'rea', 'serial', 'sin', 'realtime']
